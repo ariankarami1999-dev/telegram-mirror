@@ -13992,6 +13992,74 @@
     ],
     "alonews": [
       {
+        "id": 119517,
+        "text": "👈\nآکسیوس:\nاحتمال حمله قریب‌الوقوع آمریکا به کوبا\n🔴\nتشدید تهدیدهای ترامپ و روبیو نشان می‌دهد که حمله به کوبا می‌تواند قریب‌الوقوع باشد.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-12T15:13:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119517_0_985c56d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119517"
+      },
+      {
+        "id": 119516,
+        "text": "👈\nحاج علی دبیر: تو جنگ بالای ۱۰۰تا موشک اطراف من خورد اما شهید نشیدم، اما من عاشق شهادتم\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-12T14:50:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119516_0_985c56d6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_119516_1_e8d29f2b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119516"
+      },
+      {
+        "id": 119515,
+        "text": "👈\nتانکر ترکز: امکان ایجاد مسیر جایگزین برای تنگه هرمز در خاک عمان وجود دارد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-12T14:32:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119515_0_985c56d6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_119515_1_e5b341f1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119515"
+      },
+      {
+        "id": 119514,
+        "text": "👈\nتورم در آمریکا 3.8% اعلام شد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-12T14:25:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119514_0_985c56d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119514"
+      },
+      {
         "id": 119513,
         "text": "👈\nجایزهٔ ۱۵ میلیون دلاری آمریکا برای مختل کردن سیستم مالی ایران\n🔴\nوزارت خارجهٔ آمریکا از برنامهٔ «پاداش برای عدالت» خود برای پرداخت تا سقف ۱۵ میلیون دلار به افراد همکار با این کشور، با هدف اختلال در سازوکارهای مالی سپاه پاسداران خبر داد.\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-12T14:07:36+00:00",
@@ -15538,23 +15606,23 @@
       }
     ]
   },
-  "last_update": "2026-05-12T14:11:00.017401+00:00",
+  "last_update": "2026-05-12T15:21:29.791674+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 904,
-    "total_media": 1132,
-    "total_files": 1132,
+    "total_posts": 908,
+    "total_media": 1138,
+    "total_files": 1138,
     "total_links": 192,
     "files_by_type": {
-      "image": 1057,
+      "image": 1063,
       "video": 68,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1132,
-    "existing_media_files": 1116,
-    "total_size_mb": 287.92,
-    "last_calculation": "2026-05-12T14:11:00.031119+00:00"
+    "referenced_files": 1138,
+    "existing_media_files": 1122,
+    "total_size_mb": 288.15,
+    "last_calculation": "2026-05-12T15:21:29.804931+00:00"
   }
 }
