@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 119590,
+        "text": "⭕️\nهشدار یک شهروند معمولی ایتالیایی به ایرانیان:\n🔴\nاشتباه ما ایتالیایی‌ها در سال ۱۹۴۶ را تکرار نکنید!\n✅\n@AloNews",
+        "date": "2026-05-12T19:50:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119590_0_f227d641.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_119590_1_908ecff5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119590"
+      },
+      {
+        "id": 119589,
+        "text": "👈\nعلی قلهکی: همراه اول به 4 میلیون نفر پیامک اینترنت پرو ارسال کرده اما تنها 450 هزار نفر آن را فعال کرده اند\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-12T19:49:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119589_0_f227d641.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_119589_1_d41a373c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119589"
+      },
+      {
+        "id": 119588,
+        "text": "👈\nوزیر اقتصاد: کسب‌وکارهایی که تعدیل نیرو نداشته باشند، از دولت تسهیلات می‌گیرند\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-12T19:46:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119588_0_f227d641.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119588"
+      },
+      {
         "id": 119587,
         "text": "👈\nوزیر اقتصاد: به صورت ناشناس در تجمعات شرکت می‌کردم!\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-12T19:44:11+00:00",
@@ -15577,83 +15630,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/119429"
-      },
-      {
-        "id": 119428,
-        "text": "👈\nرسایی: از نظر من باید با خانم‌های بی حجاب برخورد فرهنگی و انتظامی بشه\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-12T06:56:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119428_0_985c56d6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_119428_1_5c215bbc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119428"
-      },
-      {
-        "id": 119427,
-        "text": "👈\nسخنگوی ارتش اسرائیل، آویخای آدراعی، هشدار فوری به ساکنان ارزون، طیر دبّه، البازوریه و الحوش در لبنان صادر کرده است تا فوراً خانه‌های خود را تخلیه کرده و حداقل ۱۰۰۰ متر به سمت مناطق باز حرکت کنند، با اشاره به نقض آتش‌بس توسط حزب‌الله و هشدار اینکه هر کسی که در نزدیکی اعضا، تأسیسات یا تجهیزات حزب‌الله باشد در معرض خطر است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-12T06:47:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119427_0_985c56d6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_119427_1_5500d601.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119427"
-      },
-      {
-        "id": 119426,
-        "text": "👈\nعوستاد خوش چشم سری قبل گفت جنگ نمیشه اما شد، اینسری گفته جنگ میشه ظرف ۱هفته و باید ببینیم دوباره گلشعر گفته یا نه\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-12T06:43:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119426_0_985c56d6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_119426_1_d94314f3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119426"
       }
     ]
   },
-  "last_update": "2026-05-12T19:44:17.830302+00:00",
+  "last_update": "2026-05-12T19:52:13.510387+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1139,
-    "total_files": 1139,
+    "total_media": 1138,
+    "total_files": 1138,
     "total_links": 191,
     "files_by_type": {
-      "image": 1060,
+      "image": 1059,
       "video": 72,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1139,
-    "existing_media_files": 1123,
-    "total_size_mb": 315.92,
-    "last_calculation": "2026-05-12T19:44:17.840970+00:00"
+    "referenced_files": 1138,
+    "existing_media_files": 1122,
+    "total_size_mb": 322.21,
+    "last_calculation": "2026-05-12T19:52:13.523449+00:00"
   }
 }
