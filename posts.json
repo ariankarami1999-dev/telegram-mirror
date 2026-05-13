@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 119634,
+        "text": "👈\nترامپ ساعاتی پیش، نقشه کشور ونزوئلا را با طرح پرچم آمریکا و تیترِ «پنجاه‌و‌یکمین ایالت» پست کرد و سپس به یک خبرنگار فاکس نیوز گفت که در نظر دارد ونزوئلا را به عنوان ایالت 51ام آمریکا در سالگرد 250 سالگی آمریکا معرفی کند!\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-13T05:40:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119634_0_f227d641.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_119634_1_5fddc8ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119634"
+      },
+      {
+        "id": 119633,
+        "text": "👈\nکیهان : مذاکره کنیم جنگ میشه ، مذاکره نکنیم جنگ نمیشه!\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-13T05:36:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119633_0_f227d641.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119633"
+      },
+      {
+        "id": 119632,
+        "text": "👈\nنیویورک تایمز: ایران هنوز به ۳۰ سکوی موشکی از مجموع ۳۳ سکوی خود در حاشیه خلیج فارس دسترسی دارد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-13T05:32:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119632_0_f227d641.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119632"
+      },
+      {
         "id": 119631,
         "text": "👈\nتهران امشب رو ویبره بود\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-12T22:14:58+00:00",
@@ -15589,59 +15638,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/119456"
-      },
-      {
-        "id": 119455,
-        "text": "👈\nابراهیم رضایی، سخنگوی کمیسیون امنیت ملی مجلس : اگه دوباره به ایران حمله بشه، یکی از گزینه‌های روی میز می‌تونه غنی‌سازی ۹۰ درصدی اورانیوم باشه و این موضوع تو مجلس بررسی میشه!\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-12T09:23:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119455_0_985c56d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119455"
-      },
-      {
-        "id": 119454,
-        "text": "👈\nرویترز: به دلیل کمبود نفت، ژاپن چاپ بسته‌بندی مواد غذایی را به صورت سیاه‌وسفید آغاز کرده است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-12T09:17:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119454_0_985c56d6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_119454_1_aa2f7bee.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119454"
-      },
-      {
-        "id": 119453,
-        "text": "👈\nداده‌های ناوبری کپلر: ۸ کشتی روز دوشنبه از تنگه هرمز عبور کردند؛ ۵ کشتی از تنگه خارج و ۳ کشتی وارد شدند.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-12T09:10:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119453_0_985c56d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119453"
       }
     ]
   },
-  "last_update": "2026-05-13T04:07:56.384221+00:00",
+  "last_update": "2026-05-13T05:44:46.620273+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15657,7 +15657,7 @@
     },
     "referenced_files": 1140,
     "existing_media_files": 1124,
-    "total_size_mb": 309.85,
-    "last_calculation": "2026-05-13T04:07:56.397227+00:00"
+    "total_size_mb": 309.84,
+    "last_calculation": "2026-05-13T05:44:46.633336+00:00"
   }
 }
