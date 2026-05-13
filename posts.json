@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 119836,
+        "text": "👈\nمعین: مهدی تاج الکی میگه، من قرار نیست هیچ آهنگی واسه تیم فوتبال تو جام جهانی بخونم.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-13T23:11:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_119836_0_e1578b09.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_119836_1_e997a11f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/119836"
+      },
+      {
         "id": 119835,
         "text": "👈\nطبق گزارش رویترز، ایالات متحده و چین توافق کردند که هیچ کشوری نباید اجازه داشته باشد عوارض حمل و نقل در تنگه هرمز را دریافت کند.\n🔴\nوزیر امور خارجه چین، وانگ یی، و وزیر امور خارجه ایالات متحده، مارکو روبیو، این موضوع را در تماس تلفنی آوریل مورد بحث قرار دادند.\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-13T22:07:02+00:00",
@@ -15659,29 +15678,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/119705"
-      },
-      {
-        "id": 119704,
-        "text": "👈\nاپل به صورت رسمی اولین نمایندگی خودشو در افغانستان افتتاح کرد...\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-13T10:56:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119704_0_f227d641.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_119704_1_048a2c76.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119704"
       }
     ]
   },
-  "last_update": "2026-05-13T22:46:39.771778+00:00",
+  "last_update": "2026-05-13T23:58:31.679139+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15697,7 +15697,7 @@
     },
     "referenced_files": 1150,
     "existing_media_files": 1134,
-    "total_size_mb": 339.26,
-    "last_calculation": "2026-05-13T22:46:39.785954+00:00"
+    "total_size_mb": 339.3,
+    "last_calculation": "2026-05-13T23:58:31.692733+00:00"
   }
 }
