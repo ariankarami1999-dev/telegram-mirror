@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 120055,
+        "text": "🌐\nاینترنت رایگان و آزاد برای همه مردم\n⚡\nVPN رایگان\n⚡\nکانفیگ تست‌شده و پرسرعت\n⚡\nآپدیت روزانه\n⚡\nبدون قطعی و دردسر\n@NetaazaadVPN\n@NetaazaadVPN\nاینجا فقط وصل میشی و راحت استفاده میکنی\n🫡\n👇\n@NetaazaadVPN\n@NetaazaadVPN\n@NetaazaadVPN",
+        "date": "2026-05-14T22:59:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120055_0_c574b5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_120055_1_e849dd61.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120055"
+      },
+      {
+        "id": 120054,
+        "text": "🔴\nاحتمالا ویزا مهدی طارمی به علت خدمت در سپاه صادر نشود\n‼️\n@AloSport",
+        "date": "2026-05-14T22:59:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120054_0_c574b5dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_120054_1_325af97b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120054"
+      },
+      {
         "id": 120053,
         "text": "🔴\nفوری/ترامپ:\nنابودی نظامی ایران ادامه خواهد یافت‌‌\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-14T22:22:05+00:00",
@@ -15620,48 +15658,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/119931"
-      },
-      {
-        "id": 119930,
-        "text": "👈\nدقایقی قبل اسرائیل بازهم به لبنان حمله کرد\n✅\n@AloNews\nخبر جنگ.‌‌",
-        "date": "2026-05-14T12:54:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119930_0_e1578b09.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_119930_1_44f14c54.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119930"
-      },
-      {
-        "id": 119929,
-        "text": "👈\nوزیر خزانه‌داری آمریکا : ما رژیم رو عوض نکردیم، ولی خودِ رژیم عوض شد\n🔴\nترامپ هم بارها ادعا کرده، ما کارمون رو کردیم و عملاً رژیم عوض شده\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-14T12:46:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119929_0_e1578b09.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_119929_1_976c9621.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119929"
       }
     ]
   },
-  "last_update": "2026-05-14T22:56:26.882116+00:00",
+  "last_update": "2026-05-14T23:59:30.951026+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15669,15 +15669,15 @@
     "total_files": 1145,
     "total_links": 191,
     "files_by_type": {
-      "image": 1068,
-      "video": 70,
+      "image": 1070,
+      "video": 68,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1145,
     "existing_media_files": 1129,
-    "total_size_mb": 310.01,
-    "last_calculation": "2026-05-14T22:56:26.892775+00:00"
+    "total_size_mb": 301.33,
+    "last_calculation": "2026-05-14T23:59:30.964297+00:00"
   }
 }
