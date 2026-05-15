@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 120057,
+        "text": "👈\nاسرائیل در حملات بامداد امروز علیه حزب الله از سلاح فسفری استفاده کرد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-15T03:50:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120057_0_c574b5dc.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_120057_1_7281b839.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120057"
+      },
+      {
+        "id": 120056,
+        "text": "👈\nمجلس نمایندگان آمریکا برای سومین بار در تصویب قطعنامهای با هدف محدود کردن اختیارات رئیس‌جمهور در ارتباط با جنگ با ایران ناکام ماند‌‌\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-15T03:30:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120056_0_c574b5dc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120056"
+      },
+      {
         "id": 120055,
         "text": "🌐\nاینترنت رایگان و آزاد برای همه مردم\n⚡\nVPN رایگان\n⚡\nکانفیگ تست‌شده و پرسرعت\n⚡\nآپدیت روزانه\n⚡\nبدون قطعی و دردسر\n@NetaazaadVPN\n@NetaazaadVPN\nاینجا فقط وصل میشی و راحت استفاده میکنی\n🫡\n👇\n@NetaazaadVPN\n@NetaazaadVPN\n@NetaazaadVPN",
         "date": "2026-05-14T22:59:38+00:00",
@@ -15620,64 +15654,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/119933"
-      },
-      {
-        "id": 119932,
-        "text": "👈\nگوشیT1 \"ترامپ موبایل\" بعد از نزدیک یه سال تأخیر بالاخره داره عرضه میشه\n- یه گوشی طلایی ۴۹۹ دلاری با برند ترامپه که چیپ اسنپدراگون سری ۷، رم ۱۲ گیگ، حافظه ۵۱۲ گیگ و دوربین سه‌گانه ۵۰ مگاپیکسلی داره\n- به نظر میاد در اصل یه گوشی ساخت چین باشه که فقط مونتاژ نهاییشو تو آمریکا انجام دادن\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-14T13:03:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119932_0_e1578b09.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_119932_1_93756be6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119932"
-      },
-      {
-        "id": 119931,
-        "text": "👈\nتصویری پربازدید از رزمایش ۵روزه سپاه\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-14T12:56:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_119931_0_e1578b09.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_119931_1_032b8e88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/119931"
       }
     ]
   },
-  "last_update": "2026-05-15T02:43:21.577509+00:00",
+  "last_update": "2026-05-15T04:12:10.128296+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1145,
-    "total_files": 1145,
+    "total_media": 1144,
+    "total_files": 1144,
     "total_links": 191,
     "files_by_type": {
-      "image": 1070,
+      "image": 1069,
       "video": 68,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1145,
-    "existing_media_files": 1129,
-    "total_size_mb": 301.33,
-    "last_calculation": "2026-05-15T02:43:21.588010+00:00"
+    "referenced_files": 1144,
+    "existing_media_files": 1128,
+    "total_size_mb": 293.62,
+    "last_calculation": "2026-05-15T04:12:10.141733+00:00"
   }
 }
