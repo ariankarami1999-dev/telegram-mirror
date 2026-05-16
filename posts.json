@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 120502,
+        "text": "🔥\n💥\nاینترنت آزاد و رایگان\n🌐\n🚫\nتنها جایی که کانفیگ\nرایگان\nمیزاره\n⬇️\n⬇️\n@NetAazaadBot\n@NetAazaadBot\n⚠️\nهر ساعت 100گیگ شارژ میشه، رباتو داشته باشید تا مطلع بشید",
+        "date": "2026-05-16T22:13:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120502_0_3a345457.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_120502_1_8636ff9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120502"
+      },
+      {
         "id": 120500,
         "text": "👈\nمیخائیل اولیانوف، نماینده روسیه :\nکارشناسا میگن آمریکا و اسرائیل ممکنه به‌زودی دوباره به ایران حمله کنن\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-16T22:05:27+00:00",
@@ -15711,29 +15730,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/120383"
-      },
-      {
-        "id": 120382,
-        "text": "👈\nویدیو منتشرشده توسط ارتش آمریکا از عملیات کشتن ابوبلال المینوکی، نفر دوم داعش در نیجریه\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-16T12:39:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_120382_0_377b623a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_120382_1_a7ecefbd.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/120382"
       }
     ]
   },
-  "last_update": "2026-05-16T22:11:35.844949+00:00",
+  "last_update": "2026-05-16T23:27:12.449235+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15741,15 +15741,15 @@
     "total_files": 1163,
     "total_links": 191,
     "files_by_type": {
-      "image": 1082,
-      "video": 74,
+      "image": 1083,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1163,
     "existing_media_files": 1147,
-    "total_size_mb": 291.7,
-    "last_calculation": "2026-05-16T22:11:35.858747+00:00"
+    "total_size_mb": 290.04,
+    "last_calculation": "2026-05-16T23:27:12.462825+00:00"
   }
 }
