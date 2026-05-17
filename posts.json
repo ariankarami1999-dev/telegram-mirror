@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 120545,
+        "text": "👈\nاز چند ساعت گذشته بیش از دوازده فروند هواپیمای ترابری راهبردی C-17A گلوبمستر III نیروی هوایی آمریکا در حال ترک خاورمیانه و حرکت به سمت اروپا هستند.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-17T08:12:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120545_0_3a345457.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_120545_1_1ba98742.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120545"
+      },
+      {
+        "id": 120544,
+        "text": "👈\nفارس: محمدباقر قالیباف، نمایندۀ ویژۀ ایران در امور چین شد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-17T07:59:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120544_0_3a345457.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120544"
+      },
+      {
         "id": 120543,
         "text": "👈\nمعاون شرکت مخابرات ایران: دسترسی به اینترنت باید برای همه مردم فراهم باشد\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-17T07:55:52+00:00",
@@ -15696,56 +15730,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/120433"
-      },
-      {
-        "id": 120432,
-        "text": "👈\nکامران یوسف خبرنگار رسانه پاکستانی اکسپرس نیوز: سفر اعلام‌نشده وزیر کشور پاکستان به تهران، بخشی از تلاش آخر برای حصول توافق بین ایران و آمریکا است.\n🔴\nنقوی از معتمدان نزدیک فیلد مارشال (فرمانده ارتش پاکستان) است و یک ماه پیش نیز او را در سفر سه‌روزه‌اش به ایران همراهی کرده بود.\n🔴\nبا توجه به اینکه ترامپ پس از سفر پکن به واشنگتن بازگشته و در حال اندیشیدن به گام بعدی است، سفر وزیر کشور پاکستان حیاتی تلقی می‌شود.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-16T15:58:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_120432_0_3a345457.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/120432"
-      },
-      {
-        "id": 120431,
-        "text": "👈\nشبکهٔ ۱۴ اسرائیل از شنیده‌شدن ۲ انفجار در الجلیل غربی خبر داد\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-16T15:55:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_120431_0_3a345457.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/120431"
       }
     ]
   },
-  "last_update": "2026-05-17T07:56:14.922266+00:00",
+  "last_update": "2026-05-17T08:15:24.216589+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1162,
-    "total_files": 1162,
+    "total_media": 1163,
+    "total_files": 1163,
     "total_links": 191,
     "files_by_type": {
-      "image": 1084,
+      "image": 1085,
       "video": 71,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1162,
-    "existing_media_files": 1146,
-    "total_size_mb": 280.08,
-    "last_calculation": "2026-05-17T07:56:14.935695+00:00"
+    "referenced_files": 1163,
+    "existing_media_files": 1147,
+    "total_size_mb": 280.14,
+    "last_calculation": "2026-05-17T08:15:24.230845+00:00"
   }
 }
