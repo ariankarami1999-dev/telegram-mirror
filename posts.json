@@ -13992,6 +13992,48 @@
     ],
     "alonews": [
       {
+        "id": 120673,
+        "text": "👈\nحمله‌های شدیدِ ارتش اسرائیل به جنوب لبنان\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-17T19:16:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120673_0_4824cf82.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_120673_1_07a75955.mp4"
+          },
+          {
+            "type": "video",
+            "file": "alonews_120673_2_e5498a30.mp4"
+          },
+          {
+            "type": "video",
+            "file": "alonews_120673_3_a64db2b4.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120673"
+      },
+      {
+        "id": 120671,
+        "text": "👈\nفیلد مارشال: ابوظبی به عربستان تعلق دارد؛ امارات ابوظبی را به عربستان تحویل دهد!\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-17T19:10:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120671_0_4824cf82.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120671"
+      },
+      {
         "id": 120670,
         "text": "👈\nتانکر ترکرز: در روزهای اخیر، سه نفتکش خالی از محموله که تحریمهای آمریکا شامل حال آنهاست، از خط محاصره نیروی دریایی ایالات متحده عبور کرده و وارد محدوده مورد نظر شدند.\n🔴\nیکی از آنها سامانه AIS خود را برای مدت کوتاهی خاموش کرده بود.\n🔴\nدیگری پرچم روسیه را برافراشته است.\n🔴\nسومی نیز در امتداد خط ساحلی عمان حرکت کرد.\n🔴\nاین سه کشتی در مجموع ظرفیت حمل ۱.۹ میلیون بشکه نفت ایران را دارند.\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-17T19:00:52+00:00",
@@ -15648,60 +15690,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/120567"
-      },
-      {
-        "id": 120566,
-        "text": "👈\nبرخی منابع خبری از انفجارهای مهیب در پایتخت امارات خبر دادند ولی علت انفجارها مشخص نیست\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-17T10:12:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_120566_0_3a345457.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/120566"
-      },
-      {
-        "id": 120565,
-        "text": "👈\nنروژ مرفه ترین کشور جهان تو سال ۲۰۲۶ شد نروژ این جایگاه رو بخاطر درآمد عالی،وضعیت خوب مردم،آموزش،ثبات اقتصادی و اعتماد عمومی بدست آورد.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-17T10:06:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_120565_0_3a345457.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_120565_1_0f27a9bc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/120565"
       }
     ]
   },
-  "last_update": "2026-05-17T19:03:09.616611+00:00",
+  "last_update": "2026-05-17T19:22:19.074283+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1151,
-    "total_files": 1151,
+    "total_media": 1153,
+    "total_files": 1153,
     "total_links": 191,
     "files_by_type": {
-      "image": 1073,
-      "video": 71,
+      "image": 1072,
+      "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1151,
-    "existing_media_files": 1135,
-    "total_size_mb": 331.71,
-    "last_calculation": "2026-05-17T19:03:09.630058+00:00"
+    "referenced_files": 1153,
+    "existing_media_files": 1137,
+    "total_size_mb": 340.38,
+    "last_calculation": "2026-05-17T19:22:19.088059+00:00"
   }
 }
