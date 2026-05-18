@@ -1,7 +1,7 @@
-Last run: 2026-05-18 06:09:17 UTC
-Workflow: 26016608245
+Last run: 2026-05-18 08:03:46 UTC
+Workflow: 26021123754
 Repository: ariankarami1999-dev/telegram-mirror
 Validation: success
 Mirror success: true
-Media files: 1161
-Media size: 331M
+Media files: 1154
+Media size: 307M
