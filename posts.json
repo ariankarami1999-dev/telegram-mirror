@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 120726,
+        "text": "👈\nمترو هم پرو می‌شود / مترو تهران برای برخی افراد رایگان می‌شود\n🔴\nدر طرح پیشنهادی شورای شهر، گروه‌هایی مانند اصحاب رسانه، خبرنگاران، پیشکسوتان ورزشی، بازنشستگان لشکری و کشوری، امدادگران و داوطلبان جمعیت هلال‌احمر، افراد تحت پوشش کمیته امداد و دهک‌های درآمدی یک تا سه مشمول استفاده رایگان از حمل و نقل عمومی می شوند.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-18T03:33:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_120726_0_4824cf82.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_120726_1_863d9487.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/120726"
+      },
+      {
         "id": 120725,
         "text": "🔥\n💥\nاینترنت آزاد و رایگان\n🌐\n🚫\nتنها جایی که کانفیگ\nرایگان\nمیزاره\n⬇️\n⬇️\n@NetAazaadBot\n@NetAazaadBot\n⚠️\nهر ساعت 100گیگ شارژ میشه، رباتو داشته باشید تا مطلع بشید",
         "date": "2026-05-17T22:08:51+00:00",
@@ -15775,41 +15794,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/120598"
-      },
-      {
-        "id": 120597,
-        "text": "👈\nآکسیوس با استناد به اطلاعات طبقه‌بندی‌شده: کوبا ۳۰۰ پهپاد، عمدتا از روسیه و ایران خریداری کرده و در حال بررسی استفاده از آنها علیه تأسیسات نظامی آمریکا در این جزیره یا مناطق اطراف آن است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-17T13:17:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_120597_0_3a345457.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/120597"
       }
     ]
   },
-  "last_update": "2026-05-18T02:50:53.100976+00:00",
+  "last_update": "2026-05-18T03:37:53.804570+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1178,
-    "total_files": 1178,
+    "total_media": 1179,
+    "total_files": 1179,
     "total_links": 191,
     "files_by_type": {
-      "image": 1095,
+      "image": 1096,
       "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1178,
-    "existing_media_files": 1162,
-    "total_size_mb": 330.99,
-    "last_calculation": "2026-05-18T02:50:53.115829+00:00"
+    "referenced_files": 1179,
+    "existing_media_files": 1163,
+    "total_size_mb": 331.03,
+    "last_calculation": "2026-05-18T03:37:53.815967+00:00"
   }
 }
