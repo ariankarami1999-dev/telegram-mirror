@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 121426,
+        "text": "👈\nآخرین قیمت نفت ۱۰۵.۰۹ دلار\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-20T20:13:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_121426_0_13be7d61.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_121426_1_fc982de9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/121426"
+      },
+      {
+        "id": 121425,
+        "text": "👈\nآکسیوس: یک منبع آمریکایی که در جریان این تماس تلفنی قرار داشت به من گفت: «موهای بی‌بی بعد از تماس آتش گرفته بود.»\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-20T20:12:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_121425_0_13be7d61.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_121425_1_0ec0e166.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/121425"
+      },
+      {
         "id": 121424,
         "text": "👈\nترامپ درباره کوبا: مردم غذا و برق ندارند، اما مردم بزرگی هستند\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-20T20:05:29+00:00",
@@ -15620,60 +15658,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/121236"
-      },
-      {
-        "id": 121235,
-        "text": "👈\nپژمان جمشیدی از اتهام آدم ربایی و تجاوز به عنف تبرئه شده و به دلیل رابطه نامشروع به ۹۹ ضربه شلاق محکوم شده\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-20T08:08:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_121235_0_018eb78d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/121235"
-      },
-      {
-        "id": 121234,
-        "text": "👈\nعلی قلهکی، فعال رسانه‌ای: چین دیگر تمایلی به حفظ وضعیت فعلی تنگه هرمز توسط ایران ندارد و بنظر می‌رسد به زودی در بحث تنگه هرمز رودروی ایران قرار گیرد؛ آنها معتقدند ایران باید زودتر تنگه را «تعیین تکلیف» کند.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-20T08:02:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_121234_0_018eb78d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_121234_1_762f998b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/121234"
       }
     ]
   },
-  "last_update": "2026-05-20T20:08:40.779854+00:00",
+  "last_update": "2026-05-20T20:15:06.868724+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1144,
-    "total_files": 1144,
+    "total_media": 1145,
+    "total_files": 1145,
     "total_links": 191,
     "files_by_type": {
-      "image": 1060,
+      "image": 1061,
       "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1144,
-    "existing_media_files": 1128,
-    "total_size_mb": 354.63,
-    "last_calculation": "2026-05-20T20:08:40.793741+00:00"
+    "referenced_files": 1145,
+    "existing_media_files": 1129,
+    "total_size_mb": 354.65,
+    "last_calculation": "2026-05-20T20:15:06.881781+00:00"
   }
 }
