@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 122203,
+        "text": "👈\nطبق گزارش NBC News، صدای تیراندازی در خارج از کاخ سفید شنیده شد، با حدود ۲۰ تا ۳۰ گلوله شلیک شده. سرویس مخفی به خبرنگاران دستور داده است که برای حفظ جانشان به داخل اتاق جلسه بروند\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-23T22:15:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_122203_0_f961a6ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/122203"
+      },
+      {
+        "id": 122202,
+        "text": "👈\nوال استریت ژورنال: ترامپ به دستیارانش گفته است که در صورت عدم پایبندی ایران به چارچوب توافق، حق از سرگیری بمباران ایران را برای خود محفوظ می‌دارد.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-23T22:11:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_122202_0_f961a6ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/122202"
+      },
+      {
+        "id": 122201,
+        "text": "👈\nنیویورک تایمز: ۲۵ میلیارد دلار از پولای بلوکه شده‌ی ایران قراره واسشون آزاد بشه\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-23T22:00:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_122201_0_f961a6ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/122201"
+      },
+      {
         "id": 122200,
         "text": "🔴\nفوری/آکسیوس: تموم شد توافق‌نامه همین الان توسط دو طرف امضا شد!\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-23T21:53:53+00:00",
@@ -15545,55 +15590,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/122077"
-      },
-      {
-        "id": 122076,
-        "text": "👈\nالشرق نیوز سعودی به نقل از منابع منطقه‌ای:\n🔴\nقرار است دونالد ترامپ، امروز ساعت ۱۳:۰۰ به وقت شرقی با رهبران پاکستان، امارات، عربستان سعودی، قطر، اردن، ترکیه و مصر تماس تلفنی داشته باشد.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-23T15:58:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_122076_0_f961a6ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/122076"
-      },
-      {
-        "id": 122075,
-        "text": "👈\nترامپ به آکسیوس: برخی ترجیح میدهند توافق را منعقد کنند ، برخی دیگر ترجیح میدهند جنگ را از سر بگیرند‌‌\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-23T15:51:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_122075_0_f961a6ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/122075"
-      },
-      {
-        "id": 122074,
-        "text": "👈\nترامپ به آکسیوس: تنها توافقی را در رابطه با غنی سازی اورانیوم و سرنوشت ذخایر آن است را میپذیرم‌‌\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-23T15:48:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_122074_0_f961a6ad.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/122074"
       }
     ]
   },
-  "last_update": "2026-05-23T21:54:37.258431+00:00",
+  "last_update": "2026-05-23T22:54:06.651722+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15610,6 +15610,6 @@
     "referenced_files": 1128,
     "existing_media_files": 1112,
     "total_size_mb": 273.95,
-    "last_calculation": "2026-05-23T21:54:37.271921+00:00"
+    "last_calculation": "2026-05-23T22:54:06.664751+00:00"
   }
 }
