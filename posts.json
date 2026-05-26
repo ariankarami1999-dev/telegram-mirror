@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 122958,
+        "text": "👈\nحملات اسرائیل به سُهمور در دره بقاع در لبنان.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-26T22:50:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_122958_0_cdc57b58.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_122958_1_cbbb14ea.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/122958"
+      },
+      {
+        "id": 122957,
+        "text": "👈\nکی‌سی‌ان‌ای، رسانه دولتی کره شمالی: کره شمالی آزمایشی از سیستم پرتاب موشک چندمنظوره جدید انجام داده است\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-26T22:32:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_122957_0_cdc57b58.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/122957"
+      },
+      {
         "id": 122956,
         "text": "👈\nرسایی: بازکردن اینترنت اشتباست و خیانت به رهبر شهیدمونه.\n✅\n@AloNews خبر جنگ",
         "date": "2026-05-26T22:11:31+00:00",
@@ -15648,64 +15682,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/122830"
-      },
-      {
-        "id": 122829,
-        "text": "👈\nانفجار در نزدیکی کشتی در سواحل عمان گزارش شد.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-26T14:05:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_122829_0_cdc57b58.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_122829_1_888d62dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/122829"
-      },
-      {
-        "id": 122828,
-        "text": "👈\nرسایی: آقا بازش نکنید\n✅\n@AloNews خبر جنگ",
-        "date": "2026-05-26T14:02:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_122828_0_cdc57b58.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_122828_1_1fb07362.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/122828"
       }
     ]
   },
-  "last_update": "2026-05-26T22:19:35.235114+00:00",
+  "last_update": "2026-05-26T23:40:19.189304+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1152,
-    "total_files": 1152,
+    "total_media": 1151,
+    "total_files": 1151,
     "total_links": 191,
     "files_by_type": {
-      "image": 1076,
-      "video": 69,
+      "image": 1074,
+      "video": 70,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1152,
-    "existing_media_files": 1136,
-    "total_size_mb": 307.62,
-    "last_calculation": "2026-05-26T22:19:35.259027+00:00"
+    "referenced_files": 1151,
+    "existing_media_files": 1135,
+    "total_size_mb": 310.31,
+    "last_calculation": "2026-05-26T23:40:19.202985+00:00"
   }
 }
