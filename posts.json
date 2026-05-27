@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 123178,
+        "text": "👈\nیه FPV حزب الله افتاد دنبال سرباز اسرائیلی\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-27T20:33:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123178_0_1da019de.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_123178_1_0940ec80.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123178"
+      },
+      {
+        "id": 123177,
+        "text": "👈\nعضو تیم رسانه‌ای هیئت مذاکراتی ایران:\nسفر قالیباف به قطر درباره آزادسازی ۱۲ میلیارد دلار از اموال بلوکه‌شده، موفقیت‌آمیز بود!\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-27T20:20:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123177_0_1da019de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123177"
+      },
+      {
+        "id": 123176,
+        "text": "👈\nچین: تلاش می‌کنیم تنش بین ایران و آمریکا را کاهش دهیم\n🔴\nبه گزارش سی‌جی‌تی‌ان، وانگ یی، وزیر خارجه چین روز چهارشنبه به خبرنگاران گفت که پکن نقش فعالی در کاهش تنش بین ایران و آمریکا ایفا می‌کند\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-27T20:14:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123176_0_1da019de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123176"
+      },
+      {
         "id": 123175,
         "text": "👈\nگویا گوگل پلی تو اکثر مناطق وصل شده\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-27T19:55:07+00:00",
@@ -15741,59 +15790,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/122981"
-      },
-      {
-        "id": 122980,
-        "text": "👈\nسی ان بی سی نیوز:  بازارهای اروپایی با بازگشایی مختلط مواجه می‌شوند، در حالی که معامله‌گران آتش‌بسِ شکننده میان ایالات متحده و ایران را ارزیابی می‌کنند.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-27T07:18:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_122980_0_cdc57b58.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_122980_1_02587cc5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/122980"
-      },
-      {
-        "id": 122979,
-        "text": "👈\nرسانه‌های لبنانی گزارش می‌دهند که صدای انفجارهایی که چندی پیش شنیده شد، بوم صوتی بود!\n🔴\nبرخی گزارش‌های رسانه‌ها همچنین ادعا می‌کنند که در زمان انفجارها هیچ پروازی بر فراز پایتخت وجود نداشته است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-27T07:05:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_122979_0_cdc57b58.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/122979"
-      },
-      {
-        "id": 122978,
-        "text": "👈\nشماری از کاربران پس از بازگشت اینترنت بین‌الملل، از عدم امکان اتصال به گوگل‌پلی و مشکل در به‌روزرسانی اپلیکیشن‌ها خبر داده‌اند\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-27T07:03:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_122978_0_cdc57b58.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/122978"
       }
     ]
   },
-  "last_update": "2026-05-27T20:10:11.629194+00:00",
+  "last_update": "2026-05-27T20:34:27.193348+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15801,15 +15801,15 @@
     "total_files": 1178,
     "total_links": 191,
     "files_by_type": {
-      "image": 1094,
-      "video": 77,
+      "image": 1093,
+      "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1178,
     "existing_media_files": 1162,
-    "total_size_mb": 321.87,
-    "last_calculation": "2026-05-27T20:10:11.653137+00:00"
+    "total_size_mb": 325.32,
+    "last_calculation": "2026-05-27T20:34:27.207585+00:00"
   }
 }
