@@ -13992,6 +13992,104 @@
     ],
     "alonews": [
       {
+        "id": 123972,
+        "text": "👈\nحزب‌الله با پهپاد FPV مستقیم به کابین یه خودروی امدادی اسرائیلی حمله کرد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-31T14:12:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123972_0_81249d3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123972"
+      },
+      {
+        "id": 123971,
+        "text": "👈\nسی‌بی‌اس: میانجی‌ها به مذاکرات توافق تهران-واشنگتن ادامه می‌دهند؛ ترامپ متن توافق را جمعه بازبینی کرد و آن را برای تأیید به ایران فرستاد، پاسخ هنوز در انتظار است\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-31T14:02:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123971_0_81249d3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123971"
+      },
+      {
+        "id": 123970,
+        "text": "👈\nرویترز: جمع‌آوری سلاح توسط اهالی گرینلند از ترس حمله احتمالی آمریکا\n🔴\nبرخی از اهالی گرینلند به رویترز گفته‌اند که برای مقابله با حمله احتمالی ایالات متحده، اقدام به جمع‌آوری اسلحه و مهمات کرده‌اند. یکی از مدیران معدن با یادآوری اینکه پسرش گفته بود برای آمادگی در برابر تهاجم قصد خرید مهمات دارد، به گریه افتاد.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-31T13:53:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123970_0_81249d3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123970"
+      },
+      {
+        "id": 123969,
+        "text": "👈\nوزارت جنگ آمریکا قصد دارد در ماه ژوئن، برنامه‌های مشخصی برای خروج بخشی از نیروهای خود از اروپا را در بروکسل، مقر ناتو ارائه دهد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-31T13:48:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123969_0_81249d3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123969"
+      },
+      {
+        "id": 123967,
+        "text": "👈\nیک راکت حزب‌الله بین منازل مسکونی در روستای مسیحی نشین رمیچ جنوب لبنان سقوط کرد. که تلفات جانی نداشت.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-31T13:44:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123967_0_81249d3f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_123967_1_de88eb10.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_123967_2_be2a7c57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123967"
+      },
+      {
+        "id": 123966,
+        "text": "👈\nمدیر عامل پارس جنوبی: بازگشت سه سکوی فراساحلی میدان مشترک پارس جنوبی به مدار تولید\n🔴\nمدیرعامل شرکت نفت و گاز پارس از بازگشت سه سکوی فراساحلی میدان مشترک پارس جنوبی به مدار تولید پس از جنگ‌ تحمیلی سوم خبر داد.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-31T13:34:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123966_0_81249d3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123966"
+      },
+      {
         "id": 123965,
         "text": "👈\nجروزالم پست: درخواست فرانسه برای نشست اضطراری شورای امنیت درباره لبنان\n🔴\nژان نوئل بارو، وزیر امور خارجه فرانسه، اعلام کرد که در واکنش به عملیات نظامی جاری اسرائیل در لبنان، خواستار تشکیل جلسه اضطراری شورای امنیت سازمان ملل متحد شده است\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-05-31T13:27:02+00:00",
@@ -15640,128 +15738,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/123827"
-      },
-      {
-        "id": 123826,
-        "text": "👈\nبه حداقل ۵ جهت به سمت فضای هوایی اوکراین، پهپادهای روسی Geran-2 پرتاب شده‌اند.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-30T20:29:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_123826_0_96a8d396.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/123826"
-      },
-      {
-        "id": 123825,
-        "text": "👈\nتصویری جدید و پربازدید از دونالد ترامپ درحال عزیمت به زمین گلف\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-30T20:27:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_123825_0_96a8d396.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_123825_1_fce042e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/123825"
-      },
-      {
-        "id": 123824,
-        "text": "👈\nکابینه جنگ اسرائیل در ساعت ۲۲:۳۰ (به وقت محلی) تشکیل جلسه خواهد داد. در حال حاضر ارزیابی وضعیت در دفتر نخست‌وزیر است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-30T20:26:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_123824_0_96a8d396.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/123824"
-      },
-      {
-        "id": 123823,
-        "text": "👈\nمعاون سیاسی سپاه: ایران بر تنگه هرمز مسلط شده و پس از ۵۰۰ سال، به موقعیتی دست یافته که حق مسلم مردم ایران است\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-30T20:26:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_123823_0_96a8d396.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/123823"
-      },
-      {
-        "id": 123822,
-        "text": "👈\nسخنگوی وزارت خارجه: میدان و دیپلماسی دوشادوش هم آماده برای هر وضعیتی\n🔴\nسخنگوی ارتش: امروز دیپلماسی و میدان نزدیک‌تر و هماهنگ‌تر از هر زمانی در مسیر تحقق منافع و عزت ملی کشور می‌کوشند\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-30T20:25:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_123822_0_96a8d396.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/123822"
-      },
-      {
-        "id": 123820,
-        "text": "👈\nامروز یه مین دریایی ایرانی نزدیک سواحل عمان تو تنگه هرمز پیدا شده\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-30T20:24:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_123820_0_96a8d396.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_123820_1_31d83805.mp4"
-          },
-          {
-            "type": "image",
-            "file": "alonews_123820_2_c2c79756.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/123820"
       }
     ]
   },
-  "last_update": "2026-05-31T13:27:27.110459+00:00",
+  "last_update": "2026-05-31T14:18:03.171936+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1166,
-    "total_files": 1166,
+    "total_media": 1165,
+    "total_files": 1165,
     "total_links": 191,
     "files_by_type": {
       "image": 1081,
-      "video": 78,
+      "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1166,
-    "existing_media_files": 1150,
-    "total_size_mb": 301.4,
-    "last_calculation": "2026-05-31T13:27:27.124222+00:00"
+    "referenced_files": 1165,
+    "existing_media_files": 1149,
+    "total_size_mb": 299.26,
+    "last_calculation": "2026-05-31T14:18:03.185988+00:00"
   }
 }
