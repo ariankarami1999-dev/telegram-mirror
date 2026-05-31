@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 123844,
+        "text": "👈\nعوستاد رائفی پور:\nمطمئنم آمریکا بازم به ما حمله میکنه\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-31T04:03:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123844_0_96a8d396.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_123844_1_bbfda810.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123844"
+      },
+      {
+        "id": 123843,
+        "text": "👈\nپوریا زراعتی مجری اینترنشنال: اپوزیسیون ما رویا فروشی میکنه و وعده هاش دروغ بود\n🔴\nما به کسی مثل جولانی نیاز داریم نه رهبران فعلی اپوزیسیون\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-05-31T03:33:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_123843_0_96a8d396.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_123843_1_98c44bd7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/123843"
+      },
+      {
         "id": 123842,
         "text": "🔥\nهمراه با ساب + حجم مصرفی، فقط 9T!\n🚀\n❌\nآفر فقط تا پایان امشب\n❌\n🔥\nاگه دنبال یه VPN پایدار و بدون دردسر می‌گردی، این پلن مخصوص خودته!\n@Netaazaadbot\n@NetAazaadBot\n✅\nهمراه با ساب + حجم مصرفی\n✅\n15 سرور اختصاصی پرسرعت\n✅\nاتصال پایدار و بدون قطعی\n✅\nسرعت بالا حتی در ساعات شلوغ\n@Netaazaadbot\n@NetAazaadBot\n💎\nکیفیتی که بعد از استفاده متوجه تفاوتش میشی!\n📩\nبرای خرید و دریافت سرویس استارت رو بزن\n✅",
         "date": "2026-05-30T22:04:30+00:00",
@@ -15735,60 +15773,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/123727"
-      },
-      {
-        "id": 123726,
-        "text": "اخبار جنگ الونیوز AloNews\npinned a photo",
-        "date": "2026-05-30T14:06:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_123726_0_96a8d396.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/123726"
-      },
-      {
-        "id": 123725,
-        "text": "👈\nباکسر به خاورمیانه نمی آید\n🔴\nبه نظر می‌رسد که ناو آبی_خاکی یو‌اس‌اس باکسر (LHD-4) قرار نیست در حوزه مسئولیت سنت‌کام  مستقر شود. ناو آبی‌خاکی کلاس واسپ نیز امروز از بندر سِمبانوان در سنگاپور حرکت کرد؛ اگرچه اکنون به سمت شرق در حرکت است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-05-30T14:04:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_123725_0_96a8d396.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_123725_1_44e5408a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/123725"
       }
     ]
   },
-  "last_update": "2026-05-31T02:57:23.507126+00:00",
+  "last_update": "2026-05-31T05:00:49.708959+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1170,
-    "total_files": 1170,
+    "total_media": 1171,
+    "total_files": 1171,
     "total_links": 193,
     "files_by_type": {
       "image": 1087,
-      "video": 76,
+      "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1170,
-    "existing_media_files": 1154,
-    "total_size_mb": 309.6,
-    "last_calculation": "2026-05-31T02:57:23.520638+00:00"
+    "referenced_files": 1171,
+    "existing_media_files": 1155,
+    "total_size_mb": 311.08,
+    "last_calculation": "2026-05-31T05:00:49.722346+00:00"
   }
 }
