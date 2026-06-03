@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 124660,
+        "text": "👈\nکارشناس صدا و سیما: کوروش و ایران باستان تخیلی هستن\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-03T03:31:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_124660_0_0d881e22.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_124660_1_c986121a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/124660"
+      },
+      {
         "id": 124659,
         "text": "🤚\nاینترنت مخصوص جنگ\n🚀\n✅\n⭐️\nفقط گیگی 8 هزار تومان\n😍\n✅\nبدون قطعی‌های آزاردهنده\n✅\nسرعت بالا حتی ساعات شلوغ\n✅\nمناسب تلگرام، اینستاگرام و یوتیوب\n✅\nهمراه با ساب\n✅\nتعداد محدود با این قیمت\n🤖\n@NetAazaadBot\n🤖\n@NetAazaadBot",
         "date": "2026-06-02T23:11:22+00:00",
@@ -15635,41 +15654,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/124498"
-      },
-      {
-        "id": 124497,
-        "text": "👈\nروبیو: عملیات خشم حماسی، برخی از شما آن را دوست نداشتند، برخی از شما آن را دوست داشتند، در دستیابی به اهداف نظامی خود بسیار موفق بود، که به طور چشمگیری پایه صنعتی دفاعی ایران را کاهش داد.\n🔴\nآن‌ها هنوز پهپادهای زیادی دارند، زیرا ساخت این‌ها آسان است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-02T15:03:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_124497_0_0d881e22.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/124497"
       }
     ]
   },
-  "last_update": "2026-06-03T00:12:57.550907+00:00",
+  "last_update": "2026-06-03T03:38:46.586279+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1143,
-    "total_files": 1143,
+    "total_media": 1144,
+    "total_files": 1144,
     "total_links": 191,
     "files_by_type": {
       "image": 1058,
-      "video": 78,
+      "video": 79,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1143,
-    "existing_media_files": 1127,
-    "total_size_mb": 314.28,
-    "last_calculation": "2026-06-03T00:12:57.564108+00:00"
+    "referenced_files": 1144,
+    "existing_media_files": 1128,
+    "total_size_mb": 317.18,
+    "last_calculation": "2026-06-03T03:38:46.597000+00:00"
   }
 }
