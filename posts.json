@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 124946,
+        "text": "👈\nتصاویری از لحظه برخورد یک پهپاد انتحاری به فرودگاه بین‌المللی کویت\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-04T03:32:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_124946_0_cae5d8d6.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_124946_1_6727b3da.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/124946"
+      },
+      {
         "id": 124945,
         "text": "💢\nاینترنت مخصوص جنگ\n🚀\n✅\n⭐️\nفقط گیگی 8 هزار تومان\n😍\n✅\nبدون قطعی‌های آزاردهنده\n✅\nسرعت بالا حتی ساعات شلوغ\n✅\nمناسب تلگرام، اینستاگرام و یوتیوب\n✅\nهمراه با ساب\n📈\nتعداد محدود با این قیمت\n🤖\n@NetAazaadBot\n🤖\n@NetAazaadBot",
         "date": "2026-06-03T21:58:46+00:00",
@@ -15641,41 +15660,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/124746"
-      },
-      {
-        "id": 124745,
-        "text": "👈\nترامپ: قیمت بنزین به زودی کاهش می‌یابد\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-03T10:18:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_124745_0_0d881e22.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/124745"
       }
     ]
   },
-  "last_update": "2026-06-04T00:13:47.857420+00:00",
+  "last_update": "2026-06-04T03:34:23.423057+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1143,
-    "total_files": 1143,
+    "total_media": 1144,
+    "total_files": 1144,
     "total_links": 192,
     "files_by_type": {
       "image": 1056,
-      "video": 80,
+      "video": 81,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1143,
-    "existing_media_files": 1127,
-    "total_size_mb": 339.08,
-    "last_calculation": "2026-06-04T00:13:47.867957+00:00"
+    "referenced_files": 1144,
+    "existing_media_files": 1128,
+    "total_size_mb": 340.99,
+    "last_calculation": "2026-06-04T03:34:23.436369+00:00"
   }
 }
