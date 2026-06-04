@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 124947,
+        "text": "👈\nعوستاد رائفی پور: کمک امام زمان باعث شد جنگ ۴۰روزه رو ببریم\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-04T04:10:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_124947_0_cae5d8d6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_124947_1_392b9f16.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/124947"
+      },
+      {
         "id": 124946,
         "text": "👈\nتصاویری از لحظه برخورد یک پهپاد انتحاری به فرودگاه بین‌المللی کویت\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-04T03:32:11+00:00",
@@ -15645,41 +15664,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/124747"
-      },
-      {
-        "id": 124746,
-        "text": "👈\nترامپ تو مصاحبه پادکست : وضعیت ایران خیلی سریع داره تغییر می‌کنه، و در نهایت اوضاع خیلی خوب پیش می‌ره\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-03T10:18:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_124746_0_0d881e22.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/124746"
       }
     ]
   },
-  "last_update": "2026-06-04T03:34:23.423057+00:00",
+  "last_update": "2026-06-04T05:22:00.182117+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1144,
-    "total_files": 1144,
+    "total_media": 1145,
+    "total_files": 1145,
     "total_links": 192,
     "files_by_type": {
-      "image": 1056,
+      "image": 1057,
       "video": 81,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1144,
-    "existing_media_files": 1128,
-    "total_size_mb": 340.99,
-    "last_calculation": "2026-06-04T03:34:23.436369+00:00"
+    "referenced_files": 1145,
+    "existing_media_files": 1129,
+    "total_size_mb": 341.04,
+    "last_calculation": "2026-06-04T05:22:00.195555+00:00"
   }
 }
