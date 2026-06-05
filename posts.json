@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 125333,
+        "text": "👈\nبیت کوین به 60هزار دلار رسید\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-05T14:44:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_125333_0_c291a796.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_125333_1_7f6e4b16.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/125333"
+      },
+      {
+        "id": 125332,
+        "text": "👈\nپلی مارکت:\nصادرات نفت ایران به کمترین حد خودش در ۶ سال اخیر رسیده.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-05T14:40:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_125332_0_c291a796.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_125332_1_d15431f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/125332"
+      },
+      {
         "id": 125331,
         "text": "هر گیگ فقط 2هزار تومن\n😳\n😳\nهنوز داری گیگی 10...15 تومن میخری ، وقتی اینترنت کامل درست شده\n😱\nچون داری از واسطه تهیه میکنی\n😍\nتخفیف ویژه فقط گیگی 2t با لینک ساب\n🌟\nبا ضمانت و بهترین سرعت و کیفیت\n☑️\nنامحدود واقعی فقط 290t\n⌛️\nبرای 200 نفر اول این تخفیف اعمال میشه…",
         "date": "2026-06-05T14:30:08+00:00",
@@ -15672,60 +15710,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/125186"
-      },
-      {
-        "id": 125185,
-        "text": "👈\nایالات متحده رئیس‌جمهور کوبا، میگل دیاز-کانل و خانواده‌اش را تحریم کرد\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-04T20:56:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_125185_0_1685728a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/125185"
-      },
-      {
-        "id": 125184,
-        "text": "👈\nالعربیه منتشر کرد: عکس وزیر کشور پاکستان محسن نقوی در دیدار با وزیر کشور ایران در تهران، در چارچوب تلاش‌های اسلام‌آباد برای پیشبرد مذاکرات\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-04T20:56:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_125184_0_1685728a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_125184_1_0a1b4ac3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/125184"
       }
     ]
   },
-  "last_update": "2026-06-05T14:39:49.837882+00:00",
+  "last_update": "2026-06-05T14:50:55.154792+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 191,
     "files_by_type": {
-      "image": 1075,
+      "image": 1076,
       "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 320.63,
-    "last_calculation": "2026-06-05T14:39:49.851350+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 320.59,
+    "last_calculation": "2026-06-05T14:50:55.168249+00:00"
   }
 }
