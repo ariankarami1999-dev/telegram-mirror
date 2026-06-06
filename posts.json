@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 125428,
+        "text": "👈\nسی بی اس: تا الان هیچ کشتی‌ای توی تنگه هرمز به خاطر پهپادهایی که ایران فرستاده آسیب ندیده\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-06T04:10:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_125428_0_c291a796.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_125428_1_2c86e086.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/125428"
+      },
+      {
+        "id": 125427,
+        "text": "👈\nپخش دیشب برنامه «خیابون انقلاب» بخاطر این حرفا لغو شد.\nما اسرائیل رو تهدید کردیم اگه کوچیک ترین خطایی کنه میزنیمش، الان لبنان رو با خاک یکسان کرده و ما هیچ کاری نمی کنیم.\nما همش الکی تهدید میکنیم اگه فلان کارو کنن مام فلان کارو میکنیم، خب چیشد پس؟ یه بار به دشمن نشون بدین که ترسو نیستین.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-06T03:32:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_125427_0_c291a796.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_125427_1_870b4bdd.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/125427"
+      },
+      {
         "id": 125426,
         "text": "👈\nنیروهای آمریکایی از هدف قرار دادن سایت‌های رادار نظارتی ساحلی ایران در قشم خبر دادند.\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-06T02:34:46+00:00",
@@ -15660,56 +15698,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/125275"
-      },
-      {
-        "id": 125274,
-        "text": "👈\nوزارت خارجه جمهوری آذربایجان اعلام کرد: در حمله پهپادی شب گذشته به دو کشتی باری خارجی که ۲۵ شهروند آذربایجانی داشتند، پنج نفر کشته و سه نفر مجروح شدند.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-05T10:38:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_125274_0_c291a796.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/125274"
-      },
-      {
-        "id": 125273,
-        "text": "👈\nالعربیه: ایالات متحده همچنان با درخواست ایران برای آزادسازی دارایی‌های بلوکه‌شده مخالفت می‌کند\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-05T10:24:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_125273_0_c291a796.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/125273"
       }
     ]
   },
-  "last_update": "2026-06-06T02:43:04.067674+00:00",
+  "last_update": "2026-06-06T04:37:31.882831+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1153,
-    "total_files": 1153,
+    "total_media": 1155,
+    "total_files": 1155,
     "total_links": 191,
     "files_by_type": {
-      "image": 1077,
-      "video": 69,
+      "image": 1078,
+      "video": 70,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1153,
-    "existing_media_files": 1137,
-    "total_size_mb": 292.9,
-    "last_calculation": "2026-06-06T02:43:04.078192+00:00"
+    "referenced_files": 1155,
+    "existing_media_files": 1139,
+    "total_size_mb": 294.0,
+    "last_calculation": "2026-06-06T04:37:31.896374+00:00"
   }
 }
