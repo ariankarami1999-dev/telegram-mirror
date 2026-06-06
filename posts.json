@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 125426,
+        "text": "👈\nنیروهای آمریکایی از هدف قرار دادن سایت‌های رادار نظارتی ساحلی ایران در قشم خبر دادند.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-06T02:34:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_125426_0_c291a796.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/125426"
+      },
+      {
         "id": 125425,
         "text": "​\n🔼\nکسب درآمد از فروش  VPN\nهنوزم ممکنه!\nدرآمد چندتا از نماینده‌ها رو ببین\n👀\nپنل نمایندگی وی‌پی‌ان گذربان، سریع‌ترین و\nراحت‌ترین راه برای پول درآوردنه\n✔️\n​\n🤑\nچرا پنل نمایندگی گذربان؟\n🚀\nسرعت و کیفیت بی‌نظیر\n⚙️\nپنل مدیریتی حرفه‌ای\n💵\nسود عالی\n⭐️\nبدون ریسک\n​فرصت رو از دست نده و کلمه «الو» رو بفرست\n👇\n@GozarBanAdmin\n@GozarBanAdmin\n@GozarBanAdmin",
         "date": "2026-06-05T22:07:15+00:00",
@@ -15675,25 +15690,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/125273"
-      },
-      {
-        "id": 125272,
-        "text": "👈\nماکرون، رئیس جمهور فرانسه : جنگ اسرائیل و لبنان هرچه سریع‌تر باید تموم شه\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-05T10:23:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_125272_0_c291a796.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/125272"
       }
     ]
   },
-  "last_update": "2026-06-06T00:06:31.376599+00:00",
+  "last_update": "2026-06-06T02:43:04.067674+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15710,6 +15710,6 @@
     "referenced_files": 1153,
     "existing_media_files": 1137,
     "total_size_mb": 292.9,
-    "last_calculation": "2026-06-06T00:06:31.390154+00:00"
+    "last_calculation": "2026-06-06T02:43:04.078192+00:00"
   }
 }
