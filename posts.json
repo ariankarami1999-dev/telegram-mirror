@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 126233,
+        "text": "👈\nسخنگوی وزارت خارجه چین : پکن به‌شدت نگران وضعیت فعلی و از سر گرفته شدن درگیری‌ها بین اسرائیل و ایرانه\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-08T10:25:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_126233_0_560e5bab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/126233"
+      },
+      {
+        "id": 126232,
+        "text": "🔴\nفوری/یک کشتی هندی در دریای عمان هدف قرار گرفت و دچار آتش‌سوزی شد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-08T10:13:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_126232_0_560e5bab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/126232"
+      },
+      {
+        "id": 126231,
+        "text": "👈\nانهدام یک پهپاد اسرائیلی در غرب تهران\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-08T10:08:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_126231_0_560e5bab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/126231"
+      },
+      {
         "id": 126230,
         "text": "👈\nیک منبع نظامی به تسنیم: ایران برای جنگ طولانی مدت آماده شده است\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-08T09:57:50+00:00",
@@ -15621,55 +15666,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/126021"
-      },
-      {
-        "id": 126020,
-        "text": "👈\nپروازها به عراق به دلیل بسته شدن حریم هوایی لغو شد\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-07T20:52:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_126020_0_40cb8dc3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/126020"
-      },
-      {
-        "id": 126019,
-        "text": "👈\nنیویورک تایمز، به نقل از وزارت امور خارجه ایالات متحده: ۲۲ ژوئن به عنوان تاریخ دور جدید مذاکرات بین اسرائیل و لبنان تعیین شده است\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-07T20:52:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_126019_0_40cb8dc3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/126019"
-      },
-      {
-        "id": 126018,
-        "text": "👈\nمنابع عبری:ترامپ و نتانیاهو در حال حاضر در حال گفتگو هستن\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-07T20:50:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_126018_0_40cb8dc3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/126018"
       }
     ]
   },
-  "last_update": "2026-06-08T10:04:03.852150+00:00",
+  "last_update": "2026-06-08T10:28:57.078766+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15686,6 +15686,6 @@
     "referenced_files": 1147,
     "existing_media_files": 1131,
     "total_size_mb": 282.5,
-    "last_calculation": "2026-06-08T10:04:03.865266+00:00"
+    "last_calculation": "2026-06-08T10:28:57.092527+00:00"
   }
 }
