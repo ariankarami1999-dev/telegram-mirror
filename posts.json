@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 126397,
+        "text": "👈\nمنابع خبری از شنیده شدن صدای انفجارهایی در سلیمانیه واقع در شمال عراق خبر می دهند.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-08T20:11:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_126397_0_560e5bab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/126397"
+      },
+      {
         "id": 126396,
         "text": "👈\nیک مقام آمریکایی به Axios گفت:\nبیبی برای زنده ماندن سیاسی در اسرائیل نیاز دارد که جنگ ادامه یابد، و ترامپ برای زنده ماندن سیاسی در آمریکا نیاز دارد که جنگ پایان یابد.\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-08T20:02:42+00:00",
@@ -15639,45 +15654,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/126133"
-      },
-      {
-        "id": 126132,
-        "text": "🔴\nفوری/حمله موشکی به اسرائیل هم اکنون\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-08T06:30:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_126132_0_40cb8dc3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_126132_1_bfd4d1ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/126132"
       }
     ]
   },
-  "last_update": "2026-06-08T20:08:49.848972+00:00",
+  "last_update": "2026-06-08T20:14:47.100726+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1145,
-    "total_files": 1145,
+    "total_media": 1144,
+    "total_files": 1144,
     "total_links": 191,
     "files_by_type": {
-      "image": 1064,
+      "image": 1063,
       "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1145,
-    "existing_media_files": 1129,
-    "total_size_mb": 300.48,
-    "last_calculation": "2026-06-08T20:08:49.859458+00:00"
+    "referenced_files": 1144,
+    "existing_media_files": 1128,
+    "total_size_mb": 300.41,
+    "last_calculation": "2026-06-08T20:14:47.113688+00:00"
   }
 }
