@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 127531,
+        "text": "👈\nاکسیوس:\nبرخی در واشنگتن معتقدند حتی اگر توافق اجرایی شود،\nنتانیاهو ممکن است بازهم بتواند نقش یک اخلالگر را ایفا کند\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-13T00:08:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_127531_0_e1891303.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/127531"
+      },
+      {
+        "id": 127527,
+        "text": "🔴\nفوری/انفجار در تهران\n✅\n@AloNews",
+        "date": "2026-06-12T23:46:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_127527_0_e1891303.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_127527_1_430252c8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/127527"
+      },
+      {
+        "id": 127526,
+        "text": "👈\nفیلد مارشال محسن‌رضایی: آمریکا با آزادسازی ۲۴ میلیارد دلار از دارایی‌هامون موافقت کرده؛ اما ترامپ نمیخواد اونو علنی کنه.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-12T23:02:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_127526_0_e1891303.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/127526"
+      },
+      {
         "id": 127525,
         "text": "توهین‌ناموسی محمدحسین میثاقی نسبت به منتقدان تیم قلعه‌نویی\n@AloSport",
         "date": "2026-06-12T22:20:12+00:00",
@@ -15557,59 +15606,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/127408"
-      },
-      {
-        "id": 127407,
-        "text": "👈\nعلم الهدی: هیچ تفاهمی تا به امضای رهبری نرسد، کوچک‌ترین فرد از امت ما ولو کودک ما قبول نخواهد کرد\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-12T13:06:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_127407_0_e1891303.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_127407_1_b60660d8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/127407"
-      },
-      {
-        "id": 127406,
-        "text": "🔴\nفوری / فارس: ادعای امضای توافق در روز یکشنبه در ژنو کذب محض است\n✅\n@AloNews خبر جنگ",
-        "date": "2026-06-12T12:53:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_127406_0_e1891303.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/127406"
-      },
-      {
-        "id": 127405,
-        "text": "🔴\nفوری / فارس\n:\nادعای امضای توافق در روز یکشنبه در ژنو کذب محض است\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-12T12:52:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_127405_0_e1891303.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/127405"
       }
     ]
   },
-  "last_update": "2026-06-12T22:57:45.841052+00:00",
+  "last_update": "2026-06-13T00:22:26.317335+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15625,7 +15625,7 @@
     },
     "referenced_files": 1132,
     "existing_media_files": 1116,
-    "total_size_mb": 275.36,
-    "last_calculation": "2026-06-12T22:57:45.854681+00:00"
+    "total_size_mb": 275.43,
+    "last_calculation": "2026-06-13T00:22:26.331204+00:00"
   }
 }
