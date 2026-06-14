@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 127767,
+        "text": "👈\nفاکس نیوز در خبری مهم اعلام کرد که ایران تنگه هرمز را در عوض لغو محاصرات دریایی آمریکا باز خواهد کرد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-13T23:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_127767_0_cf294c43.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/127767"
+      },
+      {
         "id": 127765,
         "text": "👈\nامشب تولد‌ ۸۰ سالگی پرزیدنت ترامپه\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-13T22:28:32+00:00",
@@ -15675,45 +15690,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/127638"
-      },
-      {
-        "id": 127637,
-        "text": "👈\nمراد ویسی: اسرائیل و موساد یه برنامه دقیق برای سرنگونی جمهوری اسلامی کشیده بودن که لحظه آخر\nترامپ\nو اردوغان جلوشون رو گرفتن!!\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-13T14:27:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_127637_0_cf294c43.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_127637_1_814cbb10.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/127637"
       }
     ]
   },
-  "last_update": "2026-06-13T23:04:51.383264+00:00",
+  "last_update": "2026-06-14T01:44:13.074910+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1154,
-    "total_files": 1154,
+    "total_media": 1153,
+    "total_files": 1153,
     "total_links": 191,
     "files_by_type": {
       "image": 1079,
-      "video": 68,
+      "video": 67,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1154,
-    "existing_media_files": 1138,
-    "total_size_mb": 299.27,
-    "last_calculation": "2026-06-13T23:04:51.396821+00:00"
+    "referenced_files": 1153,
+    "existing_media_files": 1137,
+    "total_size_mb": 295.59,
+    "last_calculation": "2026-06-14T01:44:13.088340+00:00"
   }
 }
