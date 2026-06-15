@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 128202,
+        "text": "👈\nبقائی: جزئیات ابعاد دیپلماتیک توافق به‌زودی رسانه‌ای خواهد شد\n🔴\nدر خصوص نحوه و سازوکار امضای یادداشت تفاهم، تصمیم‌گیری نهایی ظرف امروز و فردا صورت می‌گیرد و نتایج آن به‌صورت رسمی اعلام می‌شود.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-15T12:08:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_128202_0_11741198.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_128202_1_ae28461c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/128202"
+      },
+      {
+        "id": 128201,
+        "text": "👈\nسخنگوی وزارت خارجه: لبنان و خاتمۀ جنگ در لبنان بخش لاینفک تفاهم خاتمۀ جنگ است.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-15T12:03:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_128201_0_11741198.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_128201_1_6af4139c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/128201"
+      },
+      {
         "id": 128200,
         "text": "👈\nعوستاد\nخوش‌چشم: تحت هیچ شرایطی مردم خیابان را ترک نکنند/ترامپ برای ایران برنامه دارد\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-15T11:55:02+00:00",
@@ -15652,56 +15690,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/128006"
-      },
-      {
-        "id": 128005,
-        "text": "👈\nیک دیپلمات مطلع به سی‌ان‌ان گفت: مذاکره‌کنندگان قطری هنوز در تهران هستند تا اطمینان حاصل کنند که مذاکرات در مسیر خود باقی می‌ماند.\n🔴\nبه گفته این منبع، مذاکره‌کنندگان قطری با هماهنگی ایالات متحده در پایتخت ایران به سر می‌برند.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-14T20:20:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_128005_0_d4fe6139.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/128005"
-      },
-      {
-        "id": 128004,
-        "text": "👈\nصدا و سیما: امشب رزمندگان اسلام، اسرائیل رو بمبارون میکنن\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-14T20:19:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_128004_0_d4fe6139.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/128004"
       }
     ]
   },
-  "last_update": "2026-06-15T11:56:15.575281+00:00",
+  "last_update": "2026-06-15T12:13:05.359459+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1151,
-    "total_files": 1151,
+    "total_media": 1153,
+    "total_files": 1153,
     "total_links": 191,
     "files_by_type": {
       "image": 1073,
-      "video": 71,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1151,
-    "existing_media_files": 1135,
-    "total_size_mb": 330.13,
-    "last_calculation": "2026-06-15T11:56:15.588657+00:00"
+    "referenced_files": 1153,
+    "existing_media_files": 1137,
+    "total_size_mb": 333.68,
+    "last_calculation": "2026-06-15T12:13:05.372789+00:00"
   }
 }
