@@ -13992,6 +13992,63 @@
     ],
     "alonews": [
       {
+        "id": 129267,
+        "text": "👈\nحرکت 10 نفتکش ایرانی به نام های؛ دیونا، قهرمان، سونیا، دورنا، آمبر، خندان، برف، هدی، استارلا و دریا عمیق به طرف چین\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-19T22:12:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129267_0_1245f8d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_129267_1_a9db4251.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129267"
+      },
+      {
+        "id": 129266,
+        "text": "👈\nرسایی :\nدشمن اگه غلطی کرد باید تنگه رو ببندیم\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-19T21:57:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129266_0_1245f8d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_129266_1_80eabf15.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129266"
+      },
+      {
+        "id": 129265,
+        "text": "تیم ملی آمریکا هم به عنوان دومین تیم به مرحله حذفی جام جهانی ۲۰۲۶ صعود کرد!\nآمریکا 2_ استرالیا 0\n@AloSport",
+        "date": "2026-06-19T21:51:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129265_0_1245f8d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_129265_1_7a68766f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129265"
+      },
+      {
         "id": 129263,
         "text": "👈\nهم اکنون درگیری‌های سنگین بین نیروهای اسرائیل و حزب‌الله تو لُبنان\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-19T21:14:36+00:00",
@@ -15629,79 +15686,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/129136"
-      },
-      {
-        "id": 129134,
-        "text": "👈\nتصادف شدید کامیون با پراید و فیدلیتی در مشهد\n🔴\n۵ نفر دردم جان باختند!\n🔴\nاز پراید چیزی باقی نمانده!\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-19T12:21:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129134_0_1245f8d2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_129134_1_d9085324.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_129134_2_ed5ed6a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129134"
-      },
-      {
-        "id": 129133,
-        "text": "👈\nگزارش سی ان ان، ایالات متحده به ایران «به اطلاع» رسانده است که اسرائیل حملات خود را در لبنان بیشتر نخواهد کرد.\n🔴\nیک منبع گفت: \"حزب‌الله آتش‌بس را نقض کرد. اسرائیل موافقت کرده است که این آتش‌بس را به ایرانی‌ها رسانده است و این وظیفه حزب‌الله است که متوقف شود.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-19T11:56:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129133_0_1245f8d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129133"
-      },
-      {
-        "id": 129132,
-        "text": "👈\nخبرنگار الجزیره از حملات هوایی مجدد اسرائیل به شهر النبطیه و اطراف آن در جنوب لبنان خبر داد\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-19T11:55:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129132_0_1245f8d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129132"
       }
     ]
   },
-  "last_update": "2026-06-19T21:45:05.167869+00:00",
+  "last_update": "2026-06-19T22:58:04.784268+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1151,
-    "total_files": 1151,
+    "total_media": 1152,
+    "total_files": 1152,
     "total_links": 191,
     "files_by_type": {
-      "image": 1061,
+      "image": 1062,
       "video": 83,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1151,
-    "existing_media_files": 1135,
+    "referenced_files": 1152,
+    "existing_media_files": 1136,
     "total_size_mb": 418.32,
-    "last_calculation": "2026-06-19T21:45:05.180912+00:00"
+    "last_calculation": "2026-06-19T22:58:04.797500+00:00"
   }
 }
