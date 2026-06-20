@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 129475,
+        "text": "👈\nچند ساعت پیش عباس خوش قدم (سید عباس عراقچی) رسید زوریخِ سوئیس، الانم این شهر طوفان شدیدی شده و کلی درخت افتاده روی مردم و مصدوم زیاد داشته.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-20T23:09:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129475_0_aeefbadd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_129475_1_83abce22.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129475"
+      },
+      {
+        "id": 129474,
+        "text": "👈\nمجری تیلیوزیون: باید فرودگاه مهرآباد رو ببندیم تا هی نرن مذاکره کنن\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-20T21:59:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129474_0_aeefbadd.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_129474_1_461cddd0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129474"
+      },
+      {
+        "id": 129473,
+        "text": "👈\nمراد ویسی: نباید به ترامپ دل میبستیم\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-20T21:49:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129473_0_aeefbadd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129473"
+      },
+      {
         "id": 129471,
         "text": "یکی با پرچم استقلال تو استادیوم داره بازی آلمان - ساحل عاج رو نگاه میکنه!\n@AloSport",
         "date": "2026-06-20T21:47:02+00:00",
@@ -15601,75 +15654,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/129369"
-      },
-      {
-        "id": 129368,
-        "text": "👈\nراکستار: هزینه دیسک بازی GTAVI حدود 70 تا 100 دلار تخمین زده میشه، یعنی برای داشتن این دیسک باید 11 تا 16 میلیون تومن هزینه کنید!\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-20T12:30:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129368_0_aeefbadd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_129368_1_6829e0b4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129368"
-      },
-      {
-        "id": 129367,
-        "text": "👈\nویتکاف و کوشنر به سوئیس رسیدن\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-20T12:28:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129367_0_aeefbadd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129367"
-      },
-      {
-        "id": 129366,
-        "text": "👈\nسخنگوی وزارت کشور: کسایی که به مراسم تشییع پیکر امام خامنه‌ای بیان، به صورت رایگان تحت پوشش بیمه قرار میگیرن\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-20T12:19:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129366_0_aeefbadd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129366"
       }
     ]
   },
-  "last_update": "2026-06-20T21:48:12.360930+00:00",
+  "last_update": "2026-06-20T23:09:17.876378+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1143,
-    "total_files": 1143,
+    "total_media": 1144,
+    "total_files": 1144,
     "total_links": 191,
     "files_by_type": {
-      "image": 1073,
-      "video": 63,
+      "image": 1072,
+      "video": 65,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1143,
-    "existing_media_files": 1127,
-    "total_size_mb": 263.62,
-    "last_calculation": "2026-06-20T21:48:12.374137+00:00"
+    "referenced_files": 1144,
+    "existing_media_files": 1128,
+    "total_size_mb": 267.37,
+    "last_calculation": "2026-06-20T23:09:17.889936+00:00"
   }
 }
