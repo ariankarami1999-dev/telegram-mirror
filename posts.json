@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 129493,
+        "text": "👈\nترامپ: شاید اگر توافق با ایران حاصل نشود، برای عبور از تنگه هرمز تعرفه وضع خواهیم کرد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-21T06:54:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129493_0_b16c1a8a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129493"
+      },
+      {
+        "id": 129492,
+        "text": "👈\nفیلد مارشال ، محسن رضایی: هرگونه خوش‌بینی مورد سوء‌استفادهٔ دشمن قرار می‌گیرد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-21T06:54:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129492_0_b16c1a8a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_129492_1_b74194a3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129492"
+      },
+      {
+        "id": 129491,
+        "text": "👈\nالجزیره: شکاف در روابط ترامپ و نتانیاهو به اوج خود رسیده است\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-21T06:50:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129491_0_b16c1a8a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129491"
+      },
+      {
         "id": 129490,
         "text": "👈\nخبرنگار الجزیره در نزدیکی اقامتگاه بورگن‌‌اشتوک سوئیس : ظهر امروز به وقت محلی قرار‌است مراسم نمادین امضا و مبادله متن توافق مرحله اول میان دو هیات ایران و آمریکا برگزار شود\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-21T06:41:55+00:00",
@@ -15617,71 +15666,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/129388"
-      },
-      {
-        "id": 129387,
-        "text": "👈\nسخنگوی تیم مذاکره‌کننده: طبق بند ۱۳ یادداشت تفاهم، آغاز مذاکرات برای توافق نهایی\nمشروط به شروع و تداوم اجرای تعهدات طرف مقابل بر اساس بندهای ۱، ۴، ۵، ۱۰ و ۱۱ است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-20T13:45:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129387_0_aeefbadd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129387"
-      },
-      {
-        "id": 129386,
-        "text": "🔴\nفوری / ایسنا: هیات مذاکره کننده ایران تا دقایقی دیگر عازم سوئیس می‌شوند\n✅\n@AloNews خبر جنگ",
-        "date": "2026-06-20T13:43:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129386_0_aeefbadd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129386"
-      },
-      {
-        "id": 129385,
-        "text": "🔴\nفوری / ایسنا: هیات مذاکره کننده ایران تا دقایقی دیگر عازم سوئیس می‌شوند\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-20T13:41:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129385_0_aeefbadd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129385"
       }
     ]
   },
-  "last_update": "2026-06-21T06:48:21.263281+00:00",
+  "last_update": "2026-06-21T06:58:25.416389+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1146,
-    "total_files": 1146,
+    "total_media": 1147,
+    "total_files": 1147,
     "total_links": 191,
     "files_by_type": {
-      "image": 1073,
+      "image": 1074,
       "video": 66,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1146,
-    "existing_media_files": 1130,
-    "total_size_mb": 268.79,
-    "last_calculation": "2026-06-21T06:48:21.276768+00:00"
+    "referenced_files": 1147,
+    "existing_media_files": 1131,
+    "total_size_mb": 268.83,
+    "last_calculation": "2026-06-21T06:58:25.430149+00:00"
   }
 }
