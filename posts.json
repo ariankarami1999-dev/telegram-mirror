@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 129848,
+        "text": "👈\nنماینده دائمی ایران در سازمان ملل: تنگه هرمز باز است و هیچ‌گونه عوارضی برای عبور از آن دریافت نمی‌شود.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-23T09:33:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129848_0_0787e3ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129848"
+      },
+      {
         "id": 129847,
         "text": "👈\nنتانیاهو: حمایت دوستان آمریکایی‌مان را بسیار ارج می‌نهم، اما نیازمند رهایی از وابستگی و ساخت یک نظام تسلیحاتی مستقل هستیم\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-23T09:26:30+00:00",
@@ -15749,25 +15764,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/129715"
-      },
-      {
-        "id": 129714,
-        "text": "👈\nالعربیه:\nوزارت خزانه‌داری آمریکا مجوز عمومی‌ای صادر کرد که اجازه می‌دهد واردات نفت خام ایران به مدت دو ماه انجام شود\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-22T13:26:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129714_0_c9b957a2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129714"
       }
     ]
   },
-  "last_update": "2026-06-23T09:32:00.393095+00:00",
+  "last_update": "2026-06-23T09:38:43.541583+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15784,6 +15784,6 @@
     "referenced_files": 1170,
     "existing_media_files": 1154,
     "total_size_mb": 386.67,
-    "last_calculation": "2026-06-23T09:32:00.407208+00:00"
+    "last_calculation": "2026-06-23T09:38:43.555797+00:00"
   }
 }
