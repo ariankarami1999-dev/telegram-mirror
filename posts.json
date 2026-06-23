@@ -13992,6 +13992,33 @@
     ],
     "alonews": [
       {
+        "id": 129943,
+        "text": "👈\nارتش اسرائیل به چادری تو غزه حملهِ هوایی کرد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-23T22:22:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129943_0_0787e3ea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_129943_1_a58b9783.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_129943_2_0d5c7b44.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_129943_3_f59f3519.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129943"
+      },
+      {
         "id": 129942,
         "text": "👈\nرسایی: این روزا همه چیز عجیب شده...\n🔴\nاون جایی که باید بسته باشه، بازه.\n🔴\nاون جایی که باید باز باشه، بسته‌ست.\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-23T21:32:17+00:00",
@@ -15667,45 +15694,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/129834"
-      },
-      {
-        "id": 129833,
-        "text": "👈\nبقایی: تا ۳۰ روز پس از توافق نهایی، نیروهای نظامی آمریکا باید از منطقه پیرامونی ایران خارج شوند\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-23T08:25:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129833_0_0787e3ea.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_129833_1_ef2ab378.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129833"
       }
     ]
   },
-  "last_update": "2026-06-23T21:58:38.993263+00:00",
+  "last_update": "2026-06-23T23:11:41.269359+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1152,
-    "total_files": 1152,
+    "total_media": 1154,
+    "total_files": 1154,
     "total_links": 191,
     "files_by_type": {
-      "image": 1066,
-      "video": 79,
+      "image": 1069,
+      "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1152,
-    "existing_media_files": 1136,
-    "total_size_mb": 352.15,
-    "last_calculation": "2026-06-23T21:58:39.004533+00:00"
+    "referenced_files": 1154,
+    "existing_media_files": 1138,
+    "total_size_mb": 351.14,
+    "last_calculation": "2026-06-23T23:11:41.280222+00:00"
   }
 }
