@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 129931,
+        "text": "🔴\nفوری / سنای آمريکا طرحي را تصويب کرد که به دنبال مسدود کردن اقدام نظامي عليه ايران است مگر اينکه رئيس‌جمهور ترامپ مجوز کنگره را دريافت کند.\n✅\n@AloNews خبر جنگ",
+        "date": "2026-06-23T20:03:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129931_0_0787e3ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129931"
+      },
+      {
+        "id": 129930,
+        "text": "👈\nترامپ: ایران عالی بوده است. اگر ایرانیان هوشمند باشند، منطقی خواهند بود؛ در غیر این صورت، مجبور خواهیم شد کار را به پایان برسانیم که احتمالاً کمتر از یک هفته طول می‌کشد.\n🔴\nاما فکر می‌کنم همه چیز برای آن‌ها خوب خواهد شد. آن‌ها کاری که باید انجام دهند را انجام خواهند داد زیرا ما می‌خواهیم این کار انجام شود\n✅\n@AloNews\nخبر جنگ\n﻿",
+        "date": "2026-06-23T20:02:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129930_0_0787e3ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129930"
+      },
+      {
+        "id": 129929,
+        "text": "👈\nترامپ : ایران با ونزوئلا خیلی فرق داره و نگاه و ایدئولوژی متفاوتی داره\n🔴\nدر کل هم طرز فکر و باورهای مسلمان‌ها با کاتولیک‌ها یه سری تفاوت‌های اساسی داره\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-23T20:00:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_129929_0_0787e3ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/129929"
+      },
+      {
         "id": 129928,
         "text": "🔴\nفوری / سنای آمريکا طرحي را تصويب کرد که به دنبال مسدود کردن اقدام نظامي عليه ايران است مگر اينکه رئيس‌جمهور ترامپ مجوز کنگره را دريافت کند.\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-23T19:50:46+00:00",
@@ -15661,79 +15706,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/129799"
-      },
-      {
-        "id": 129798,
-        "text": "👈\nچند روز دیگه\n✅\n@AloNews",
-        "date": "2026-06-22T21:35:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129798_0_c9b957a2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_129798_1_84ac90c8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129798"
-      },
-      {
-        "id": 129797,
-        "text": "👈\nطبق شنیده‌ها برنامه به وقت ایران بعد از\nحمله به تیم مذاکره‌کننده\nفعلا پخش نخواهد شد\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-22T21:26:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129797_0_c9b957a2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_129797_1_8d2ef4a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129797"
-      },
-      {
-        "id": 129796,
-        "text": "👈\nگویا علاوه بر سویا و گندم، قرار است سیب زمینی دشت مغان هم از آمریکا خریداری بشه\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-22T21:20:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129796_0_c9b957a2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129796"
       }
     ]
   },
-  "last_update": "2026-06-23T19:55:53.913178+00:00",
+  "last_update": "2026-06-23T20:05:09.281210+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1159,
-    "total_files": 1159,
+    "total_media": 1157,
+    "total_files": 1157,
     "total_links": 191,
     "files_by_type": {
-      "image": 1070,
+      "image": 1068,
       "video": 82,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1159,
-    "existing_media_files": 1143,
-    "total_size_mb": 349.06,
-    "last_calculation": "2026-06-23T19:55:53.926331+00:00"
+    "referenced_files": 1157,
+    "existing_media_files": 1141,
+    "total_size_mb": 348.9,
+    "last_calculation": "2026-06-23T20:05:09.291814+00:00"
   }
 }
