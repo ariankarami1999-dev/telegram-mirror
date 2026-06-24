@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 130084,
+        "text": "👈\nصدراعظم آلمان فریدریش مرز:\nپیام ما به روسیه روشن است: اوکراین قوی باقی می‌ماند. ما در حمایت خود کوتاه نخواهیم آمد. و در ائتلاف ترانس‌آتلانتیک، ما به‌طور نزدیک کنار هم ایستاده‌ایم\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-24T19:26:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130084_0_11d2700e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_130084_1_87641018.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130084"
+      },
+      {
+        "id": 130083,
+        "text": "👈\nبقائی: اظهارات ضد و نقیض مقامات آمریکایی درباره تفاهم خاتمه جنگ تحمیلی، کمکی به کاهش بدگمانی متراکم ایرانیان نسبت به آمریکا نخواهد کرد\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-24T19:23:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130083_0_11d2700e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130083"
+      },
+      {
         "id": 130082,
         "text": "👈\nکانال 14 اسرائیل :اسرائیل در حال آماده‌سازی برای احتمال حمله دوباره به حوثی‌های یمن است\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-24T19:04:30+00:00",
@@ -15680,56 +15714,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/129974"
-      },
-      {
-        "id": 129973,
-        "text": "👈\nقالیباف: امنیت منطقه باید توسط کشورهای منطقه تامین شود / هیچ کشوری امنیت خود را در ناامنی دیگران نخواهد یافت\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-24T08:03:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129973_0_11d2700e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129973"
-      },
-      {
-        "id": 129972,
-        "text": "👈\nقالیباف: ایران از صلح استقبال می‌کند؛ صلحی که بر پایه حقوق ملت‌ها، احترام متقابل، تعهدات متوازن و منافع مشروع باشد.\n🔴\nبر همین مبنا معتقدیم دفاع مقتدرانه، انسجام ملی و دیپلماسی، سه رکن مکمل یکدیگرند و تلفیق هوشمندانه آن‌ها، تضمین‌کننده امنیت و ثبات است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-24T08:02:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129972_0_11d2700e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129972"
       }
     ]
   },
-  "last_update": "2026-06-24T19:14:24.698084+00:00",
+  "last_update": "2026-06-24T19:42:00.321191+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1158,
-    "total_files": 1158,
+    "total_media": 1159,
+    "total_files": 1159,
     "total_links": 191,
     "files_by_type": {
-      "image": 1083,
+      "image": 1084,
       "video": 68,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1158,
-    "existing_media_files": 1142,
-    "total_size_mb": 323.6,
-    "last_calculation": "2026-06-24T19:14:24.708592+00:00"
+    "referenced_files": 1159,
+    "existing_media_files": 1143,
+    "total_size_mb": 323.63,
+    "last_calculation": "2026-06-24T19:42:00.334991+00:00"
   }
 }
