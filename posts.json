@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 130138,
+        "text": "👈\nوزیر خارجه بحرین: از تلاش‌هایی که به امضای یادداشت تفاهم میان ایران و آمریکا منجر شد، استقبال می‌کنیم| کشور‌های شورای همکاری خلیج فارس چشم انتظار فصل جدیدی هستند‌\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-25T08:32:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130138_0_7c684547.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130138"
+      },
+      {
         "id": 130137,
         "text": "👈\nمارکو روبیو در مورد ایران: می‌توانید آن را عوارض بنامید، می‌توانید آن را هزینه بنامید، هر چه می‌خواهید بنامید - این یک بازی معنایی است.\n🔴\nواقعیت این است که هیچ کشوری در کره زمین حق ندارد برای استفاده از آبراه‌های بین‌المللی هزینه دریافت کند.\n🔴\nو این هرگز شرط قابل قبولی برای هیچ توافقی نخواهد بود. رئیس جمهور اساساً در این مورد شفاف بوده است\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-25T08:16:49+00:00",
@@ -15667,45 +15682,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/130029"
-      },
-      {
-        "id": 130028,
-        "text": "👈\nکامران غضنفری، نماینده مجلس:\nدیدار نخست‌وزیر پاکستان با رهبری، برنامه آمریکا و اسرائیل برای زمینه‌سازی شهادت ایشان است\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-24T14:28:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130028_0_11d2700e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_130028_1_5be4c3c7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130028"
       }
     ]
   },
-  "last_update": "2026-06-25T08:23:49.121530+00:00",
+  "last_update": "2026-06-25T08:55:11.350433+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1152,
-    "total_files": 1152,
+    "total_media": 1151,
+    "total_files": 1151,
     "total_links": 191,
     "files_by_type": {
-      "image": 1071,
+      "image": 1070,
       "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1152,
-    "existing_media_files": 1136,
-    "total_size_mb": 388.73,
-    "last_calculation": "2026-06-25T08:23:49.135247+00:00"
+    "referenced_files": 1151,
+    "existing_media_files": 1135,
+    "total_size_mb": 388.66,
+    "last_calculation": "2026-06-25T08:55:11.363294+00:00"
   }
 }
