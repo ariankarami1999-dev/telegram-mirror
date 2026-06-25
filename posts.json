@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 130110,
+        "text": "👈\nزمین‌لرزه‌ای شدید به بزرگی ۷.۱ بعدازظهر چهارشنبه در غرب کاراکاس، پایتخت ونزوئلا، رخ داد و لرزش آن در کلمبیا نیز احساس شد. ساکنان کاراکاس به خیابان‌ها گریختند و گزارش‌ها از خسارت به ساختمان‌ها و اختلال در برق و اینترنت حکایت دارد.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-25T04:30:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130110_0_11d2700e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_130110_1_299a4b08.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130110"
+      },
+      {
         "id": 130109,
         "text": "👈\nترامپ: بعد از 3000سال من صلح رو به خاورمیانه آوردم\n✅\n@AloNews\nخبر جنگ",
         "date": "2026-06-25T02:43:11+00:00",
@@ -15671,49 +15690,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/130000"
-      },
-      {
-        "id": 129999,
-        "text": "👈\nترامپ: ایران به آمریکا اطلاع داده است که برخلاف گزارش‌های دروغین اخبار جعلی، «هیچ عوارض گمرکی، هیچ حق بیمه و هیچ پرداخت دیگری از هر نوعی توسط ایران برای عبور کشتی‌ها از تنگه هرمز درخواست یا دریافت نمی‌شود»\n🔴\nاگر این اطلاعات نادرست باشد، مذاکرات فوراً متوقف…",
-        "date": "2026-06-24T11:55:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_129999_0_11d2700e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_129999_1_bdcdcddd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_129999_2_d81c5cb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/129999"
       }
     ]
   },
-  "last_update": "2026-06-25T02:48:48.979144+00:00",
+  "last_update": "2026-06-25T04:46:40.003022+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1154,
-    "total_files": 1154,
+    "total_media": 1153,
+    "total_files": 1153,
     "total_links": 191,
     "files_by_type": {
-      "image": 1077,
-      "video": 70,
+      "image": 1075,
+      "video": 71,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1154,
-    "existing_media_files": 1138,
-    "total_size_mb": 354.26,
-    "last_calculation": "2026-06-25T02:48:48.994745+00:00"
+    "referenced_files": 1153,
+    "existing_media_files": 1137,
+    "total_size_mb": 367.22,
+    "last_calculation": "2026-06-25T04:46:40.016268+00:00"
   }
 }
