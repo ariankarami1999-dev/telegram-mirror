@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 130438,
+        "text": "👈\nونس:\nایران توافق آتش‌بس را امضا کرده است. ما به آن احترام گذاشته‌ایم. اگر آنها در مورد نحوه اجرای تفاهم‌نامه اختلاف نظر دارند، می‌توانند تلفن را بردارند.\n🔴\nاما خشونت با خشونت پاسخ داده خواهد شد.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-26T22:50:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130438_0_1090633a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_130438_1_bff26680.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130438"
+      },
+      {
+        "id": 130437,
+        "text": "👈\nنیویورک تایمز به نقل از یک مقام آمریکایی: حملات آمریکا حدود ۹۰ دقیقه ادامه داشت.\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-06-26T22:49:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130437_0_1090633a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130437"
+      },
+      {
         "id": 130436,
         "text": "وقتی از ترس خوارج مجبوری خودتو قایم کنی.\n[\n@AloTweet\n]",
         "date": "2026-06-26T22:41:30+00:00",
@@ -15646,44 +15680,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/130320"
-      },
-      {
-        "id": 130319,
-        "text": "👈\nآغاز پروازهای فرودگاه کیش پس از ۴ ماه وقفه\n🔴\nپروازهای فرودگاه کیش پس از چهار ماه وقفه با ورود نخستین گروه از مسافران و گردشگران در سال ۱۴۰۵ از مسیر هوایی به این جزیره آغاز شد.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-26T11:10:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130319_0_1090633a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_130319_1_14d5b4f3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130319"
-      },
-      {
-        "id": 130318,
-        "text": "👈\nسخنگوی ارتش اسرائیل:\nدر طول این هفته ، بیش از ۱۰ ترور در غزه؛ ۶ حمله در جنوب لبنان؛ بیش از ۱۰۰ بازداشت در کرانه باختری داشته ایم\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-26T11:00:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130318_0_1090633a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130318"
       }
     ]
   },
-  "last_update": "2026-06-26T22:46:31.160719+00:00",
+  "last_update": "2026-06-27T00:07:39.321218+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15699,7 +15699,7 @@
     },
     "referenced_files": 1149,
     "existing_media_files": 1133,
-    "total_size_mb": 372.94,
-    "last_calculation": "2026-06-26T22:46:31.173598+00:00"
+    "total_size_mb": 372.99,
+    "last_calculation": "2026-06-27T00:07:39.334522+00:00"
   }
 }
