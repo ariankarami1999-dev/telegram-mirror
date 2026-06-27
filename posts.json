@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 130517,
+        "text": "مهدی طارمی:\nما به همه آدم های LGBT احترام میزاریم اون انتخاب و نظر خودشونه به ما ربطی نداره ما اینجا هستیم تا فوتبال بازی کنیم.\n@AloSport",
+        "date": "2026-06-27T13:37:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130517_0_778dbca8.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_130517_1_41bf9249.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130517"
+      },
+      {
+        "id": 130516,
+        "text": "👈\nدبیرکل حزب‌الله: سلاح مقاومت هرگز برچیده نخواهد شد.\n🔴\nتوافق دولت لبنان با اسرائیل، مایهٔ ذلت، ننگ و واگذاری حاکمیت لبنان است\n✅\n@AloNews",
+        "date": "2026-06-27T13:28:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130516_0_778dbca8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130516"
+      },
+      {
         "id": 130515,
         "text": "👈\nالعربیه به نقل از منابع آگاه: دور جدید مذاکرات آمریکا و ایران در ماه ژوئیه در دوحه برگزار خواهد شد\n✅\n@AloNews",
         "date": "2026-06-27T13:07:15+00:00",
@@ -15646,56 +15680,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/130404"
-      },
-      {
-        "id": 130402,
-        "text": "🔴\nفوووووووری/ارتش آمریکا در پاسخ به نقض آتش بس از سوی ایران، اهدافی را در جنوب ایران هدف قرار داد\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-26T20:08:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130402_0_1090633a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130402"
-      },
-      {
-        "id": 130401,
-        "text": "👈\nسه صدای انفجار در سیریک، هرمزگان شنیده شده\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-26T20:07:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130401_0_1090633a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130401"
       }
     ]
   },
-  "last_update": "2026-06-27T13:24:11.934380+00:00",
+  "last_update": "2026-06-27T13:42:38.099494+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1148,
-    "total_files": 1148,
+    "total_media": 1149,
+    "total_files": 1149,
     "total_links": 192,
     "files_by_type": {
       "image": 1068,
-      "video": 73,
+      "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1148,
-    "existing_media_files": 1132,
-    "total_size_mb": 321.9,
-    "last_calculation": "2026-06-27T13:24:11.947483+00:00"
+    "referenced_files": 1149,
+    "existing_media_files": 1133,
+    "total_size_mb": 326.49,
+    "last_calculation": "2026-06-27T13:42:38.112762+00:00"
   }
 }
