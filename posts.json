@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 130711,
+        "text": "👈\nسنتکام فیلمی از یک جنگنده F/A-18E سوپر هورنت نیروی دریایی آمریکا در خدمت اسکادران جنگنده ضربتی ۱۳۱ را منتشر کرده است که از ناو هواپیمابر کلاس نیمیتز USS Abraham Lincoln در دریای عرب برای انجام پرواز برخاسته و همچنین یک F/A-18 سوپر هورنت که روی همان ناو فرود می‌آید.\n✅\n@AloNews",
+        "date": "2026-06-28T15:24:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130711_0_3eddc376.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_130711_1_d1ddea13.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130711"
+      },
+      {
+        "id": 130710,
+        "text": "Newcastel core...\n@AloSport",
+        "date": "2026-06-28T14:50:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130710_0_3eddc376.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_130710_1_0d683d57.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130710"
+      },
+      {
         "id": 130709,
         "text": "👈\nکانال ۱۴ اسرائیل:\nدر توافقنامه هیچ جدول زمانی برای خروج وجود ندارد و هیچ چیزی اسرائیل را به آن ملزم نمی‌کند.\n🔴\nدر واقع این یک توافقنامه بسیار خوب است، اما حزب‌الله از این بابت عصبانی شده است.»\n✅\n@AloNews",
         "date": "2026-06-28T14:20:01+00:00",
@@ -15646,48 +15684,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/130597"
-      },
-      {
-        "id": 130596,
-        "text": "👈\nمحارب‌های حزب الله در خیابان‌ها لاستیک و سطل آشغال سوزاندند\n✅\n@AloNews",
-        "date": "2026-06-27T20:47:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130596_0_778dbca8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_130596_1_a11d2d20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130596"
-      },
-      {
-        "id": 130595,
-        "text": "👈\nویدیویی از اغتشاش امشب طرفداران حزب الله در بیروت\n✅\n@AloNews",
-        "date": "2026-06-27T20:43:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130595_0_778dbca8.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_130595_1_070545e5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130595"
       }
     ]
   },
-  "last_update": "2026-06-28T14:24:15.726374+00:00",
+  "last_update": "2026-06-28T15:50:27.679954+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15695,15 +15695,15 @@
     "total_files": 1150,
     "total_links": 192,
     "files_by_type": {
-      "image": 1068,
-      "video": 75,
+      "image": 1067,
+      "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1150,
     "existing_media_files": 1134,
-    "total_size_mb": 344.33,
-    "last_calculation": "2026-06-28T14:24:15.739793+00:00"
+    "total_size_mb": 354.4,
+    "last_calculation": "2026-06-28T15:50:27.693207+00:00"
   }
 }
