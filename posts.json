@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 130783,
+        "text": "👈\nرسانه‌های افغانستان گزارش دادند پاکستان چند نقطه را در ولایت‌های کنر، پکتیا و پکتیکا هدف قرار داده است.\n🔴\nهم‌زمان، پاکستان اعلام کرد مواضعی را در مناطق مرزی با افغانستان هدف گرفته است.\n✅\n@AloNews",
+        "date": "2026-06-28T22:01:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130783_0_3eddc376.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_130783_1_a03bf926.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130783"
+      },
+      {
+        "id": 130782,
+        "text": "👈\nتهیه کننده برنامه مشهور تخت گاز (top gear):\nایران به طرز خیره‌کننده‌ای زیبا بود، میخواستم برنامه‌ام را در ایران بسازم اما به من اجازه ورود ندادند\n✅\n@AloNews",
+        "date": "2026-06-28T21:50:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130782_0_3eddc376.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_130782_1_b7e0345a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130782"
+      },
+      {
         "id": 130781,
         "text": "👈\nآکسیوس به نقل از یک مقام آمریکایی: کشتی‌ها می‌توانند در طول مذاکرات فنی آزادانه در تنگه هرمز تردد کنند\n✅\n@AloNews",
         "date": "2026-06-28T21:36:18+00:00",
@@ -15642,56 +15680,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/130682"
-      },
-      {
-        "id": 130681,
-        "text": "🔴\nشرافت یعنی آقای مرزبان\n🔴\nخدای ما مردم با خدای طرفداران جمهوری اسلامی فرق داره",
-        "date": "2026-06-28T11:23:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130681_0_3eddc376.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130681"
-      },
-      {
-        "id": 130680,
-        "text": "👈\nواکنش سخنگوی قوه قضائیه به تهدید رئیس‌جمهور توسط یک مداح: این یک اقدام مجرمانه بوده و قابلیت پیگیری دارد\n🔴\nدستگاه قضا‌ حتماً به وظیفه قانونی خود عمل خواهد کرد\n🔴\nشرایط وحدت را حفظ کنیم\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-28T11:22:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130680_0_3eddc376.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130680"
       }
     ]
   },
-  "last_update": "2026-06-28T21:39:40.059700+00:00",
+  "last_update": "2026-06-28T23:03:36.032442+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1147,
-    "total_files": 1147,
+    "total_media": 1149,
+    "total_files": 1149,
     "total_links": 192,
     "files_by_type": {
-      "image": 1067,
-      "video": 73,
+      "image": 1068,
+      "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1147,
-    "existing_media_files": 1131,
-    "total_size_mb": 320.47,
-    "last_calculation": "2026-06-28T21:39:40.072600+00:00"
+    "referenced_files": 1149,
+    "existing_media_files": 1133,
+    "total_size_mb": 324.89,
+    "last_calculation": "2026-06-28T23:03:36.046067+00:00"
   }
 }
