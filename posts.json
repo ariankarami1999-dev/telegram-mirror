@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 130785,
+        "text": "👈\nرسانه‌های افغانستان گزارش دادند پاکستان چند نقطه را در ولایت‌های کنر، پکتیا و پکتیکا هدف قرار داده است.\n🔴\nهم‌زمان، پاکستان اعلام کرد مواضعی را در مناطق مرزی با افغانستان هدف گرفته است.\n✅\n@AloNews",
+        "date": "2026-06-29T00:15:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130785_0_3eddc376.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_130785_1_5e911ded.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130785"
+      },
+      {
+        "id": 130784,
+        "text": "مصاحبه جدید با بدل جمهوری اسلامی\n[\n@AloTweet\n]",
+        "date": "2026-06-28T23:27:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_130784_0_3eddc376.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_130784_1_6b8754a3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/130784"
+      },
+      {
         "id": 130783,
         "text": "👈\nرسانه‌های افغانستان گزارش دادند پاکستان چند نقطه را در ولایت‌های کنر، پکتیا و پکتیکا هدف قرار داده است.\n🔴\nهم‌زمان، پاکستان اعلام کرد مواضعی را در مناطق مرزی با افغانستان هدف گرفته است.\n✅\n@AloNews",
         "date": "2026-06-28T22:01:28+00:00",
@@ -15646,60 +15684,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/130684"
-      },
-      {
-        "id": 130683,
-        "text": "👈\nهواداران حزب‌الله دیشب تابلوهای «لبنان اول» را در جاده منتهی به فرودگاه بیروت به آتش کشیدند\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-28T11:36:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130683_0_3eddc376.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_130683_1_7aa2dc0c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130683"
-      },
-      {
-        "id": 130682,
-        "text": "👈\nالجزیره به نقل از صدا سیما: امن‌ترین گذرگاه برای کشتی‌هایی که وارد خلیج فارس می‌شوند، جنوب جزیره هرمز و برای کشتی‌هایی که از آن خارج می‌شوند، جنوب جزیره لارک است.\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-06-28T11:32:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_130682_0_3eddc376.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/130682"
       }
     ]
   },
-  "last_update": "2026-06-28T23:03:36.032442+00:00",
+  "last_update": "2026-06-29T01:38:06.044577+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1149,
-    "total_files": 1149,
+    "total_media": 1150,
+    "total_files": 1150,
     "total_links": 192,
     "files_by_type": {
       "image": 1068,
-      "video": 74,
+      "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1149,
-    "existing_media_files": 1133,
-    "total_size_mb": 324.89,
-    "last_calculation": "2026-06-28T23:03:36.046067+00:00"
+    "referenced_files": 1150,
+    "existing_media_files": 1134,
+    "total_size_mb": 327.99,
+    "last_calculation": "2026-06-29T01:38:06.058053+00:00"
   }
 }
