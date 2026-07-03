@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 131581,
+        "text": "👈\n15 سال پیش در چنین روزی؛ احمدی‌نژاد: به هر خانواده ۱۰۰۰ متر زمین می‌دهیم\n🔴\nمردم بروند ۱۰۰ مترش را خانه بسازند و در بقیه زمین فضای سبز درست کنند\n✅\n@AloNews",
+        "date": "2026-07-03T08:54:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131581_0_a13c6522.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131581_1_221ac072.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131581"
+      },
+      {
+        "id": 131580,
+        "text": "👈\nدیدار رئیس‌جمهور عراق با پزشکیان\n✅\n@AloNews",
+        "date": "2026-07-03T08:43:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131580_0_a13c6522.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_131580_1_a4b3c8dc.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131580"
+      },
+      {
+        "id": 131579,
+        "text": "👈\nقالیباف: آمریکا و اسرائیل به تعهدات خود عمل نکنند، اقدامات متناسب خود را از سر میگیریم\n✅\n@AloNews",
+        "date": "2026-07-03T08:41:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131579_0_a13c6522.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131579"
+      },
+      {
         "id": 131578,
         "text": "👈\nدیدار رئیس‌جمهور تاجیکستان با دکتر پزشکیان\n✅\n@AloNews",
         "date": "2026-07-03T08:35:12+00:00",
@@ -15661,83 +15714,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131442"
-      },
-      {
-        "id": 131441,
-        "text": "👈\nلارا لومر، فعال سیاسی آمریکایی خواستار بمباران تشییع جنازه سیدعلی خامنه‌ای توسط ارتش اسرائیل شد\n✅\n@AloNews",
-        "date": "2026-07-02T12:26:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131441_0_55a5c475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131441_1_04002a5f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131441"
-      },
-      {
-        "id": 131440,
-        "text": "👈\nفواد ایزدی:\nمشاورین قالیباف کصخول هستن\n✅\n@AloNews\nخبر جنگ",
-        "date": "2026-07-02T12:21:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131440_0_55a5c475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131440_1_1e842d64.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131440"
-      },
-      {
-        "id": 131439,
-        "text": "👈\nترامپ:\nایالات متحده تاکنون بیش از هر کشور دیگری برای محافظت از ناتو هزینه کرده است، بدون اینکه هیچ سودی از این کار ببرد:\n🔴\nایالات متحده ۹۹۹ میلیارد دلار، بریتانیا ۹۰.۵ میلیارد دلار، فرانسه ۶۶.۵ میلیارد دلار، ایتالیا ۴۸.۸ میلیارد دلار، لهستان ۴۴.۳ میلیارد دلار.\n🔴\nدیگر کشورها، از جمله آلمان، بسیار کمتر از این هستند. (۲۰۱۴-۲۰۲۵) مسخره است!\n✅\n@AloNews",
-        "date": "2026-07-02T12:13:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131439_0_55a5c475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131439_1_f1e9aa85.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131439"
       }
     ]
   },
-  "last_update": "2026-07-03T08:36:21.488870+00:00",
+  "last_update": "2026-07-03T08:57:13.070376+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1160,
-    "total_files": 1160,
+    "total_media": 1159,
+    "total_files": 1159,
     "total_links": 191,
     "files_by_type": {
-      "image": 1081,
-      "video": 72,
+      "image": 1079,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1160,
-    "existing_media_files": 1144,
-    "total_size_mb": 310.59,
-    "last_calculation": "2026-07-03T08:36:21.502186+00:00"
+    "referenced_files": 1159,
+    "existing_media_files": 1143,
+    "total_size_mb": 319.07,
+    "last_calculation": "2026-07-03T08:57:13.084151+00:00"
   }
 }
