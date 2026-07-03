@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 131671,
+        "text": "👈\nخبرنگار CNN که مجدداً به تهران آمده است، از جزئیات مراسم تشییع  می‌گوید\n✅\n@AloNews",
+        "date": "2026-07-03T19:24:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131671_0_a13c6522.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_131671_1_4e8aadad.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131671"
+      },
+      {
         "id": 131670,
         "text": "👈\nبر اساس گزارش شبکه NBC، حساب‌های سرمایه‌ گذاری دونالد ترامپ، رئیس‌جمهور آمریکا، در یک روز قبل از توقف تعرفه‌های بزرگ، 327 خرید سهام پنهان انجام داده‌اند\n✅\n@AloNews",
         "date": "2026-07-03T19:11:21+00:00",
@@ -15743,41 +15762,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131527"
-      },
-      {
-        "id": 131526,
-        "text": "👈\nترامپ به سی‌ان‌بی‌سی گفت:\nایران در طول 47 سال گذشته، با بهره‌برداری از ضعف روسای جمهور سابق، زورگویی و ظلم در خاورمیانه و علیه ما انجام داده است.\n🔴\nاوباما 1.7 میلیارد دلار به ایران به صورت نقدی تحویل داد تا از آن برای توسعه سلاح‌ها و موشک‌هایش استفاده کند.\n✅\n@AloNews",
-        "date": "2026-07-02T21:51:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131526_0_55a5c475.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131526"
       }
     ]
   },
-  "last_update": "2026-07-03T19:13:37.666132+00:00",
+  "last_update": "2026-07-03T19:27:20.459631+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1170,
-    "total_files": 1170,
+    "total_media": 1171,
+    "total_files": 1171,
     "total_links": 191,
     "files_by_type": {
       "image": 1081,
-      "video": 82,
+      "video": 83,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1170,
-    "existing_media_files": 1154,
-    "total_size_mb": 370.24,
-    "last_calculation": "2026-07-03T19:13:37.680193+00:00"
+    "referenced_files": 1171,
+    "existing_media_files": 1155,
+    "total_size_mb": 380.43,
+    "last_calculation": "2026-07-03T19:27:20.473924+00:00"
   }
 }
