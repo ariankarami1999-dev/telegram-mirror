@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 131542,
+        "text": "👈\nمایک والتز نماینده ایالات متحده خطاب به نماینده جمهوری اسلامی در شورای امنیت سازمان ملل : اینجا تهران نیست که بخواهید همه را خفه کنید ، اینجا آمریکا است ، اینجا سازمان ملل است\n🔴\nاین اسناد حملات شما به مناطق مسکونی بحرین است که دروغ نمی‌گویند\n✅\n@AloNews",
+        "date": "2026-07-03T05:50:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131542_0_a13c6522.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_131542_1_007948d4.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131542"
+      },
+      {
+        "id": 131541,
+        "text": "👈\nفاکس‌نیوز: مقامات ایرانی نسبت به برخی بازرسی‌های هسته‌ای روی خوش نشان داده‌اند\n✅\n@AloNews",
+        "date": "2026-07-03T05:45:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131541_0_a13c6522.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131541"
+      },
+      {
+        "id": 131540,
+        "text": "👈\nفایننشال تایمز: با افزایش اعتماد به آتش‌بس، عبور و مرور از تنگه هرمز هفته گذشته بیش از چهار برابر شده است\n✅\n@AloNews",
+        "date": "2026-07-03T05:35:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131540_0_a13c6522.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131540"
+      },
+      {
         "id": 131539,
         "text": "👈\nوزیر کشور پاکستان برای تشییع جنازه سید علی خامنه‌ای، وارد تهران شد\n✅\n@AloNews",
         "date": "2026-07-03T01:11:50+00:00",
@@ -15637,71 +15686,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131428"
-      },
-      {
-        "id": 131427,
-        "text": "👈\nالحدث مدعی شد: دور بعدی مذاکرات هفته آینده با حضور عراقچی و قالیباف در  در بورگن اشتوک براگزار خواهد شد\n✅\n@AloNews",
-        "date": "2026-07-02T11:09:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131427_0_55a5c475.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131427"
-      },
-      {
-        "id": 131426,
-        "text": "👈\nسخنگوی ارتش : مذاکره، جنگ در سنگری دیگر است\n🔴\nدست بر روی ماشه، چشم به روی دشمن و گوش به فرمان فرمانده معظم کل قوا هستیم و هر لحظه اراده کنند، وارد جنگ با دشمنان خواهیم شد\n✅\n@AloNews",
-        "date": "2026-07-02T10:53:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131426_0_55a5c475.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131426"
-      },
-      {
-        "id": 131425,
-        "text": "👈\nگزارش جروزالم‌پست، پس از وارد شدن خسارت‌هایی در جریان جنگ ایران، سنتکام در حال بررسی انتقال پایگاه‌های آمریکا از منطقه خلیج فارس به صحرای نقب در اسرائیل است\n✅\n@AloNews",
-        "date": "2026-07-02T10:44:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131425_0_55a5c475.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131425"
       }
     ]
   },
-  "last_update": "2026-07-03T05:27:07.251752+00:00",
+  "last_update": "2026-07-03T05:50:14.914937+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1151,
-    "total_files": 1151,
+    "total_media": 1152,
+    "total_files": 1152,
     "total_links": 191,
     "files_by_type": {
       "image": 1072,
-      "video": 72,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1151,
-    "existing_media_files": 1135,
-    "total_size_mb": 306.7,
-    "last_calculation": "2026-07-03T05:27:07.265647+00:00"
+    "referenced_files": 1152,
+    "existing_media_files": 1136,
+    "total_size_mb": 309.68,
+    "last_calculation": "2026-07-03T05:50:14.928072+00:00"
   }
 }
