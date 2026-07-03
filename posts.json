@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 131539,
+        "text": "👈\nوزیر کشور پاکستان برای تشییع جنازه سید علی خامنه‌ای، وارد تهران شد\n✅\n@AloNews",
+        "date": "2026-07-03T01:11:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131539_0_55a5c475.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131539_1_a9b450e6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131539"
+      },
+      {
         "id": 131538,
         "text": "👈\nتصویری از آسمون منطقه\n✅\n@AloNews",
         "date": "2026-07-02T22:55:50+00:00",
@@ -15663,29 +15682,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131425"
-      },
-      {
-        "id": 131424,
-        "text": "👈\nآمار تلفات زلزله ونزوئلا به ۲۲۹۵ کشته و ۱۱۲۶۷ زخمی رسیده است و نزدیک به ۵۰ هزار نفر هنوز ۹ روز پس از وقوع اولین زلزله مفقود هستند\n✅\n@AloNews",
-        "date": "2026-07-02T10:40:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131424_0_55a5c475.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_131424_1_da024f7b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131424"
       }
     ]
   },
-  "last_update": "2026-07-03T01:11:35.904661+00:00",
+  "last_update": "2026-07-03T02:31:46.096168+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15693,15 +15693,15 @@
     "total_files": 1151,
     "total_links": 191,
     "files_by_type": {
-      "image": 1071,
-      "video": 73,
+      "image": 1072,
+      "video": 72,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1151,
     "existing_media_files": 1135,
-    "total_size_mb": 310.41,
-    "last_calculation": "2026-07-03T01:11:35.918387+00:00"
+    "total_size_mb": 306.7,
+    "last_calculation": "2026-07-03T02:31:46.109961+00:00"
   }
 }
