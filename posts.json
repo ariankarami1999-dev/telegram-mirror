@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 131626,
+        "text": "👈\nرویترز\n:\nبه سه منبع ایرانی و غربی استناد می‌کند، ایران مذاکراتی را برای فروش نفت به شرکت‌های ژاپنی آغاز کرده است، اما خریداران احتمالی به دنبال دریافت معافیت طولانی‌تری از تحریم‌های ایالات متحده و اطمینان از ایمنی تردد کشتی‌ها در خلیج فارس هستند.\n✅\n@AloNews",
+        "date": "2026-07-03T14:00:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131626_0_a13c6522.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131626_1_b9bcc851.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131626"
+      },
+      {
+        "id": 131625,
+        "text": "👈\nادای احترام دیمیتری مدودف، معاون رئیس شورای امنیت روسیه و فرستاده ویژه پوتین\n✅\n@AloNews",
+        "date": "2026-07-03T13:56:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131625_0_a13c6522.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_131625_1_e7b1504d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131625"
+      },
+      {
         "id": 131624,
         "text": "👈\nادای احترام وزیر آموزش عالی گوام\n✅\n@AloNews",
         "date": "2026-07-03T13:53:33+00:00",
@@ -15680,48 +15718,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131490"
-      },
-      {
-        "id": 131489,
-        "text": "👈\nیه بشقاب پرنده داخل فلایت رادار تو آسمون آمریکا ظاهر شده\n✅\n@AloNews",
-        "date": "2026-07-02T17:24:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131489_0_55a5c475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131489_1_9355f760.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131489"
-      },
-      {
-        "id": 131488,
-        "text": "👈\nقائم پناه، معاون پزشکیان: قرار باشه هرچی رهبر بگه رو اجرا کنیم که باید در تمام نهادها رو ببندیم\n✅\n@AloNews",
-        "date": "2026-07-02T17:18:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131488_0_55a5c475.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131488_1_640120a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131488"
       }
     ]
   },
-  "last_update": "2026-07-03T13:53:58.594989+00:00",
+  "last_update": "2026-07-03T14:03:37.270374+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15729,15 +15729,15 @@
     "total_files": 1160,
     "total_links": 191,
     "files_by_type": {
-      "image": 1082,
-      "video": 71,
+      "image": 1081,
+      "video": 72,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1160,
     "existing_media_files": 1144,
-    "total_size_mb": 313.95,
-    "last_calculation": "2026-07-03T13:53:58.608112+00:00"
+    "total_size_mb": 315.82,
+    "last_calculation": "2026-07-03T14:03:37.284171+00:00"
   }
 }
