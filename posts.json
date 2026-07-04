@@ -13992,6 +13992,33 @@
     ],
     "alonews": [
       {
+        "id": 131686,
+        "text": "👈\nهم اکنون مصلی تهران\n✅\n@AloNews",
+        "date": "2026-07-04T02:20:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131686_0_a13c6522.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131686_1_806331ed.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131686_2_25382fe3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131686_3_656f73b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131686"
+      },
+      {
         "id": 131685,
         "text": "👈\nفارس :ساعت ۶ صبح بیاید مصلی تهران\n✅\n@AloNews",
         "date": "2026-07-03T21:54:12+00:00",
@@ -15743,45 +15770,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131559"
-      },
-      {
-        "id": 131542,
-        "text": "👈\nمایک والتز نماینده ایالات متحده خطاب به نماینده جمهوری اسلامی در شورای امنیت سازمان ملل : اینجا تهران نیست که بخواهید همه را خفه کنید ، اینجا آمریکا است ، اینجا سازمان ملل است\n🔴\nاین اسناد حملات شما به مناطق مسکونی بحرین است که دروغ نمی‌گویند\n✅\n@AloNews",
-        "date": "2026-07-03T05:50:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131542_0_a13c6522.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_131542_1_007948d4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131542"
       }
     ]
   },
-  "last_update": "2026-07-03T23:36:22.387627+00:00",
+  "last_update": "2026-07-04T02:30:20.174484+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1171,
-    "total_files": 1171,
+    "total_media": 1173,
+    "total_files": 1173,
     "total_links": 191,
     "files_by_type": {
-      "image": 1082,
-      "video": 82,
+      "image": 1085,
+      "video": 81,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1171,
-    "existing_media_files": 1155,
-    "total_size_mb": 390.06,
-    "last_calculation": "2026-07-03T23:36:22.401037+00:00"
+    "referenced_files": 1173,
+    "existing_media_files": 1157,
+    "total_size_mb": 387.34,
+    "last_calculation": "2026-07-04T02:30:20.188524+00:00"
   }
 }
