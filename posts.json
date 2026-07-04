@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 131828,
+        "text": "👈\nنیویورک تایمز: مجتبی خامنه‌ای در تلاش است تا در تشییع پدرش شرکت کند اما مقامات امنیتی مانع هستند\n✅\n@AloNews",
+        "date": "2026-07-04T22:26:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131828_0_73367660.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131828_1_63a77c71.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131828"
+      },
+      {
+        "id": 131826,
+        "text": "🚨\nاز ساعاتی قبل تصاویری بسیار منشوری از آرام جوینده همسر سپهر حیدری، اسطوره پرسپولیس درحال پخش شدن است\n◀️\nمشاهده فوری و بدون سانسور",
+        "date": "2026-07-04T22:10:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131826_0_73367660.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131826_1_0af40905.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131826"
+      },
+      {
         "id": 131825,
         "text": "👈\nقدرتنمایی جنگنده‌های ارتش بر فراز تهران\n✅\n@AloNews",
         "date": "2026-07-04T21:24:14+00:00",
@@ -15638,72 +15676,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131722"
-      },
-      {
-        "id": 131718,
-        "text": "👈\nبه‌روزرسانی (تنگه هرمز): چندین کشتی به‌طور ناگهانی در حال تغییر مسیر از کریدور عمانیِ تحت کنترل آمریکا به کریدور تعیین‌شده از سوی ایران هستند، یا حتی دور زده و بازمی‌گردند\n✅\n@AloNews",
-        "date": "2026-07-04T09:08:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131718_0_73367660.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131718_1_3614a851.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131718_2_6fad06d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131718_3_25533726.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_131718_4_b09b41af.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131718"
-      },
-      {
-        "id": 131717,
-        "text": "👈\nمنابع لبنانی از حملهٔ پهپادی اسرائیل به اطراف شهرک «صدیقین» در جنوب لبنان خبر دادند.\n✅\n@AloNews",
-        "date": "2026-07-04T08:51:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131717_0_73367660.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131717"
       }
     ]
   },
-  "last_update": "2026-07-04T21:29:24.222558+00:00",
+  "last_update": "2026-07-04T22:31:44.870299+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1150,
-    "total_files": 1150,
+    "total_media": 1148,
+    "total_files": 1148,
     "total_links": 192,
     "files_by_type": {
-      "image": 1072,
+      "image": 1070,
       "video": 71,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1150,
-    "existing_media_files": 1134,
-    "total_size_mb": 283.59,
-    "last_calculation": "2026-07-04T21:29:24.235818+00:00"
+    "referenced_files": 1148,
+    "existing_media_files": 1132,
+    "total_size_mb": 283.4,
+    "last_calculation": "2026-07-04T22:31:44.883415+00:00"
   }
 }
