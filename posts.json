@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 131836,
+        "text": "👈\nپویانفر\n،\nمداح\n:\nآقایون\nسیاستمدار، بسه دیگه...!\n✅\n@AloNews",
+        "date": "2026-07-05T00:01:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131836_0_96414ad5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_131836_1_fc5b4afe.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131836"
+      },
+      {
         "id": 131835,
         "text": "👈\nزاکانی و برخی از مسئولین تو حاشیه مراسم امروز رفتن چلوکباب خوردن\n🔴\nمردم هم اون بیرون زیر آفتاب، صف وایسادن تا غذای نیم پرس و تخم مرغ آب پز بخورن\n✅\n@AloNews",
         "date": "2026-07-04T23:25:02+00:00",
@@ -15673,41 +15692,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131729"
-      },
-      {
-        "id": 131728,
-        "text": "👈\nمهران رجبی : حسرتی که پس از دیدار با رهبر به دلم ماند این بود که نتوانستم پایش را ببوسم\n✅\n@AloNews",
-        "date": "2026-07-04T09:56:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131728_0_73367660.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131728"
       }
     ]
   },
-  "last_update": "2026-07-04T23:36:26.092643+00:00",
+  "last_update": "2026-07-05T02:39:33.369971+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1151,
-    "total_files": 1151,
+    "total_media": 1152,
+    "total_files": 1152,
     "total_links": 192,
     "files_by_type": {
       "image": 1070,
-      "video": 74,
+      "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1151,
-    "existing_media_files": 1135,
-    "total_size_mb": 298.44,
-    "last_calculation": "2026-07-04T23:36:26.106562+00:00"
+    "referenced_files": 1152,
+    "existing_media_files": 1136,
+    "total_size_mb": 299.61,
+    "last_calculation": "2026-07-05T02:39:33.383308+00:00"
   }
 }
