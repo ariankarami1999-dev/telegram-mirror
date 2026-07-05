@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 131981,
+        "text": "👈\nعلی دبیر: آقا زورخونه‌ای بود\n✅\n@AloNews\nخبر جنگ",
+        "date": "2026-07-05T22:39:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131981_0_96414ad5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131981_1_3edbdfdb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131981"
+      },
+      {
+        "id": 131980,
+        "text": "👈\nرئیس‌جمهور ترامپ در Truth Social، نخست‌وزیر ایتالیا، جورجیا ملونی را تمسخر کرد.\n✅\n@AloNews",
+        "date": "2026-07-05T22:28:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_131980_0_96414ad5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_131980_1_95a645a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/131980"
+      },
+      {
         "id": 131979,
         "text": "🇳🇴\nنروژ2-\n1\nبرزیل\n🇧🇷\n‼️\nابرویی که بالا نرفت/ بچه‌غول حکم به حذف برزیل داد و نروژ را به یک‌چهارم فرستاد\n@AloSport",
         "date": "2026-07-05T22:09:29+00:00",
@@ -15646,56 +15684,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/131877"
-      },
-      {
-        "id": 131876,
-        "text": "🔴\nفوری / ارتش اسرائیل از حمله هوایی به غزه و ترور دو عضو ارشد حماس خبر داد.\n✅\n@AloNews",
-        "date": "2026-07-05T09:06:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131876_0_96414ad5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131876"
-      },
-      {
-        "id": 131875,
-        "text": "👈\nاستانداری هرمزگان: احتمال شنیدن صدای انفجار ناشی از خنثی‌سازی مهمات در امروز وجود دارد.\n✅\n@AloNews",
-        "date": "2026-07-05T09:01:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_131875_0_96414ad5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/131875"
       }
     ]
   },
-  "last_update": "2026-07-05T22:10:10.150284+00:00",
+  "last_update": "2026-07-05T23:36:14.102628+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1148,
-    "total_files": 1148,
+    "total_media": 1150,
+    "total_files": 1150,
     "total_links": 192,
     "files_by_type": {
-      "image": 1071,
+      "image": 1073,
       "video": 70,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1148,
-    "existing_media_files": 1132,
-    "total_size_mb": 322.34,
-    "last_calculation": "2026-07-05T22:10:10.160006+00:00"
+    "referenced_files": 1150,
+    "existing_media_files": 1134,
+    "total_size_mb": 322.46,
+    "last_calculation": "2026-07-05T23:36:14.116856+00:00"
   }
 }
