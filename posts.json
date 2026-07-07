@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 132149,
+        "text": "👈\nوضعیت مجلس قانون‌گذاران نروژ\n✅\n@AloNews",
+        "date": "2026-07-07T05:56:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_132149_0_e4c1b3ad.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_132149_1_bcdced7a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/132149"
+      },
+      {
+        "id": 132148,
+        "text": "👈\nواکنش عراقچی به ادعاهای ترامپ: تا زمانی که تهدید‌ها علیه ایران ادامه داشته باشد، مذاکرات برای دستیابی به توافق نهایی آغاز نخواهد شد\n🔴\nبه امضای خود پایبند باشید\n✅\n@AloNews",
+        "date": "2026-07-07T05:51:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_132148_0_e4c1b3ad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/132148"
+      },
+      {
         "id": 132147,
         "text": "👈\nمارک روته، دبیرکل ناتو، در آنکارا: اگر شما یک جوان هستید که در روسیه زندگی می‌کنید و به فکر پیوستن به این جنگ هستید، دوباره فکر کنید، زیرا احتمالاً شما یکی از ۳۵۰۰۰ نفری خواهید بود که این ماه، ماه آینده یا ماه بعد کشته می‌شوند\n✅\n@AloNews",
         "date": "2026-07-07T05:35:47+00:00",
@@ -15640,56 +15674,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/132033"
-      },
-      {
-        "id": 132032,
-        "text": "👈\nاستانداری هرمزگان: تمامی دستگاه‌های اجرایی، بانک‌ها و مراکز آموزشی استان هرمزگان در روز سه‌شنبه تعطیل است\n✅\n@AloNews",
-        "date": "2026-07-06T11:24:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_132032_0_3b902ba6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/132032"
-      },
-      {
-        "id": 132031,
-        "text": "👈\nروزنامه الاخبار خبر داد: پرواز دومین هواپیمای ایرانی به صنعا در ساعات آینده\n✅\n@AloNews",
-        "date": "2026-07-06T11:17:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_132031_0_3b902ba6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/132031"
       }
     ]
   },
-  "last_update": "2026-07-07T05:38:22.331616+00:00",
+  "last_update": "2026-07-07T06:04:55.400631+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1148,
-    "total_files": 1148,
+    "total_media": 1149,
+    "total_files": 1149,
     "total_links": 191,
     "files_by_type": {
       "image": 1067,
-      "video": 74,
+      "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1148,
-    "existing_media_files": 1132,
-    "total_size_mb": 359.75,
-    "last_calculation": "2026-07-07T05:38:22.341435+00:00"
+    "referenced_files": 1149,
+    "existing_media_files": 1133,
+    "total_size_mb": 362.72,
+    "last_calculation": "2026-07-07T06:04:55.411306+00:00"
   }
 }
