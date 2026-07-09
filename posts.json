@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 132739,
+        "text": "👈\nدلار هم اکنون 181,200\n✅\n@AloNews",
+        "date": "2026-07-09T09:35:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_132739_0_205842df.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/132739"
+      },
+      {
         "id": 132738,
         "text": "🔴\nفوری / شنیده شدن صدای چند انفجار در بوشهر\n✅\n@AloNews",
         "date": "2026-07-09T09:31:42+00:00",
@@ -15657,25 +15672,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/132571"
-      },
-      {
-        "id": 132570,
-        "text": "🔴\nفوری /  ترامپ: میخواهم پرونده ایران را یکبار برای همیشه تمام کنم، نه اینکه با رهبران فعلی بازی کنم\n✅\n@AloNews",
-        "date": "2026-07-08T16:39:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_132570_0_5dfba709.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/132570"
       }
     ]
   },
-  "last_update": "2026-07-09T09:32:11.107166+00:00",
+  "last_update": "2026-07-09T09:38:46.131665+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15692,6 +15692,6 @@
     "referenced_files": 1147,
     "existing_media_files": 1131,
     "total_size_mb": 295.66,
-    "last_calculation": "2026-07-09T09:32:11.120478+00:00"
+    "last_calculation": "2026-07-09T09:38:46.139642+00:00"
   }
 }
