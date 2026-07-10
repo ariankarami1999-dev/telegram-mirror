@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 133127,
+        "text": "👈\nمدیریت بحران آذربایجان شرقی: آتش‌سوزی نیروگاه حرارتی تبریز ناشی از نقص فنی در نقطه اتصال به شبکه برق بوده و شایعات درباره حمله به این نیروگاه صحت ندارد\n✅\n@AloNews",
+        "date": "2026-07-10T19:31:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_133127_0_7d47e4c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/133127"
+      },
+      {
+        "id": 133126,
+        "text": "👈\nایروانی: اگر آمریکا به نقض تعهداتش ادامه دهد، ایران دیگر ملزم به اجرای تعهداتش نیست\n✅\n@AloNews",
+        "date": "2026-07-10T19:27:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_133126_0_7d47e4c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/133126"
+      },
+      {
         "id": 133125,
         "text": "👈\nناسا به دنبال ۴ داوطلب برای گذراندن یک سال در یک مأموریت شبیه‌سازی‌شده به ماه/مریخ است.\n🔴\nشرکت‌کنندگان در زیستگاه‌های منزوی زندگی خواهند کرد، غذا کشت می‌کنند، سلامت خود را پایش می‌کنند، پیاده‌روی‌های فضایی شبیه‌سازی‌شده انجام می‌دهند و خود را با روز مریخی که ۴۰ دقیقه طولانی‌تر است، وفق می‌دهند.\n🔴\nهدف، مطالعه اثرات فیزیکی و روانی مأموریت‌های فضایی با مدت طولانی است\n✅\n@AloNews",
         "date": "2026-07-10T19:18:17+00:00",
@@ -15592,60 +15622,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/133005"
-      },
-      {
-        "id": 133003,
-        "text": "👈\nپاکستان: حملات تروریستی از افغانستان سازماندهی می‌شود\n🔴\nنخست‌وزیر پاکستان مدعی شد حملات اخیر در بلوچستان و خیبرپختونخوا از خاک افغانستان هدایت می‌شود\n✅\n@AloNews",
-        "date": "2026-07-10T09:08:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_133003_0_7d47e4c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/133003"
-      },
-      {
-        "id": 133002,
-        "text": "👈\nتوئیت عضو تیم مذاکره‌کننده: تفاهم خوب بود و شیوه اجرای آن هم تا الان خوب است\n✅\n@AloNews",
-        "date": "2026-07-10T09:06:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_133002_0_7d47e4c3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_133002_1_d7f8d307.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/133002"
       }
     ]
   },
-  "last_update": "2026-07-10T19:22:36.660649+00:00",
+  "last_update": "2026-07-10T19:31:17.207117+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1137,
-    "total_files": 1137,
+    "total_media": 1136,
+    "total_files": 1136,
     "total_links": 191,
     "files_by_type": {
-      "image": 1066,
+      "image": 1065,
       "video": 64,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1137,
-    "existing_media_files": 1121,
-    "total_size_mb": 280.6,
-    "last_calculation": "2026-07-10T19:22:36.671168+00:00"
+    "referenced_files": 1136,
+    "existing_media_files": 1120,
+    "total_size_mb": 280.56,
+    "last_calculation": "2026-07-10T19:31:17.220161+00:00"
   }
 }
