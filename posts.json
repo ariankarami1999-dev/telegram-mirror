@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 133145,
+        "text": "👈\nسی‌ان‌ان: یک مقام آمریکایی اعلام کرد تا زمانی که ایران اجازه عبور آزادانه نفتکش‌ها از تنگه هرمز رو نده، واشینگتن وارد مذاکرات مربوط به تسلیحات هسته‌ای نمیشه\n✅\n@AloNews",
+        "date": "2026-07-10T22:43:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_133145_0_7d47e4c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/133145"
+      },
+      {
+        "id": 133143,
+        "text": "👈\nدوستان به شدت دقت کنید این کانال و امثال این فرد کلاهبرداری محض هستند و کوچیک ترین سرمایه ایی وارد نکنید که سرتون کلاه می‌رود\n🔴\nهر کانالی بهتون گفت برید فلان ارز(لیست نشده تو صرافی‌های معتبر) رو بخرید قطعا کلاهبرداره\n✅\n@AloNews",
+        "date": "2026-07-10T22:22:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_133143_0_7d47e4c3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_133143_1_ba2fc69a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_133143_2_ccfdad89.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/133143"
+      },
+      {
         "id": 133142,
         "text": "👈\nالناز شاکردوست به دلیل استوری اعتراضی در دی ماه به دادگاه احظار شد!\n🔴\nجرم: امنیتی!\n✅\n@AloNews",
         "date": "2026-07-10T22:01:01+00:00",
@@ -15612,56 +15650,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/133040"
-      },
-      {
-        "id": 133039,
-        "text": "👈\nشورای عالی قضایی عراق: روند پیگرد مفسدان مالی و اداری و بازگرداندن اموال دولت را دنبال می‌کنیم\n✅\n@AloNews",
-        "date": "2026-07-10T11:06:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_133039_0_7d47e4c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/133039"
-      },
-      {
-        "id": 133038,
-        "text": "👈\nخبرنگار الجزیره گزارش داده است که یک پهپاد اسرائیلی به خودرویی در شهر کفررمان در منطقه نبطیه در جنوب لبنان حمله کرده است\n✅\n@AloNews",
-        "date": "2026-07-10T11:02:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_133038_0_7d47e4c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/133038"
       }
     ]
   },
-  "last_update": "2026-07-10T22:02:58.421991+00:00",
+  "last_update": "2026-07-10T23:29:56.824765+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1141,
-    "total_files": 1141,
+    "total_media": 1143,
+    "total_files": 1143,
     "total_links": 191,
     "files_by_type": {
-      "image": 1068,
+      "image": 1070,
       "video": 66,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1141,
-    "existing_media_files": 1125,
-    "total_size_mb": 293.67,
-    "last_calculation": "2026-07-10T22:02:58.432522+00:00"
+    "referenced_files": 1143,
+    "existing_media_files": 1127,
+    "total_size_mb": 293.8,
+    "last_calculation": "2026-07-10T23:29:56.838264+00:00"
   }
 }
