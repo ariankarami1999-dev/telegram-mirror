@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 133319,
+        "text": "👈\nمنبع عبری: رهبری و نیروهای مسلح ایران مانع بیانیه تسلیم تنگه هرمز شدند\n✅\n@AloNews",
+        "date": "2026-07-11T21:55:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_133319_0_04cc1d6b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/133319"
+      },
+      {
         "id": 133318,
         "text": "👈\nشبکه خبری آمریکایی «سی ان ان» به نقل از یک منبع: عمان اداره جریان کشتیرانی از دو مسیر جداگانه را پیشنهاد داد\n✅\n@AloNews",
         "date": "2026-07-11T21:19:37+00:00",
@@ -15623,25 +15638,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/133215"
-      },
-      {
-        "id": 133214,
-        "text": "👈\nفارس به نقل از منبع آگاه:ایران هیچ درخواستی برای مذاکره با آمریکا ارائه نکرده\n✅\n@AloNews",
-        "date": "2026-07-11T10:46:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_133214_0_04cc1d6b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/133214"
       }
     ]
   },
-  "last_update": "2026-07-11T21:24:58.992428+00:00",
+  "last_update": "2026-07-11T22:23:26.193723+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15658,6 +15658,6 @@
     "referenced_files": 1140,
     "existing_media_files": 1124,
     "total_size_mb": 312.37,
-    "last_calculation": "2026-07-11T21:24:59.005810+00:00"
+    "last_calculation": "2026-07-11T22:23:26.207261+00:00"
   }
 }
