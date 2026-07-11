@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 133297,
+        "text": "👈\nاستیو بنن از نزدیکان و طرفداران اصلی ترامپ : موساد با مطرح کردن موضوع ترور ترامپ قصد دارد بار دیگر او را فریب دهد تا زمینه برای آغاز یک جنگ جدید فراهم شود؛ جنگی که این‌بار ممکن است به تهاجم زمینی منجر شود.\n✅\n@AloNews",
+        "date": "2026-07-11T19:07:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_133297_0_04cc1d6b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_133297_1_d557362f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/133297"
+      },
+      {
         "id": 133296,
         "text": "👈\nضرغامی: تمام وجود ترامپ را ترس از تهدیدات ما گرفته است\n✅\n@AloNews",
         "date": "2026-07-11T18:56:29+00:00",
@@ -15611,41 +15630,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/133194"
-      },
-      {
-        "id": 133192,
-        "text": "👈\nطبق گزارش‌ها برق نقاطی از تهران بدون اطلاع قبلی قطع شده\n✅\n@AloNews",
-        "date": "2026-07-11T08:40:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_133192_0_04cc1d6b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/133192"
       }
     ]
   },
-  "last_update": "2026-07-11T18:57:05.491605+00:00",
+  "last_update": "2026-07-11T19:09:34.139188+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1137,
-    "total_files": 1137,
+    "total_media": 1138,
+    "total_files": 1138,
     "total_links": 191,
     "files_by_type": {
       "image": 1065,
-      "video": 65,
+      "video": 66,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1137,
-    "existing_media_files": 1121,
-    "total_size_mb": 302.95,
-    "last_calculation": "2026-07-11T18:57:05.499422+00:00"
+    "referenced_files": 1138,
+    "existing_media_files": 1122,
+    "total_size_mb": 305.05,
+    "last_calculation": "2026-07-11T19:09:34.152836+00:00"
   }
 }
