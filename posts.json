@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 133471,
+        "text": "👈\nترامپ: تنگه کاملا بازه\n✅\n@AloNews",
+        "date": "2026-07-12T13:20:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_133471_0_f50a83ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/133471"
+      },
+      {
+        "id": 133470,
+        "text": "👈\nبه هوش مصنوعی گفتم یه تصویر از تندروهای ایرانی بده که اینو داد\n✅\n@AloNews",
+        "date": "2026-07-12T13:16:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_133470_0_f50a83ea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_133470_1_d6c8e7ba.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/133470"
+      },
+      {
         "id": 133468,
         "text": "👈\nفراخوان و لشگرکشی پایداری‌ها(ملت معکوس) برای محاکمه قالیباف و پزشکیان و اعضای شعام\n✅\n@AloNews",
         "date": "2026-07-12T13:05:09+00:00",
@@ -15628,56 +15662,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/133349"
-      },
-      {
-        "id": 133334,
-        "text": "🔴\nفوری/انفجار در اهواز\n✅\n@AloNews",
-        "date": "2026-07-11T23:27:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_133334_0_04cc1d6b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/133334"
-      },
-      {
-        "id": 133333,
-        "text": "🔴\nفوری/حملات به تمام خط ساحلی جنوب\n✅\n@AloNews",
-        "date": "2026-07-11T23:26:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_133333_0_04cc1d6b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/133333"
       }
     ]
   },
-  "last_update": "2026-07-12T13:10:15.199241+00:00",
+  "last_update": "2026-07-12T13:48:07.316419+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1145,
-    "total_files": 1145,
+    "total_media": 1146,
+    "total_files": 1146,
     "total_links": 191,
     "files_by_type": {
-      "image": 1074,
+      "image": 1075,
       "video": 64,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1145,
-    "existing_media_files": 1129,
-    "total_size_mb": 276.03,
-    "last_calculation": "2026-07-12T13:10:15.212964+00:00"
+    "referenced_files": 1146,
+    "existing_media_files": 1130,
+    "total_size_mb": 276.16,
+    "last_calculation": "2026-07-12T13:48:07.329761+00:00"
   }
 }
