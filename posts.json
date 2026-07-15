@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 134335,
+        "text": "👈\nطرح جدید دیوارنگاره میدان انقلاب با  شعار \"ما ترامپ را می کشیم\n\"\n✅\n@AloNews",
+        "date": "2026-07-15T08:06:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_134335_0_bd1f8141.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_134335_1_4d5d5e8d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/134335"
+      },
+      {
+        "id": 134334,
+        "text": "👈\nانفجار در بندر کنگان\n✅\n@AloNews",
+        "date": "2026-07-15T08:06:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_134334_0_bd1f8141.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/134334"
+      },
+      {
         "id": 134333,
         "text": "👈\nبندر فجیره امارات که مهم‌ترین مرکز جابه‌جایی نفتکش‌ها در منطقه بود، پس از حمله موشکی سپاه به دو نفتکش(VLCC) از چرخه فعالیت خارج شده است\n✅\n@AloNews",
         "date": "2026-07-15T08:00:22+00:00",
@@ -15628,56 +15662,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/134224"
-      },
-      {
-        "id": 134223,
-        "text": "👈\nگزارش فعالیت و قدرتنمایی جنگنده های نیروهوایی ارتش برفراز تهران\n✅\n@AloNews",
-        "date": "2026-07-14T19:55:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_134223_0_2274a09b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/134223"
-      },
-      {
-        "id": 134194,
-        "text": "👈\nشنیده شدن صدای انفجار در بندرعباس\n✅\n@AloNews",
-        "date": "2026-07-14T19:20:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_134194_0_2274a09b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/134194"
       }
     ]
   },
-  "last_update": "2026-07-15T08:01:53.215779+00:00",
+  "last_update": "2026-07-15T08:09:49.554009+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1145,
-    "total_files": 1145,
+    "total_media": 1146,
+    "total_files": 1146,
     "total_links": 191,
     "files_by_type": {
-      "image": 1065,
+      "image": 1066,
       "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1145,
-    "existing_media_files": 1129,
-    "total_size_mb": 317.52,
-    "last_calculation": "2026-07-15T08:01:53.228922+00:00"
+    "referenced_files": 1146,
+    "existing_media_files": 1130,
+    "total_size_mb": 317.65,
+    "last_calculation": "2026-07-15T08:09:49.567663+00:00"
   }
 }
