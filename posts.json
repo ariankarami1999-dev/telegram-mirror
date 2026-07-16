@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 134631,
+        "text": "👈\nسنتکام: این موج از حملاتمان علیه ایران پایان یافت\n✅\n@AloNews",
+        "date": "2026-07-16T01:32:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_134631_0_fe287e3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/134631"
+      },
+      {
+        "id": 134630,
+        "text": "👈\nانفجار در سمنان و همدان\n✅\n@AloNews",
+        "date": "2026-07-16T01:15:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_134630_0_fe287e3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/134630"
+      },
+      {
+        "id": 134629,
+        "text": "👈\nانفجار در قشم\n✅\n@AloNews",
+        "date": "2026-07-16T01:06:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_134629_0_fe287e3f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/134629"
+      },
+      {
         "id": 134628,
         "text": "👈\nاین وسط ماهواره‌های ایلان ماسک بصورت خطی دارن میرن و تو ایران هم قابل رویت هستن\n✅\n@AloNews",
         "date": "2026-07-16T00:54:07+00:00",
@@ -15609,55 +15654,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/134476"
-      },
-      {
-        "id": 134475,
-        "text": "👈\nانفجارهایی در اربیل عراق\n✅\n@AloNews",
-        "date": "2026-07-15T16:36:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_134475_0_bd1f8141.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/134475"
-      },
-      {
-        "id": 134474,
-        "text": "👈\nبلومبرگ: نفتکش‌های فوق‌بزرگ به‌طور فزاینده‌ای هدف حملات در تنگه هرمز قرار می‌گیرند\n🔴\nدر ماه ژوئن، پنج مورد از نه حمله به کشتی‌های تجاری، علیه نفتکش‌های موسوم به «بسیار بزرگ» انجام شده\n🔴\nاین نوع کشتی‌ها، ستون اصلی حمل نفت خاورمیانه به نقاط مختلف جهان به‌شمار می‌روند\n✅\n@AloNews",
-        "date": "2026-07-15T16:34:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_134474_0_bd1f8141.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/134474"
-      },
-      {
-        "id": 134473,
-        "text": "👈\nنیروی زمینی ارتش: پاسخ حمله آمریکا به ایرانشهر را خواهیم داد\n✅\n@AloNews",
-        "date": "2026-07-15T16:22:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_134473_0_bd1f8141.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/134473"
       }
     ]
   },
-  "last_update": "2026-07-16T00:58:50.377197+00:00",
+  "last_update": "2026-07-16T02:09:44.196163+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15674,6 +15674,6 @@
     "referenced_files": 1144,
     "existing_media_files": 1128,
     "total_size_mb": 297.53,
-    "last_calculation": "2026-07-16T00:58:50.390345+00:00"
+    "last_calculation": "2026-07-16T02:09:44.209350+00:00"
   }
 }
