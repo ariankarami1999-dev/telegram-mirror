@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 135062,
+        "text": "تا الان سه مربی تو این دوره از جام جهانی نباختن:\n@AloSport",
+        "date": "2026-07-17T13:12:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135062_0_4daea4d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_135062_1_7c21059e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135062"
+      },
+      {
+        "id": 135061,
+        "text": "👈\nطبق اعلام برخی منابع پاکستانی، فیلد مارشال عاصم منیر قصد دارد به تهران و واشنگتن سفر کند\n✅\n@AloNews",
+        "date": "2026-07-17T12:57:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135061_0_4daea4d4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_135061_1_2dc18796.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135061"
+      },
+      {
+        "id": 135060,
+        "text": "👈\nروزنامه الاخبار لبنان ادعا کرد؛ تحرکات جدی مصر و اعراب خلیج فارس برای بازگشت آمریکا و ایران به «یادداشت تفاهم» و ازسرگیری مذاکرات صورت گرفته است\n🔴\nقاهره به شدت در تلاش است تا درگیری‌ها به «نقطه بی‌بازگشت» نرسند\n🔴\nفشار سیاسی - دیپلماتیک اعراب به واشنگتن جهت جلوگیری از ورود تل‌آویو به جنگ بیشتر شده است\n✅\n@AloNews",
+        "date": "2026-07-17T12:47:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135060_0_4daea4d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135060"
+      },
+      {
         "id": 135059,
         "text": "👈\nدقت کردید از این ۵نفر خبری نیست؟\n✅\n@AloNews",
         "date": "2026-07-17T12:43:54+00:00",
@@ -15661,71 +15714,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/134944"
-      },
-      {
-        "id": 134943,
-        "text": "👈\nانفجار در قطر\n✅\n@AloNews",
-        "date": "2026-07-17T00:39:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_134943_0_4daea4d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/134943"
-      },
-      {
-        "id": 134942,
-        "text": "👈\nبرخی منابع: اعزام گسترده نیروهای امنیتی عربستان به مسیر پل ارتباطی عربستان و بحرین\n✅\n@AloNews",
-        "date": "2026-07-17T00:28:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_134942_0_4daea4d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/134942"
-      },
-      {
-        "id": 134940,
-        "text": "👈\nچندین انفجار جدید در بحرین\n✅\n@AloNews",
-        "date": "2026-07-17T00:20:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_134940_0_4daea4d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/134940"
       }
     ]
   },
-  "last_update": "2026-07-17T12:45:00.810784+00:00",
+  "last_update": "2026-07-17T13:19:01.689471+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1159,
+    "total_files": 1159,
     "total_links": 191,
     "files_by_type": {
-      "image": 1077,
+      "image": 1079,
       "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 349.78,
-    "last_calculation": "2026-07-17T12:45:00.824920+00:00"
+    "referenced_files": 1159,
+    "existing_media_files": 1143,
+    "total_size_mb": 349.87,
+    "last_calculation": "2026-07-17T13:19:01.702782+00:00"
   }
 }
