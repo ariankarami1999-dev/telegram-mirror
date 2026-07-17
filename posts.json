@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 135145,
+        "text": "👈\nمحسن رضایی: اگر حملات آمریکا تا دو سه روز دیگر ادامه پیدا کند وارد مرحله تهاجمی کامل خواهیم شد\n🔴\nایران در مرحله تهاجمی کامل دیگر به مقابله به مثل اکتفا نخواهد کرد و هیچ مرز سیاسی در مقابل تهاجم ایران امنیت نخواهد داشت.\n✅\n@AloNews",
+        "date": "2026-07-17T19:05:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135145_0_4daea4d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135145"
+      },
+      {
         "id": 135144,
         "text": "👈\nفیلد مارشال محسن رضایی: آمریکا مفاد تفاهمنامه را زیر پا گذاشت و از تفاهمنامه فقط یک اسم باقی مانده بود\n✅\n@AloNews",
         "date": "2026-07-17T18:59:33+00:00",
@@ -15703,45 +15718,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/135029"
-      },
-      {
-        "id": 135028,
-        "text": "👈\nوضعیت کامنت‌های پویش جانفدا\n✅\n@AloNews",
-        "date": "2026-07-17T10:44:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_135028_0_4daea4d4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_135028_1_380aa0b6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/135028"
       }
     ]
   },
-  "last_update": "2026-07-17T19:02:16.773518+00:00",
+  "last_update": "2026-07-17T19:08:15.665415+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1161,
-    "total_files": 1161,
+    "total_media": 1160,
+    "total_files": 1160,
     "total_links": 191,
     "files_by_type": {
-      "image": 1080,
+      "image": 1079,
       "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1161,
-    "existing_media_files": 1145,
-    "total_size_mb": 329.04,
-    "last_calculation": "2026-07-17T19:02:16.787325+00:00"
+    "referenced_files": 1160,
+    "existing_media_files": 1144,
+    "total_size_mb": 329.01,
+    "last_calculation": "2026-07-17T19:08:15.678756+00:00"
   }
 }
