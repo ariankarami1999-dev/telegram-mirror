@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 135248,
+        "text": "👈\nانفجار در اهواز\n✅\n@AloNews",
+        "date": "2026-07-18T01:27:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135248_0_882d9031.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135248"
+      },
+      {
+        "id": 135247,
+        "text": "👈\nانفجار در لرستان و جاسک\n✅\n@AloNews",
+        "date": "2026-07-18T01:26:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135247_0_882d9031.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135247"
+      },
+      {
         "id": 135246,
         "text": "👈\nانفجار در جزیره لارک\n✅\n@AloNews",
         "date": "2026-07-18T00:00:03+00:00",
@@ -15620,40 +15650,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/135130"
-      },
-      {
-        "id": 135129,
-        "text": "👈\nانفجار مهیب در هرمزگان\n✅\n@AloNews",
-        "date": "2026-07-17T17:40:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_135129_0_4daea4d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/135129"
-      },
-      {
-        "id": 135128,
-        "text": "👈\nتسنیم نوشت: امروز یک کشتی در تنگه هرمز مورد هدف قرار گرفت.\n🔴\nاین کشتی با پرچم کشور تایلند بدون توجه به هشدارها و بدون اخذ مجوز از نیروی دریایی سپاه قصد داشت از تنگه هرمز عبور کند که با ممانعت نیروی دریایی سپاه مواجه شد و مورد هدف قرار گرفت.\n✅\n@AloNews",
-        "date": "2026-07-17T17:40:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_135128_0_4daea4d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/135128"
       }
     ]
   },
-  "last_update": "2026-07-18T00:57:59.208356+00:00",
+  "last_update": "2026-07-18T02:02:11.270514+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15670,6 +15670,6 @@
     "referenced_files": 1143,
     "existing_media_files": 1127,
     "total_size_mb": 282.19,
-    "last_calculation": "2026-07-18T00:57:59.221635+00:00"
+    "last_calculation": "2026-07-18T02:02:11.284002+00:00"
   }
 }
