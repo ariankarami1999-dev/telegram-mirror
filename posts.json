@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 135672,
+        "text": "👈\nارتش اردن: 3 فروند موشک بالستیک ایران که به سمت جنوب شهر عقبه شلیک شده بود، در حالی که موشک چهارم به منطقه باز اصابت کرد، رهگیری شد.\n✅\n@AloNews",
+        "date": "2026-07-19T13:13:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135672_0_993052a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135672"
+      },
+      {
+        "id": 135671,
+        "text": "👈\nمنابع عبری\n: اسرائیل ممکن است در 24 تا 48 ساعت آینده،ارتباطات رادیویی خود را به دلیل تنش قریب‌الوقوع با ایران قطع کند.\n✅\n@AloNews",
+        "date": "2026-07-19T13:09:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135671_0_993052a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135671"
+      },
+      {
         "id": 135670,
         "text": "👈\nمنتسب به کرمانشاه\n✅\n@AloNews",
         "date": "2026-07-19T13:07:09+00:00",
@@ -15608,40 +15638,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/135529"
-      },
-      {
-        "id": 135528,
-        "text": "👈\n۲ انفجار شدید در بهبهان\n✅\n@AloNews",
-        "date": "2026-07-18T22:48:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_135528_0_882d9031.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/135528"
-      },
-      {
-        "id": 135527,
-        "text": "🔴\nفوری/انفجار در بندرعباس\n✅\n@AloNews",
-        "date": "2026-07-18T22:47:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_135527_0_882d9031.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/135527"
       }
     ]
   },
-  "last_update": "2026-07-19T13:07:46.995879+00:00",
+  "last_update": "2026-07-19T13:17:27.592571+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15658,6 +15658,6 @@
     "referenced_files": 1140,
     "existing_media_files": 1124,
     "total_size_mb": 307.29,
-    "last_calculation": "2026-07-19T13:07:47.008960+00:00"
+    "last_calculation": "2026-07-19T13:17:27.605899+00:00"
   }
 }
