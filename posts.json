@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 135577,
+        "text": "نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره :\n@khabar\n◀️",
+        "date": "2026-07-19T08:17:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135577_0_993052a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135577"
+      },
+      {
+        "id": 135576,
+        "text": "👈\nالعربیه: به صدا درآمدن آژیر خطر در بحرین\n✅\n@AloNews",
+        "date": "2026-07-19T08:16:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135576_0_993052a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135576"
+      },
+      {
+        "id": 135575,
+        "text": "👈\nبه علت گرمای شدید هوا فعالیت تمامی ادارات در استان خوزستان فردا ۲۹ تیر به صورت دورکاری خواهد بود\n✅\n@AloNews",
+        "date": "2026-07-19T08:15:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_135575_0_993052a8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/135575"
+      },
+      {
         "id": 135574,
         "text": "👈\nنیویورک‌تایمز: دولت ترامپ نگران است که افراط در استفاده از تحریم‌ها علیه روسیه، کشورهای بیشتری را به روی گرداندن از دلار آمریکا ترغیب کند؛ در نتیجه اقدام به کاهش برخی از تحریم‌ها علیه مسکو کرده\n✅\n@AloNews",
         "date": "2026-07-19T08:11:16+00:00",
@@ -15577,75 +15622,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/135465"
-      },
-      {
-        "id": 135464,
-        "text": "👈\nفرماندار بوشهر: همه چی عادیه\n✅\n@AloNews",
-        "date": "2026-07-18T18:54:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_135464_0_882d9031.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/135464"
-      },
-      {
-        "id": 135463,
-        "text": "👈\nگزارش صدای بلند در روستای لنگر شهر بجنورد\n✅\n@AloNews",
-        "date": "2026-07-18T18:53:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_135463_0_882d9031.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/135463"
-      },
-      {
-        "id": 135462,
-        "text": "👈\nسطح اختلال شدید\nGPS\nتو کشور‌های خلیج فارس :\n✅\n@AloNews",
-        "date": "2026-07-18T18:49:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_135462_0_882d9031.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_135462_1_b197f121.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/135462"
       }
     ]
   },
-  "last_update": "2026-07-19T08:11:25.368425+00:00",
+  "last_update": "2026-07-19T08:18:01.299729+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1137,
-    "total_files": 1137,
+    "total_media": 1136,
+    "total_files": 1136,
     "total_links": 191,
     "files_by_type": {
-      "image": 1061,
+      "image": 1060,
       "video": 69,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1137,
-    "existing_media_files": 1121,
-    "total_size_mb": 282.37,
-    "last_calculation": "2026-07-19T08:11:25.381574+00:00"
+    "referenced_files": 1136,
+    "existing_media_files": 1120,
+    "total_size_mb": 282.27,
+    "last_calculation": "2026-07-19T08:18:01.313249+00:00"
   }
 }
