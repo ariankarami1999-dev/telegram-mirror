@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 136251,
+        "text": "👈\nکارلوس خیمنز، نماینده کنگره آمریکا:\nشاید چیزی که ایرانی‌ها را پای میز مذاکره بیاورد این باشد که بالاخره بخشی از خاک آنها را بگیریم و بگوییم اینجا دیگر خاک ایران نیست!\n✅\n@AloNews",
+        "date": "2026-07-21T05:15:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136251_0_fc6cb4c0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_136251_1_657a80d4.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136251"
+      },
+      {
+        "id": 136250,
+        "text": "👈\nروزنامه انگلسی گاردین: جنگ آمریکا و ایران نگرانی از کمبود گاز در زمستان را افزایش می‌دهد.\n🔴\nاروپا برای تأمین ذخایر گاز پیش از فرا رسیدن زمستان با فشارهای فزاینده‌ای روبه‌رو است\n✅\n@AloNews",
+        "date": "2026-07-21T05:11:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136250_0_fc6cb4c0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136250"
+      },
+      {
+        "id": 136249,
+        "text": "👈\nقیمت شونه تخم‌مرغ یه‌شبه ۸۰ هزار تومن رفت بالا\n✅\n@AloNews",
+        "date": "2026-07-21T05:07:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136249_0_fc6cb4c0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_136249_1_b0f0bfd7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136249"
+      },
+      {
         "id": 136248,
         "text": "👈\nنقاطی که امشب مورد حمله ارتش آمریکا قرار گرفته‌اند:\nبندرعباس\nجزیره قشم\nسیریک\nبندر لنگه\nبوشهر\nچابهار\nکنارک\nشیراز\nکرمان\n✅\n@AloNews",
         "date": "2026-07-20T23:51:55+00:00",
@@ -15601,75 +15654,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/136084"
-      },
-      {
-        "id": 136083,
-        "text": "👈\nآژیر های هشدار در بحرین\n✅\n@AloNews",
-        "date": "2026-07-20T15:35:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136083_0_781b5340.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136083"
-      },
-      {
-        "id": 136082,
-        "text": "👈\nآژیر های هشدار در بحرین\n✅\n@AloNews",
-        "date": "2026-07-20T15:33:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136082_0_781b5340.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136082"
-      },
-      {
-        "id": 136081,
-        "text": "👈\nمارکو روبیو درباره ایران: ایران یک هفته پیش قرار بود بیانیه‌ای صادر کند مبنی بر اینکه تنگه هرمز باز شده و دیگر به کشتیرانی حمله نخواهد کرد. اما به جای این کار، به سه کشتی حمله کردند.\n🔴\nرفتار آن‌ها باید تغییر کند تا رفتار ما تغییر کند.\n✅\n@AloNews",
-        "date": "2026-07-20T15:32:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136081_0_781b5340.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_136081_1_8432eb32.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136081"
       }
     ]
   },
-  "last_update": "2026-07-21T03:57:19.378878+00:00",
+  "last_update": "2026-07-21T05:18:40.635650+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1143,
-    "total_files": 1143,
+    "total_media": 1144,
+    "total_files": 1144,
     "total_links": 191,
     "files_by_type": {
-      "image": 1067,
+      "image": 1068,
       "video": 69,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1143,
-    "existing_media_files": 1127,
-    "total_size_mb": 305.19,
-    "last_calculation": "2026-07-21T03:57:19.385712+00:00"
+    "referenced_files": 1144,
+    "existing_media_files": 1128,
+    "total_size_mb": 300.83,
+    "last_calculation": "2026-07-21T05:18:40.649473+00:00"
   }
 }
