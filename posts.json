@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 136548,
+        "text": "👈\nتعداد بیشتری از هواپیماهای آمریکایی مدل KC-135R/T که وظیفه سوخت‌رسانی هوایی را دارند، به سمت پایگاه‌های اسرائیلی در حال حرکت هستند.\n✅\n@AloNews",
+        "date": "2026-07-22T05:14:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136548_0_43ee1364.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_136548_1_3b00ea3a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136548"
+      },
+      {
         "id": 136547,
         "text": "👈\nانفجار در نهاوند\n✅\n@AloNews",
         "date": "2026-07-21T23:56:45+00:00",
@@ -15627,29 +15646,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/136441"
-      },
-      {
-        "id": 136440,
-        "text": "👈\nپزشکیان:\nحرفای زیادی تو دلم دارم ولی الان نمیگم\n✅\n@AloNews",
-        "date": "2026-07-21T16:25:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136440_0_fc6cb4c0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_136440_1_6aeadb7e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136440"
       }
     ]
   },
-  "last_update": "2026-07-22T04:26:14.727310+00:00",
+  "last_update": "2026-07-22T05:17:18.917534+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15665,7 +15665,7 @@
     },
     "referenced_files": 1142,
     "existing_media_files": 1126,
-    "total_size_mb": 295.27,
-    "last_calculation": "2026-07-22T04:26:14.740974+00:00"
+    "total_size_mb": 295.28,
+    "last_calculation": "2026-07-22T05:17:18.931720+00:00"
   }
 }
