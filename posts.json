@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 136684,
+        "text": "👈\nزلنسکی، رئیس‌جمهور اوکراین: امروز حملات دوربرد ما اهداف مهمی را در مناطق کراسنودار و استاوروپول روسیه با موفقیت درهم کوبید.\n🔴\nدر پهنهٔ دریای سیاه و دریای آزوف هم یک نفت‌کش و ۴ کشتی باری از «ناوگان سایه» روسیه هدف قرار گرفتند.\n🔴\nما آتش جنگ را به خانهٔ اصلی‌اش یعنی خاک روسیه بازمی‌گردانیم\n✅\n@AloNews",
+        "date": "2026-07-22T13:53:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136684_0_43ee1364.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136684"
+      },
+      {
+        "id": 136683,
+        "text": "👈\nخبرنگار الجزیره در تهران: به نظر می‌رسد ایران هر ایده‌ای را که شامل یک جدول زمانی برای آتش‌بس باشد، رد می‌کند و هرگونه مذاکره‌ای باید مبتنی بر بازگشت به اجرای یادداشت تفاهم باشد.\n🔴\nتهران معتقد است که مهلت‌های آتش‌بس صرفاً دوره‌هایی برای تجدید قوا و بازگشت به جنگ هستند و نمی‌خواهد در این چرخه گرفتار شود.\n✅\n@AloNews",
+        "date": "2026-07-22T13:49:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136683_0_43ee1364.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_136683_1_3d08b3d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136683"
+      },
+      {
         "id": 136682,
         "text": "👈\nمعاون امنیتی استانداری چهارمحال و بختیاری: در حملات دیشب آمریکا، نقاطی از شهرستان کیار مورد حمله قرار گرفت.\n✅\n@AloNews",
         "date": "2026-07-22T13:42:01+00:00",
@@ -15644,44 +15678,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/136541"
-      },
-      {
-        "id": 136538,
-        "text": "👈\nجنگنده از آسمان قزوین رد شد\n✅\n@AloNews",
-        "date": "2026-07-21T23:48:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136538_0_43ee1364.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136538"
-      },
-      {
-        "id": 136537,
-        "text": "👈\nمنتسب به ماهشهر\n✅\n@AloNews",
-        "date": "2026-07-21T23:45:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136537_0_43ee1364.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_136537_1_fd796bfa.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136537"
       }
     ]
   },
-  "last_update": "2026-07-22T13:42:38.313899+00:00",
+  "last_update": "2026-07-22T13:54:26.975181+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15689,15 +15689,15 @@
     "total_files": 1150,
     "total_links": 191,
     "files_by_type": {
-      "image": 1069,
-      "video": 74,
+      "image": 1070,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1150,
     "existing_media_files": 1134,
-    "total_size_mb": 326.01,
-    "last_calculation": "2026-07-22T13:42:38.327266+00:00"
+    "total_size_mb": 323.12,
+    "last_calculation": "2026-07-22T13:54:26.988499+00:00"
   }
 }
