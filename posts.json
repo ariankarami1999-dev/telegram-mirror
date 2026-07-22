@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 136790,
+        "text": "👈\nگویا اینترنت بزودی قطع میشه\n‼️\n🔴\nدادگستری تهران: داشتن و استفاده از استارلینک جرم سنگینی داره\n✅\n@AloNews",
+        "date": "2026-07-22T19:05:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136790_0_43ee1364.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136790"
+      },
+      {
+        "id": 136789,
+        "text": "👈\nیک آخوند: علت قهرمانی اسپانیا، عدم کاشت ناخن، نزدن لاک و عفت زنان بود\n✅\n@AloNews",
+        "date": "2026-07-22T18:59:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136789_0_43ee1364.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136789"
+      },
+      {
+        "id": 136788,
+        "text": "👈\nخبرنگار: چرا تو تجمعات شبانه کسی با دخترای بی حجاب کار نداشت اما تو کافه‌ها گیر میدید؟\n🔴\nچمران: هه هه هه\n😊\n😈\n✅\n@AloNews",
+        "date": "2026-07-22T18:54:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_136788_0_43ee1364.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_136788_1_e469d6a0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/136788"
+      },
+      {
         "id": 136787,
         "text": "👈\nبریتانیا: از شهروندان بریتانیایی که در حال حاضر در خاورمیانه حضور دارند، درخواست می‌شود برای احتمال لغو پروازها، بستن موقت فضای هوایی و اختلالات احتمالی در سفر، آماده باشن\n✅\n@AloNews",
         "date": "2026-07-22T18:43:02+00:00",
@@ -15601,71 +15650,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/136620"
-      },
-      {
-        "id": 136619,
-        "text": "👈\nروبیو : ما به یک تفاهم‌نامه رسیدیم، اما ایران ظرف دو هفته اون رو نقض کرد\n✅\n@AloNews",
-        "date": "2026-07-22T09:55:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136619_0_43ee1364.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136619"
-      },
-      {
-        "id": 136618,
-        "text": "👈\nروبیو: ما به تلاش خود برای از بین بردن توانمندی‌های نظامی ایران که تهدیدی برای کشتیرانی در دریا محسوب می‌شود، ادامه می‌دهیم.\n🔴\nچین هیچ اقدامی برای تغییر مسیر جنگ با ایران انجام نداده است و گاهی اوقات نیز همکاری داشته است\n✅\n@AloNews",
-        "date": "2026-07-22T09:51:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136618_0_43ee1364.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136618"
-      },
-      {
-        "id": 136617,
-        "text": "👈\nروبیو : ایران می‌تونست ظرف دو سال به سمت ساخت سلاح هسته‌ای بره\n🔴\nیا با ده‌ها هزار پهپاد و موشک ما رو تهدید کنه؛ اما دیگه نمی‌تونه این کار رو انجام بده و به‌شدت تضعیف شده\n✅\n@AloNews",
-        "date": "2026-07-22T09:50:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136617_0_43ee1364.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136617"
       }
     ]
   },
-  "last_update": "2026-07-22T18:43:11.881467+00:00",
+  "last_update": "2026-07-22T19:10:45.356730+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1142,
-    "total_files": 1142,
+    "total_media": 1143,
+    "total_files": 1143,
     "total_links": 191,
     "files_by_type": {
       "image": 1064,
-      "video": 71,
+      "video": 72,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1142,
-    "existing_media_files": 1126,
-    "total_size_mb": 322.19,
-    "last_calculation": "2026-07-22T18:43:11.891580+00:00"
+    "referenced_files": 1143,
+    "existing_media_files": 1127,
+    "total_size_mb": 323.13,
+    "last_calculation": "2026-07-22T19:10:45.364700+00:00"
   }
 }
