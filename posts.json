@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 137065,
+        "text": "👈\nکانال 13 عبری: «نهادهای اطلاعاتی غرب بر این باورند که ممکن است ایران آغازگر اقدام علیه اسرائیل باشد»\n✅\n@AloNews",
+        "date": "2026-07-23T19:17:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137065_0_73158e40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137065"
+      },
+      {
+        "id": 137064,
+        "text": "👈\nاکونومیست: چین از جنگ اوکراین برای تقویت توان نظامی خود در آستانه درگیری احتمالی بر سر تایوان بهره می‌برد\n✅\n@AloNews",
+        "date": "2026-07-23T19:14:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137064_0_73158e40.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137064"
+      },
+      {
         "id": 137063,
         "text": "👈\nبیانیه مشترک عراق و ایران: حل بحران‌های منطقه‌ای تنها از طریق گفتگو، دیپلماسی و مشارکت کشورهای منطقه میسر است\n✅\n@AloNews",
         "date": "2026-07-23T19:07:06+00:00",
@@ -15668,60 +15698,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/136927"
-      },
-      {
-        "id": 136926,
-        "text": "👈\nروبوسی\nِ\nپزشکیان با نخست‌وزیر عراق\n✅\n@AloNews",
-        "date": "2026-07-23T09:50:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136926_0_73158e40.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_136926_1_08c11632.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136926"
-      },
-      {
-        "id": 136925,
-        "text": "👈\nنخست‌وزیر پاکستان: در گفت‌وگوی تلفنی با بن سلمان، توافق کردیم که به همکاری برای حفظ تجارت دریایی از طریق دریای سرخ و تنگه هرمز ادامه دهیم\n🔴\nحملات یمن به تانکرهای نفتی سعودی در دریای سرخ را محکوم کردم\n✅\n@AloNews",
-        "date": "2026-07-23T09:47:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_136925_0_73158e40.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/136925"
       }
     ]
   },
-  "last_update": "2026-07-23T19:10:32.856138+00:00",
+  "last_update": "2026-07-23T19:18:02.133317+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1156,
-    "total_files": 1156,
+    "total_media": 1155,
+    "total_files": 1155,
     "total_links": 191,
     "files_by_type": {
       "image": 1071,
-      "video": 78,
+      "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1156,
-    "existing_media_files": 1140,
-    "total_size_mb": 379.02,
-    "last_calculation": "2026-07-23T19:10:32.869460+00:00"
+    "referenced_files": 1155,
+    "existing_media_files": 1139,
+    "total_size_mb": 378.59,
+    "last_calculation": "2026-07-23T19:18:02.146774+00:00"
   }
 }
