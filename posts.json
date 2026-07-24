@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 137231,
+        "text": "👈\nسخنگوی حوثی‌ها بسته شدن تنگه باب‌المندب برای همه رو تکذیب کرد و گفت محاصره دریایی فقط عربستان سعودی رو هدف قرار میده.\n✅\n@AloNews",
+        "date": "2026-07-24T13:41:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137231_0_8d6a046e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137231"
+      },
+      {
         "id": 137229,
         "text": "برند معروف گوچی از پوشک جدیدش برای بچه ها با قیمت 88 میلیون رونمایی کرد !\n[\n@AloTweet\n]",
         "date": "2026-07-24T13:28:15+00:00",
@@ -15747,45 +15762,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/137101"
-      },
-      {
-        "id": 137100,
-        "text": "👈\nدونالد ترامپ\n:\nاز این لحظه به بعد، هرگونه خسارتی که به کشتی‌ها، کالاها یا هر چیزی مرتبط با آن‌ها وارد شود، از طریق وجوه متعلق به ایران که در حال حاضر در اختیار ایالات متحده قرار دارد جبران خواهد شد.\nممکن است این خسارت‌ها قابل‌توجه باشند، اما با وجود این، این اقدام عادلانه و درست است و باید انجام شود.\nاز توجه شما به این موضوع سپاسگزارم.\n✅\n@AloNews",
-        "date": "2026-07-23T22:15:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137100_0_8d6a046e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_137100_1_4141b0b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137100"
       }
     ]
   },
-  "last_update": "2026-07-24T13:28:22.730787+00:00",
+  "last_update": "2026-07-24T13:45:23.765234+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1172,
-    "total_files": 1172,
+    "total_media": 1171,
+    "total_files": 1171,
     "total_links": 191,
     "files_by_type": {
-      "image": 1079,
+      "image": 1078,
       "video": 86,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1172,
-    "existing_media_files": 1156,
-    "total_size_mb": 342.63,
-    "last_calculation": "2026-07-24T13:28:22.744798+00:00"
+    "referenced_files": 1171,
+    "existing_media_files": 1155,
+    "total_size_mb": 342.57,
+    "last_calculation": "2026-07-24T13:45:23.778904+00:00"
   }
 }
