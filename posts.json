@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 137595,
+        "text": "👈\nارتش آمریکا فیلمی از شلیک یک موشک هوا به زمین هلفایر به موتورخانه نفتکش لاوین در خلیج عمان منتشر کرد و مدعی شد که این نفتکش تحریم‌های ایران را نقض کرده است.\n✅\n@AloNews",
+        "date": "2026-07-25T21:51:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137595_0_ad16293c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_137595_1_ece50313.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137595"
+      },
+      {
+        "id": 137594,
+        "text": "👈\nآزاده آل ایوب(خاله نرگس): نباید به بازداشتی‌های اعتراضات عفو داد و باید همشون رو اعدام کرد\n✅\n@AloNews",
+        "date": "2026-07-25T21:45:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137594_0_ad16293c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_137594_1_1c3e6d9e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137594"
+      },
+      {
+        "id": 137593,
+        "text": "👈\nسنتکام:\nمحاصره دریایی آمریکا علیه ایران همچنان به‌طور کامل برقرار است.\n✅\n@AloNews",
+        "date": "2026-07-25T21:38:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137593_0_ad16293c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137593"
+      },
+      {
         "id": 137592,
         "text": "👈\nتحلیلگران در تجمعات شبانه در حال قانع کردن امت معکوس برای توافق هستن\n🔴\nیک تحلیلگر پایداری: با این محاصره اگه توافق نکنیم اوضاع بحرانی میشه\n✅\n@AloNews",
         "date": "2026-07-25T21:27:02+00:00",
@@ -15637,75 +15690,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/137495"
-      },
-      {
-        "id": 137494,
-        "text": "👈\nحمله عربستان سعودی به هدفی در مأرب یمن\n✅\n@AloNews",
-        "date": "2026-07-25T12:49:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137494_0_415c0b74.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_137494_1_a43b7770.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137494"
-      },
-      {
-        "id": 137493,
-        "text": "👈\nمنابع عربی از حمله به پایگاه آمریکا در نزدیکی فرودگاه اربیل خبر می‌‌دهند\n✅\n@AloNews",
-        "date": "2026-07-25T12:45:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137493_0_415c0b74.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137493"
-      },
-      {
-        "id": 137492,
-        "text": "👈\nسخنگوی نیروهای مسلح یمن:\nدو عملیات منحصر به فرد علیه عربستان انجام دادیم\n🔴\nاهداف حساسی در تأسیسات آرامکو در جیزان و ینبع هدف قرار گرفت\n🔴\nمحاصره دریایی اعمال شده نیز همچنان پابرجا است\n✅\n@AloNews",
-        "date": "2026-07-25T12:44:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137492_0_415c0b74.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137492"
       }
     ]
   },
-  "last_update": "2026-07-25T21:27:12.591223+00:00",
+  "last_update": "2026-07-25T22:29:13.280823+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1152,
-    "total_files": 1152,
+    "total_media": 1153,
+    "total_files": 1153,
     "total_links": 191,
     "files_by_type": {
       "image": 1076,
-      "video": 69,
+      "video": 70,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1152,
-    "existing_media_files": 1136,
-    "total_size_mb": 314.12,
-    "last_calculation": "2026-07-25T21:27:12.604703+00:00"
+    "referenced_files": 1153,
+    "existing_media_files": 1137,
+    "total_size_mb": 315.59,
+    "last_calculation": "2026-07-25T22:29:13.294314+00:00"
   }
 }
