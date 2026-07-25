@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 137502,
+        "text": "👈\nنیویورک پست:\nایالات متحده در حال بررسی طرحی برای خارج کردن اورانیوم غنی‌شده از تأسیسات هسته‌ای ایران است.\n✅\n@AloNews",
+        "date": "2026-07-25T13:21:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137502_0_415c0b74.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137502"
+      },
+      {
         "id": 137501,
         "text": "👈\nقدیری ابیانه: آمریکا برای حمله زمینی به ایران آماده شده و این حمله ممکنه پیش از انتخابات کنگره آمریکا و حتی در روزهای آینده انجام بشه\n✅\n@AloNews",
         "date": "2026-07-25T13:14:02+00:00",
@@ -15701,57 +15716,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/137371"
-      },
-      {
-        "id": 137367,
-        "text": "👈\nحمله یمن به تاسیسات نفتی عربستان\n✅\n@AloNews",
-        "date": "2026-07-25T05:21:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137367_0_415c0b74.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_137367_1_4ea512b2.mp4"
-          },
-          {
-            "type": "video",
-            "file": "alonews_137367_2_fc1b389a.mp4"
-          },
-          {
-            "type": "video",
-            "file": "alonews_137367_3_666df056.mp4"
-          },
-          {
-            "type": "video",
-            "file": "alonews_137367_4_c536c98e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137367"
       }
     ]
   },
-  "last_update": "2026-07-25T13:16:20.606488+00:00",
+  "last_update": "2026-07-25T13:25:46.552789+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1162,
-    "total_files": 1162,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 192,
     "files_by_type": {
       "image": 1076,
-      "video": 79,
+      "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1162,
-    "existing_media_files": 1146,
-    "total_size_mb": 325.65,
-    "last_calculation": "2026-07-25T13:16:20.619840+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 311.56,
+    "last_calculation": "2026-07-25T13:25:46.566135+00:00"
   }
 }
