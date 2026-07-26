@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 137805,
+        "text": "🎓\nدریافت مدرک رسمی «دیپلم تا دکتری» فقط در ۱۰ روز!\n✅\nقانونی، قابل استعلام، کاملاً غیرحضوری\n✅\nمناسب مهاجرت، استخدام، ارتقاء شغلی و ادامه تحصیل\n✅\nترجمه رسمی و تأیید توسط تمامی نهادها\n☎️\nمشاوره تخصصی و رایگان\n:\nhttps://t.me/irantahsilat_chat\n📺\nعضویت در کانال\n:\nhttps://t.me/+1I9Ex4YFtcZkOTY0\nhttps://t.me/+1I9Ex4YFtcZkOTY0",
+        "date": "2026-07-26T22:16:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137805_0_3e9804fa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_137805_1_ab4bf59b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/irantahsilat_chat",
+            "type": "telegram",
+            "display_text": "https://t.me/irantahsilat_chat"
+          },
+          {
+            "url": "https://t.me/+1I9Ex4YFtcZkOTY0",
+            "type": "telegram",
+            "display_text": "https://t.me/+1I9Ex4YFtcZkOTY0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/alonews/137805"
+      },
+      {
+        "id": 137804,
+        "text": "👈\nامروز ۵ ام مرداد، سالروز درگذشت محمدرضا شاه پهلوی هست.\nحستون رو با ری اکشن نشون بدید\n✅\n@AloNews",
+        "date": "2026-07-26T22:07:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137804_0_3e9804fa.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_137804_1_3b63afe4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137804"
+      },
+      {
         "id": 137803,
         "text": "👈\nیک منبع نظامی خارجی: به نظر می‌رسد نیروی هوافضای سپاه پاسداران در حال آماده شدن برای تلافی حمله سرویس امنیتی اوکراین (SBU) به یک کشتی باری ایرانی در دریای خزر با استفاده از پهپادهای تهاجمی یک طرفه است که منجر به کشته شدن یک ملوان غیرنظامی در آن شد.\n🔴\nکی یف تقریباً 1850 کیلومتر از تبریز فاصله دارد و این شهر را در برد موشک‌های بالستیک سجیل-2 و خرمشهر-3/4 نیروی هوافضای سپاه قرار می‌دهد\n✅\n@AloNews",
         "date": "2026-07-26T21:51:58+00:00",
@@ -15676,54 +15725,16 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/137700"
-      },
-      {
-        "id": 137699,
-        "text": "👈\nسفیر آمریکا در سازمان ملل متحد به شبکه فاکس نیوز: رئیس‌جمهور ترامپ فرصتی را برای مسیر دیپلماتیک با ایران فراهم می‌کند\n✅\n@AloNews",
-        "date": "2026-07-26T13:17:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137699_0_ad16293c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137699"
-      },
-      {
-        "id": 137697,
-        "text": "👈\nتصاویر ماهواره‌ای ناسا، آتش‌سوزی‌های گسترده در پالایشگاه نفت جازان را نشان می‌دهد!\n✅\n@AloNews",
-        "date": "2026-07-26T13:15:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137697_0_ad16293c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_137697_1_944fc310.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_137697_2_b77429f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137697"
       }
     ]
   },
-  "last_update": "2026-07-26T22:04:04.815054+00:00",
+  "last_update": "2026-07-26T23:31:09.715510+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
     "total_media": 1159,
     "total_files": 1159,
-    "total_links": 191,
+    "total_links": 193,
     "files_by_type": {
       "image": 1083,
       "video": 69,
@@ -15733,7 +15744,7 @@
     },
     "referenced_files": 1159,
     "existing_media_files": 1143,
-    "total_size_mb": 311.3,
-    "last_calculation": "2026-07-26T22:04:04.825785+00:00"
+    "total_size_mb": 311.37,
+    "last_calculation": "2026-07-26T23:31:09.729340+00:00"
   }
 }
