@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 137991,
+        "text": "🔴\nفوووووووووووووووووووووووووووری",
+        "date": "2026-07-27T19:14:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137991_0_3e9804fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137991"
+      },
+      {
+        "id": 137990,
+        "text": "🔴\nفوووووووووووووووووووووووووووری",
+        "date": "2026-07-27T19:12:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137990_0_3e9804fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137990"
+      },
+      {
+        "id": 137989,
+        "text": "👈\nقرارگاه مرکزی خاتم‌الانبیا:\nآمریکا در تداوم شرارت و ناامنی در منطقه و به دنبال اجرای محاصره غیرقانونی دریایی ایران، طی سه روز گذشته اقدام به تهدید شناورها و کشتی های تجاری و نفتکش ایران در آب های ساحلی و سرزمینی کشور ما نموده است.\n🔴\nهشدار می‌دهیم این اقدام آمریکا به منزله توسعه جنگ در منطقه تلقی می گردد و همانطور که نیروهای مسلح جمهوری اسلامی ایران در میدان عمل ثابت نمودند هرگونه تهدید و شرارت ارتش تروریست آن کشور را بی پاسخ نمی گذارند و با آن برخورد خواهند نمود.\n✅\n@AloNews",
+        "date": "2026-07-27T19:02:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_137989_0_3e9804fa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/137989"
+      },
+      {
         "id": 137988,
         "text": "👈\nخبرگزاری عبری زبان\n: ارتش اسرائیل با احتمال بالا ارزیابی می‌کند که پهپادهایی که صبح امروز در نزدیکی بحر المیت و هفته گذشته در کوه هرمون سرنگون شدند، توسط گروه‌های شیعه در عراق شلیک شده بودند.\n✅\n@AloNews",
         "date": "2026-07-27T18:55:02+00:00",
@@ -15665,79 +15710,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/137847"
-      },
-      {
-        "id": 137846,
-        "text": "👈\nسخنگوی وزارت خارجه: چین نیز مانند ما نگران وضعیت صلح و امنیت در منطقه و در سطح بین‌المللی است.\n🔴\nهر دو کشور نگرانی جدی نسبت به استمرار یک‌جانبه‌گرایی بسیار مخرب از سوی آمریکا داریم\n✅\n@AloNews",
-        "date": "2026-07-27T08:53:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137846_0_3e9804fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137846"
-      },
-      {
-        "id": 137845,
-        "text": "👈\nوضعیت ساحل دریاچه ارومیه را مشاهده می کنید که غرق در زباله و کثافت است\n✅\n@AloNews",
-        "date": "2026-07-27T08:50:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137845_0_3e9804fa.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_137845_1_db4cee00.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137845"
-      },
-      {
-        "id": 137844,
-        "text": "👈\nتصویری از نیما مرادی، جوان انزلیچی که در حمله اوکراین به کشتی ایرانی در دریای خزر جان خودش رو از دست داد\n✅\n@AloNews",
-        "date": "2026-07-27T08:46:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_137844_0_3e9804fa.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_137844_1_f679d784.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/137844"
       }
     ]
   },
-  "last_update": "2026-07-27T18:59:43.680074+00:00",
+  "last_update": "2026-07-27T19:21:47.651813+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1160,
-    "total_files": 1160,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 191,
     "files_by_type": {
-      "image": 1071,
-      "video": 82,
+      "image": 1070,
+      "video": 81,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1160,
-    "existing_media_files": 1144,
-    "total_size_mb": 342.41,
-    "last_calculation": "2026-07-27T18:59:43.693461+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 337.23,
+    "last_calculation": "2026-07-27T19:21:47.662198+00:00"
   }
 }
