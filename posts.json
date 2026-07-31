@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 138994,
+        "text": "👈\nعلیرضا سپاهی که میخواستن اعدامش کنن و هنگام اعدام سکته قلبی کرده بود به هوش اومده و بلافاصله اونو به زندان بردن تا کارای اعدامشو دوباره از سر بگیرن.\n✅\n@AloNews",
+        "date": "2026-07-31T19:07:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_138994_0_4fc29e87.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_138994_1_9c54b92d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/138994"
+      },
+      {
+        "id": 138993,
+        "text": "👈\nنورالدین الدغیر، مدیر دفتر الجزیره در تهران: گفت‌وگوهای بین ایران و سلطان‌نشین عمان در مورد تنگه هرمز ادامه دارد و متوقف نشده است، حتی پس از بازگشت تنش بین ایالات متحده و ایران\n✅\n@AloNews",
+        "date": "2026-07-31T19:01:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_138993_0_4fc29e87.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/138993"
+      },
+      {
         "id": 138992,
         "text": "👈\nخبرنگار العربیه: اسرائیل برای ساکنان منطقه غربی اردوگاه النصیرات در مرکز نوار غزه دستور تخلیه صادر کرد.\n✅\n@AloNews",
         "date": "2026-07-31T18:49:14+00:00",
@@ -15676,56 +15710,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/138855"
-      },
-      {
-        "id": 138854,
-        "text": "👈\nزمین‌لرزه‌ای به بزرگی 4.6 ریشتر، ظهر امروز منطقه دیباج در استان سمنان را لرزاند\n✅\n@AloNews",
-        "date": "2026-07-31T09:45:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_138854_0_4fc29e87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/138854"
-      },
-      {
-        "id": 138853,
-        "text": "👈\nروایت سی.بی.اس از رقابت نتانیاهو و بن‌سلمان برای شکل‌دهی به سیاست ترامپ در قبال ایران: سعودی نگران است نخست‌وزیر اسرائیل به دنبال تشدید بیشتر درگیری‌ها باشد\n🔴\nنتانیاهو سه پیشنهاد به ترامپ دادن، از جمله ادامه محاصره و اجرای حملات علیه مسیرهای زمینی انتقال تجهیزات\n✅\n@AloNews",
-        "date": "2026-07-31T09:35:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_138853_0_4fc29e87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/138853"
       }
     ]
   },
-  "last_update": "2026-07-31T18:55:57.895423+00:00",
+  "last_update": "2026-07-31T19:19:07.739664+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 191,
     "files_by_type": {
-      "image": 1065,
+      "image": 1066,
       "video": 85,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 400.04,
-    "last_calculation": "2026-07-31T18:55:57.908617+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 400.15,
+    "last_calculation": "2026-07-31T19:19:07.750450+00:00"
   }
 }
