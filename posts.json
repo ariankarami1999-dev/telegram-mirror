@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 139046,
+        "text": "👈\nشنیده شدن صدای انفجار در کویت\n✅\n@AloNews",
+        "date": "2026-07-31T23:24:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_139046_0_d48c91d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/139046"
+      },
+      {
+        "id": 139045,
+        "text": "👈\nانتقال تجهیزات ضدهوایی به جنوب\n✅\n@AloNews",
+        "date": "2026-07-31T23:08:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_139045_0_d48c91d3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_139045_1_befe8f85.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/139045"
+      },
+      {
         "id": 139044,
         "text": "👈\nقشر تندرو واقعا احمقن، میگن اگه زیر ساخت مارو بزنن ماهم زیر ساخت منطقه میزنیم خب بر فرض شما زیرساخت بحرین و کویت و ... رو زدی. خب اونا پول میدن آمریکا بازم براشون میسازه و آمریکا سود میکنه، ما چه کنیم؟\n✅\n@AloNews",
         "date": "2026-07-31T22:48:22+00:00",
@@ -15614,44 +15648,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/138912"
-      },
-      {
-        "id": 138911,
-        "text": "👈\nوزیر خزانه‌داری آمریکا، بسنت : ما رابطه‌ای قوی‌ای با ژاپن داریم\n✅\n@AloNews",
-        "date": "2026-07-31T14:49:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_138911_0_4fc29e87.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/138911"
-      },
-      {
-        "id": 138910,
-        "text": "👈\nترامپ در راه کمپ دیوید است تا با وزرای خود در مورد ایران دیدار کند\n✅\n@AloNews",
-        "date": "2026-07-31T14:46:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_138910_0_4fc29e87.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_138910_1_19b1c0fc.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/138910"
       }
     ]
   },
-  "last_update": "2026-07-31T23:02:23.723674+00:00",
+  "last_update": "2026-08-01T00:09:55.151417+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15659,15 +15659,15 @@
     "total_files": 1141,
     "total_links": 192,
     "files_by_type": {
-      "image": 1051,
-      "video": 83,
+      "image": 1052,
+      "video": 82,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1141,
     "existing_media_files": 1125,
-    "total_size_mb": 394.84,
-    "last_calculation": "2026-07-31T23:02:23.736696+00:00"
+    "total_size_mb": 392.83,
+    "last_calculation": "2026-08-01T00:09:55.164864+00:00"
   }
 }
