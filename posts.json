@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 139763,
+        "text": "‏\n👈\nمنابع عربی:\nچندین پهپاد انتحاری به سمت شرق و شمال کویت شلیک شده است و سامانه های پدافندی درحال مقابله هستند\n✅\n@AloNews",
+        "date": "2026-08-03T23:07:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_139763_0_fa4739e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/139763"
+      },
+      {
+        "id": 139762,
+        "text": "👈\nروزنامه روسی ایزوستیا:\nآمریکا می‌خواهد با سردر‌گم کردن تهران زمینه را برای یک حمله غافلگیرانه فراهم کند\n✅\n@AloNews",
+        "date": "2026-08-03T23:05:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_139762_0_fa4739e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/139762"
+      },
+      {
         "id": 139761,
         "text": "👈\nکانال ۱۴ اسرائیل:\nکانال‌های دیپلماتیک ایران عملاً از کار افتاده‌اند.\n🔴\nبه گفته درور بالازاده، تحلیلگر کانال ۱۴، مجتبی خامنه‌ای،  رسماً اعتماد خود را از تیم‌های مذاکره‌کننده ایرانی و آمریکایی سلب کرده است. دکترین تندروانه و بدون امتیاز احمد وحیدی، فرمانده سپاه پاسداران، اکنون سیاست رسمی آنها است.\n✅\n@AloNews",
         "date": "2026-08-03T22:40:02+00:00",
@@ -15596,60 +15626,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/139642"
-      },
-      {
-        "id": 139641,
-        "text": "👈\nعارف: برنامه‌ای برای قطع اینترنت در صورت بروز تنش یا جنگ وجود ندارد\n✅\n@AloNews",
-        "date": "2026-08-03T13:56:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_139641_0_2ae36558.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/139641"
-      },
-      {
-        "id": 139640,
-        "text": "👈\nمارک لوین، تحلیلگر نزدیک به ترامپ در فاکس نیوز:\n🔴\nاز اسرائیل حمایت می‌کنم.\n🔴\nاز اوکراین حمایت می‌کنم.\n🔴\nاز تایوان حمایت می‌کنم.\n🔴\nاز مردم ایران حمایت می‌کنم.\n✅\n@AloNews",
-        "date": "2026-08-03T13:53:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_139640_0_2ae36558.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_139640_1_83a93bdf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/139640"
       }
     ]
   },
-  "last_update": "2026-08-03T23:02:06.948305+00:00",
+  "last_update": "2026-08-04T00:17:54.192840+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1138,
-    "total_files": 1138,
+    "total_media": 1137,
+    "total_files": 1137,
     "total_links": 191,
     "files_by_type": {
-      "image": 1062,
+      "image": 1061,
       "video": 69,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1138,
-    "existing_media_files": 1122,
-    "total_size_mb": 304.0,
-    "last_calculation": "2026-08-03T23:02:06.962009+00:00"
+    "referenced_files": 1137,
+    "existing_media_files": 1121,
+    "total_size_mb": 303.95,
+    "last_calculation": "2026-08-04T00:17:54.206571+00:00"
   }
 }
