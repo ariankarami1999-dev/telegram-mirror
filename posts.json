@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 140232,
+        "text": "👈\nعوستاد رائفی پور:\nبعد اینکه آقا رو زدن باید دنیا رو به آتیش میکشیدیم\n✅\n@AloNews",
+        "date": "2026-08-06T14:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140232_0_11f53e67.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_140232_1_1f789c59.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140232"
+      },
+      {
+        "id": 140231,
+        "text": "👈\nیک فعال فعال مذهبی:\nآمریکایی ها دنبال DNA امام زمان میگردن تا از روی اون پیداش کنن. برای همین به حرم امام حسن عسکری حمله کرده بودن تا DNAیشو بردارن.\n✅\n@AloNews",
+        "date": "2026-08-06T13:57:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140231_0_11f53e67.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_140231_1_3668bf91.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140231"
+      },
+      {
         "id": 140230,
         "text": "👈\nجی‌دی ونس: مذاکره با ایران مانند قدم به جلو و عقب است؛ ایرانی‌ها بسیار سرسخت هستند\n✅\n@AloNews",
         "date": "2026-08-06T13:51:18+00:00",
@@ -15684,68 +15722,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140118"
-      },
-      {
-        "id": 140116,
-        "text": "👈\nکشتی باری فله‌بر «مینوان پایونیر» که دو روز پیش مورد حمله ایران قرار گرفت، همچنان در محل پهلوگیری خود در حال سوختن دیده شد که نشان می‌دهد خدمه نجات، کشتی را در جای خود پهلو داده‌اند.\n✅\n@AloNews",
-        "date": "2026-08-05T21:05:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140116_0_11f53e67.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140116_1_cab5ddef.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140116_2_6fae49c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140116"
-      },
-      {
-        "id": 140115,
-        "text": "👈\nمشاور فیلدمارشال حاج محسن: بر اساس برآوردهای اطلاعاتی گروه های تجزیه طلب در حال تدارک سناریویی خطرناک برای ورود به خاک ایران و اجرای عملیات تروریستی بودند؛ اما این طرح پیش از رسیدن به مرحله اجرا، در نتیجه عملیات پیشدستانه، چندلایه و هماهنگ نیروهای امنیتی و نظامی ایران خنثی شد\n✅\n@AloNews",
-        "date": "2026-08-05T20:56:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140115_0_11f53e67.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140115_1_dc2a2e44.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140115"
       }
     ]
   },
-  "last_update": "2026-08-06T13:57:16.699478+00:00",
+  "last_update": "2026-08-06T14:09:34.892374+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1162,
-    "total_files": 1162,
+    "total_media": 1161,
+    "total_files": 1161,
     "total_links": 191,
     "files_by_type": {
-      "image": 1068,
-      "video": 87,
+      "image": 1066,
+      "video": 88,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1162,
-    "existing_media_files": 1146,
-    "total_size_mb": 402.68,
-    "last_calculation": "2026-08-06T13:57:16.713688+00:00"
+    "referenced_files": 1161,
+    "existing_media_files": 1145,
+    "total_size_mb": 408.78,
+    "last_calculation": "2026-08-06T14:09:34.908666+00:00"
   }
 }
