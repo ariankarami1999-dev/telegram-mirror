@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 140315,
+        "text": "👈\nکانال ۱۲ اسرائیل:  آمریکا انتقال بخشی از سوخت‌رسان‌های خود را که در فرودگاه بن‌گوریون مستقر بودند، آغاز کرد\n🔴\nکانال ۱۲ اسرائیل مدعی شد: نیروی هوایی آمریکا انتقال بخشی از هواپیماهای سوخت‌رسان هوایی خود را که طی هفته‌های اخیر در فرودگاه بن‌گوریون مستقر بودند، آغاز کرده است.\n✅\n@AloNews",
+        "date": "2026-08-07T05:18:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140315_0_97a89fc8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140315"
+      },
+      {
         "id": 140313,
         "text": "👈\nخبرنگار\n: آیا خبر جدیدی در مورد تنگه هرمز وجود دارد؟\n🔴\nترامپ\n: اوضاع به خوبی پیش می‌رود.\n⠀\n✅\n@AloNews",
         "date": "2026-08-07T00:02:51+00:00",
@@ -15687,45 +15702,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140143"
-      },
-      {
-        "id": 140142,
-        "text": "👈\nمعاون رئیس‌جمهور آمریکا در مصاحبه با شبکۀ «فاکس‌نیوز» مدعی شد که از تمام ابزارها شامل نظامی، اقتصادی و دیپلماتیک برای رسیدن به راهکاری برای ایران استفاده می‌کنند.\n🔴\nونس: ایرانی‌ها مذاکره‌کنندگان سرسختی هستند\n✅\n@AloNews",
-        "date": "2026-08-06T05:50:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140142_0_11f53e67.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_140142_1_a4242973.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140142"
       }
     ]
   },
-  "last_update": "2026-08-07T04:25:26.690473+00:00",
+  "last_update": "2026-08-07T05:20:26.997694+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1156,
+    "total_files": 1156,
     "total_links": 191,
     "files_by_type": {
       "image": 1071,
-      "video": 79,
+      "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 376.79,
-    "last_calculation": "2026-08-07T04:25:26.704064+00:00"
+    "referenced_files": 1156,
+    "existing_media_files": 1140,
+    "total_size_mb": 371.4,
+    "last_calculation": "2026-08-07T05:20:27.011023+00:00"
   }
 }
