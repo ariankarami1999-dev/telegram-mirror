@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 140403,
+        "text": "👈\nبلومبرگ: نفتکش‌های حامل نفت عربستان برای جلوگیری از هدف قرار گرفتن، مقصد واقعی خود در دریای سرخ را پنهان کرده و بنادر مصر را به‌عنوان مقصد اعلام می‌کنند\n✅\n@AloNews",
+        "date": "2026-08-07T12:56:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140403_0_97a89fc8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140403"
+      },
+      {
         "id": 140402,
         "text": "👈\nبعد از انتشار آمار جدید اقتصادی آمریکا قیمت جهانی اونس طلا ۶۰ دلار افزایش یافت\n🔴\nهمزمان شاخص دلار تضعیف شد.\n✅\n@AloNews",
         "date": "2026-08-07T12:49:57+00:00",
@@ -15745,45 +15760,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140293"
-      },
-      {
-        "id": 140232,
-        "text": "👈\nعوستاد رائفی پور:\nبعد اینکه آقا رو زدن باید دنیا رو به آتیش میکشیدیم\n✅\n@AloNews",
-        "date": "2026-08-06T14:05:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140232_0_11f53e67.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140232_1_1f789c59.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140232"
       }
     ]
   },
-  "last_update": "2026-08-07T12:55:06.373824+00:00",
+  "last_update": "2026-08-07T13:02:51.939199+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1170,
-    "total_files": 1170,
+    "total_media": 1169,
+    "total_files": 1169,
     "total_links": 192,
     "files_by_type": {
-      "image": 1086,
+      "image": 1085,
       "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1170,
-    "existing_media_files": 1154,
-    "total_size_mb": 344.23,
-    "last_calculation": "2026-08-07T12:55:06.387608+00:00"
+    "referenced_files": 1169,
+    "existing_media_files": 1153,
+    "total_size_mb": 344.16,
+    "last_calculation": "2026-08-07T13:02:51.953520+00:00"
   }
 }
