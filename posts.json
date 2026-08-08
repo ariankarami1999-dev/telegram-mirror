@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 140672,
+        "text": "👈\nنیویورک‌پست: ترامپ ممکن است حمله به ورودی‌های «کوه کلنگ» (Pickaxe Mountain) را برای جلوگیری از راه‌اندازی مجدد برنامه تسلیحات هسته‌ای ایران بررسی کند.\n✅\n@AloNews",
+        "date": "2026-08-08T21:06:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140672_0_c24a8a4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140672"
+      },
+      {
+        "id": 140671,
+        "text": "👈\nاین ویدیوی ناراحت کننده از پدری پایدارچی که موهای دخترشو بخاطر حجاب نداشتن کچل می‌کنه خیلی وایرال شده.\n✅\n@AloNews",
+        "date": "2026-08-08T20:54:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140671_0_c24a8a4c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_140671_1_8c87e475.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140671"
+      },
+      {
         "id": 140670,
         "text": "🔴\nفوری / شلیک موشک بالستیک توسط حوثی‌ها به سمت مواضع دولت یمن\n✅\n@AloNews",
         "date": "2026-08-08T20:35:32+00:00",
@@ -15678,44 +15712,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140565"
-      },
-      {
-        "id": 140564,
-        "text": "👈\nعراقچی: تفاهم با عمان به‌معنی بازگشایی تنگه هرمز نیست\n🔴\nوزیر خارجه درباره مذاکرات عمان برای تعیین تردد در تنگه هرمز: مذاکرات در حال انجام است و با توجه به پیچیدگی‌های فنی، تعیین مسیر موقت در حال انجام است و به نظرم بسیار به نتیجه نهایی نزدیک هستیم.\n🔴\nالبته این اقدام به نشانه بازگشایی تنگه هرمز نیست و بازگشایی تنگه هرمز منوط به شرایط دیگر و جبران نقض تفاهم‌نامه از سوی آمریکا است.\n﻿\n✅\n@AloNews",
-        "date": "2026-08-08T11:23:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140564_0_e96e990e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140564"
-      },
-      {
-        "id": 140563,
-        "text": "👈\nتصویر امروز ماهواره کوپرنیک از وضعیت دریاچه ارومیه و مقایسه با زمان مشابه سال قبل که نشون میده به نسبت پارسال وضع دریاچه خیلی بهتر شده.\n✅\n@AloNews",
-        "date": "2026-08-08T11:22:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140563_0_e96e990e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140563_1_75e6d390.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140563"
       }
     ]
   },
-  "last_update": "2026-08-08T20:49:05.704356+00:00",
+  "last_update": "2026-08-08T21:21:45.814142+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15723,15 +15723,15 @@
     "total_files": 1157,
     "total_links": 192,
     "files_by_type": {
-      "image": 1064,
-      "video": 86,
+      "image": 1063,
+      "video": 87,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1157,
     "existing_media_files": 1141,
-    "total_size_mb": 412.83,
-    "last_calculation": "2026-08-08T20:49:05.713052+00:00"
+    "total_size_mb": 415.3,
+    "last_calculation": "2026-08-08T21:21:45.827205+00:00"
   }
 }
