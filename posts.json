@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 140674,
+        "text": "👈\n‏سنتکام: اجازه دادیم حدود ۳۰ کشتی از منطقه تحت تحریم عبور کنند تا کمک‌های بشردوستانه به ايران منتقل بشه!\n✅\n@AloNews",
+        "date": "2026-08-08T21:54:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140674_0_c24a8a4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140674"
+      },
+      {
+        "id": 140673,
+        "text": "👈\nریاض برای جشن توافق دفاعی جدید مکه\n🔴\nخیابون‌ها و ساختمون‌های مهمش رو با پرچم‌های عربستان، پاکستان و ترکیه، نورپردازی کرد\n✅\n@AloNews",
+        "date": "2026-08-08T21:51:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140673_0_c24a8a4c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_140673_1_ce05ad7b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140673"
+      },
+      {
         "id": 140672,
         "text": "👈\nنیویورک‌پست: ترامپ ممکن است حمله به ورودی‌های «کوه کلنگ» (Pickaxe Mountain) را برای جلوگیری از راه‌اندازی مجدد برنامه تسلیحات هسته‌ای ایران بررسی کند.\n✅\n@AloNews",
         "date": "2026-08-08T21:06:15+00:00",
@@ -15678,44 +15712,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140567"
-      },
-      {
-        "id": 140566,
-        "text": "👈\nبارزانی، رئیس اقلیم کردستان عراق:\nما رابطه‌ای با اسرائیل نداریم و سیاست خارجه بر عهده دولت عراق است.\n🔴\nما رابطه خیلی خوبی با سوریه داریم و در حال گسترش روابط با ترکیه نیز هستیم.\n✅\n@AloNews",
-        "date": "2026-08-08T11:32:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140566_0_e96e990e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140566_1_b32e2ea2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140566"
-      },
-      {
-        "id": 140565,
-        "text": "👈\nسقوط آسانسور در میدان آرژانتین تهران/ ۹ نفر مصدوم شدند\n‏\n🔴\nسخنگوی اورژانس تهران:یک مورد حادثه سقوط آسانسور امروز (شنبه) در ساعت ۱۲:۳۷ دقیقه در خیابان احمد قصیر میدان آرژانتین، رخ داد.\n‏\n🔴\nتاکنون ۹ نفر مصدوم به ما اعلام شده است و خبر تکمیلی متعاقباً اعلام خواهد شد\n✅\n@AloNews",
-        "date": "2026-08-08T11:29:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140565_0_e96e990e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140565"
       }
     ]
   },
-  "last_update": "2026-08-08T21:21:45.814142+00:00",
+  "last_update": "2026-08-08T21:58:58.478044+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15723,15 +15723,15 @@
     "total_files": 1157,
     "total_links": 192,
     "files_by_type": {
-      "image": 1063,
-      "video": 87,
+      "image": 1062,
+      "video": 88,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1157,
     "existing_media_files": 1141,
-    "total_size_mb": 415.3,
-    "last_calculation": "2026-08-08T21:21:45.827205+00:00"
+    "total_size_mb": 417.02,
+    "last_calculation": "2026-08-08T21:58:58.491533+00:00"
   }
 }
