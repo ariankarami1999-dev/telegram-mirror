@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 140515,
+        "text": "👈\nوزارت دفاع روسیه: ۸۳ پهپاد اوکراینی صبح امروز بر فراز چندین منطقه از جمله مسکو سرنگون شدند\n✅\n@AloNews",
+        "date": "2026-08-08T06:51:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140515_0_e96e990e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140515"
+      },
+      {
+        "id": 140514,
+        "text": "👈\nالجزیره: تردد کشتی‌ها در تنگه هرمز طی این هفته باز هم کاهش یافت\n🔴\nبر اساس داده‌های تردد دریایی، روز پنجشنبه تنها ۸ کشتی تجاری از تنگه هرمز و ۲۶ کشتی از باب‌المندب عبور کردند\n✅\n@AloNews",
+        "date": "2026-08-08T06:46:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140514_0_e96e990e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140514"
+      },
+      {
         "id": 140513,
         "text": "👈\nعطریانفر: به‌کارگیری به موقع دیپلماسی، تهدید‌ها را به فرصت بدل می‌سازد\n🔴\nبی‌تردید قدرنشناسی، فحاشی و سنگ‌اندازی نسبت به مسئولان، موجب دلسردی می‌شود\n🔴\nرقابت‌های سیاسی باید به گونه‌ای مدیریت شود که تصویری از ناتوانی در تصمیم‌گیری ترسیم نشود، زیرا این موضوع دشمن را به اتخاذ سیاست‌های سخت‌گیرانه‌تر تشویق می‌کند\n✅\n@AloNews",
         "date": "2026-08-08T06:34:02+00:00",
@@ -15604,60 +15634,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140416"
-      },
-      {
-        "id": 140415,
-        "text": "👈\nآسوشیتدپرس: فشار ناشی از جنگ علیه ایران، بازار کار آمریکا را بهم ریخته است\n✅\n@AloNews",
-        "date": "2026-08-07T14:12:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140415_0_97a89fc8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140415"
-      },
-      {
-        "id": 140414,
-        "text": "👈\nترامپ بار دیگر مقاله‌ای با عنوان «دونالد ترامپ، جنگ با ایران را برد» را منتشر کرد و آن را «مقاله ای که باید خوانده شود» نامید.\n✅\n@AloNews",
-        "date": "2026-08-07T14:05:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140414_0_97a89fc8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140414_1_c2bab234.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140414"
       }
     ]
   },
-  "last_update": "2026-08-08T06:44:46.296777+00:00",
+  "last_update": "2026-08-08T06:53:59.824964+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1140,
-    "total_files": 1140,
+    "total_media": 1139,
+    "total_files": 1139,
     "total_links": 191,
     "files_by_type": {
-      "image": 1063,
+      "image": 1062,
       "video": 70,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1140,
-    "existing_media_files": 1124,
-    "total_size_mb": 320.94,
-    "last_calculation": "2026-08-08T06:44:46.309844+00:00"
+    "referenced_files": 1139,
+    "existing_media_files": 1123,
+    "total_size_mb": 320.87,
+    "last_calculation": "2026-08-08T06:53:59.838053+00:00"
   }
 }
