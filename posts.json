@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 140677,
+        "text": "⭕️\n⭕️\nقیمت طلا و دلار هم اکنون !!!   سایت دلار و طلای تهران@nerkhBroz  داره لحظه ای قیمت میزنه\n👇\n👇\n@nerkhBroz  معتبرترین نرخ طلا ابشده\n☝️",
+        "date": "2026-08-08T22:01:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140677_0_c24a8a4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140677"
+      },
+      {
+        "id": 140676,
+        "text": "⭕️\n⭕️\nقیمت طلا و دلار هم اکنون !!!\nسایت دلار و طلای تهران\n@nerkhBroz\nداره لحظه ای قیمت میزنه\n👇\n👇\n@nerkhBroz\nمعتبرترین نرخ طلا ابشده\n☝️",
+        "date": "2026-08-08T22:00:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140676_0_c24a8a4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140676"
+      },
+      {
+        "id": 140675,
+        "text": "👈\nبه مناسبت روز خبرنگار برای خبرنگاران  ۲۰۰ گیگ اینترنت رایگان فعال کردن\n✅\n@AloNews",
+        "date": "2026-08-08T22:00:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140675_0_c24a8a4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140675"
+      },
+      {
         "id": 140674,
         "text": "👈\n‏سنتکام: اجازه دادیم حدود ۳۰ کشتی از منطقه تحت تحریم عبور کنند تا کمک‌های بشردوستانه به ايران منتقل بشه!\n✅\n@AloNews",
         "date": "2026-08-08T21:54:27+00:00",
@@ -15655,83 +15700,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140570"
-      },
-      {
-        "id": 140569,
-        "text": "👈\nرئیس جمهور پزشکیان: آمریکایی‌ها از بند تفاهم‌نامه درباره تنگه هرمز تخلف کردند ما هم پاسخ‌شان را دادیم\n✅\n@AloNews",
-        "date": "2026-08-08T11:43:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140569_0_e96e990e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_140569_1_be972f8c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140569"
-      },
-      {
-        "id": 140568,
-        "text": "👈\nرئیس جمهور: اگر صنوف و تولیدکنندگان همکاری نمی‌‌کردند وضع خیلی بدتر از این می‌شد\n✅\n@AloNews",
-        "date": "2026-08-08T11:40:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140568_0_e96e990e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_140568_1_6452f6c0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140568"
-      },
-      {
-        "id": 140567,
-        "text": "👈\nتسنیم با انتشار این کلیپ نوشت: پخش تصاویری از رهبر برای اولین بار\n✅\n@AloNews",
-        "date": "2026-08-08T11:37:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140567_0_e96e990e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_140567_1_0261010d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140567"
       }
     ]
   },
-  "last_update": "2026-08-08T21:58:58.478044+00:00",
+  "last_update": "2026-08-08T22:29:48.908950+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1154,
+    "total_files": 1154,
     "total_links": 192,
     "files_by_type": {
       "image": 1062,
-      "video": 88,
+      "video": 85,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 417.02,
-    "last_calculation": "2026-08-08T21:58:58.491533+00:00"
+    "referenced_files": 1154,
+    "existing_media_files": 1138,
+    "total_size_mb": 411.76,
+    "last_calculation": "2026-08-08T22:29:48.920198+00:00"
   }
 }
