@@ -13992,6 +13992,29 @@
     ],
     "alonews": [
       {
+        "id": 140678,
+        "text": "👈\nتصاویر عجیب از بندر شهید رجایی  که بزرگترین بندر ایران است اما به دلیل محاصره خالی خالی شده\n✅\n@AloNews",
+        "date": "2026-08-09T03:32:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140678_0_c24a8a4c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_140678_1_75691d61.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_140678_2_266f0f0c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140678"
+      },
+      {
         "id": 140677,
         "text": "⭕️\n⭕️\nقیمت طلا و دلار هم اکنون !!!   سایت دلار و طلای تهران@nerkhBroz  داره لحظه ای قیمت میزنه\n👇\n👇\n@nerkhBroz  معتبرترین نرخ طلا ابشده\n☝️",
         "date": "2026-08-08T22:01:03+00:00",
@@ -15685,41 +15708,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140571"
-      },
-      {
-        "id": 140570,
-        "text": "👈\nادعای جدید محمدباقر خرازی:\n‏\n🔴\nکلیپ‌ها جعلی و ساخته هوش‌مصنوعی است\n‏\n🔴\nمن این حرف‌ها را نزدم\n✅\n@AloNews",
-        "date": "2026-08-08T11:46:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140570_0_e96e990e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140570"
       }
     ]
   },
-  "last_update": "2026-08-09T03:31:14.210031+00:00",
+  "last_update": "2026-08-09T03:43:48.688246+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1154,
-    "total_files": 1154,
+    "total_media": 1156,
+    "total_files": 1156,
     "total_links": 192,
     "files_by_type": {
-      "image": 1062,
+      "image": 1064,
       "video": 85,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1154,
-    "existing_media_files": 1138,
-    "total_size_mb": 411.76,
-    "last_calculation": "2026-08-09T03:31:14.223925+00:00"
+    "referenced_files": 1156,
+    "existing_media_files": 1140,
+    "total_size_mb": 412.06,
+    "last_calculation": "2026-08-09T03:43:48.697055+00:00"
   }
 }
