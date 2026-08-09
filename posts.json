@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 140682,
+        "text": "👈\nاین پسر سوت پلاستیکی رو قورت داده، بعد بردنش دکتر\n✅\n@AloNews",
+        "date": "2026-08-09T05:05:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140682_0_c24a8a4c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_140682_1_f606f4b1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140682"
+      },
+      {
+        "id": 140681,
+        "text": "👈\nطبق گفته بعضی رسانه ها یک پسر جوون برای مراسم ختم آیت الله خامنه‌ای از آلمان اومد ایران،ولی موقع برگشتن نذاشتن برگرده،چون کارت پایان خدمت سربازی نداشت.\n✅\n@AloNews",
+        "date": "2026-08-09T04:33:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140681_0_c24a8a4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140681"
+      },
+      {
+        "id": 140680,
+        "text": "👈\nیاسر قلی‌نیا پس از کسب مدال طلای اورال کاسپین ‌کاپ ایران، عکس پهلوان مسعود ذات‌پرور را بالا برد.\n✅\n@AloNews",
+        "date": "2026-08-09T04:15:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140680_0_c24a8a4c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_140680_1_89994888.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140680"
+      },
+      {
         "id": 140678,
         "text": "👈\nتصاویر عجیب از بندر شهید رجایی  که بزرگترین بندر ایران است اما به دلیل محاصره خالی خالی شده\n✅\n@AloNews",
         "date": "2026-08-09T03:32:18+00:00",
@@ -15655,63 +15708,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140574"
-      },
-      {
-        "id": 140573,
-        "text": "👈\nوزارت امور خارجه عربستان:\nما ایران را مسئول عواقب اتفاقات آتی در خاورمیانه می‌دانیم.\n✅\n@AloNews",
-        "date": "2026-08-08T12:03:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140573_0_e96e990e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140573"
-      },
-      {
-        "id": 140572,
-        "text": "👈\nاجرای حرکت میشِنِری توسط یکی از جان فدا‌ها و اعلام آمادگی جهت جنگ با دشمن\n✅\n@AloNews",
-        "date": "2026-08-08T11:58:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140572_0_e96e990e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_140572_1_23592449.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140572"
-      },
-      {
-        "id": 140571,
-        "text": "👈\nپزشکیان خطاب به خبرنگاران: امروز کمک و همراهی شما برای ایجاد وحدت و انسجام بسیار مهم است/ باید مشترکات را برجسته کنیم نه اشکالات را\n✅\n@AloNews",
-        "date": "2026-08-08T11:54:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140571_0_e96e990e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_140571_1_a31577d0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140571"
       }
     ]
   },
-  "last_update": "2026-08-09T03:43:48.688246+00:00",
+  "last_update": "2026-08-09T05:07:44.014151+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15727,7 +15727,7 @@
     },
     "referenced_files": 1156,
     "existing_media_files": 1140,
-    "total_size_mb": 412.06,
-    "last_calculation": "2026-08-09T03:43:48.697055+00:00"
+    "total_size_mb": 407.3,
+    "last_calculation": "2026-08-09T05:07:44.024973+00:00"
   }
 }
