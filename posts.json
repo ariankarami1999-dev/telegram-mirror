@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 140760,
+        "text": "👈\nمحمد جواد لاریجانی: باید به زور هم که شده غرامت بگیریم\n✅\n@AloNews",
+        "date": "2026-08-09T12:53:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140760_0_c24a8a4c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_140760_1_2a4f66ba.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140760"
+      },
+      {
+        "id": 140759,
+        "text": "‏\n👈\nالجزیره به نقل از جی‌دی‌ونس: آمریکا به توافقی درمورد تنگه هرمز نزدیک شده است که ممکن است در روزهای آینده منعقد شود\n‏\n🔴\nنورالدین بوزیان، خبرنگار شبکه الجزیره در واشنگتن، به نقل از جی‌دی ونس، معاون رئیس‌جمهور آمریکا، گزارش داد که ایالات متحده به توافقی دربارهٔ تنگه هرمز نزدیک شده است که ممکن است در روزهای آینده منعقد شود.\n✅\n@AloNews",
+        "date": "2026-08-09T12:43:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140759_0_c24a8a4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140759"
+      },
+      {
         "id": 140758,
         "text": "👈\nسخنگوی صنعت برق: خاموشی‌ها تا دو هفته آینده به حداقل می‌رسد\n✅\n@AloNews",
         "date": "2026-08-09T12:32:59+00:00",
@@ -15676,44 +15710,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140645"
-      },
-      {
-        "id": 140644,
-        "text": "👈\nزلنسکی : اوکراین بعد از تموم شدن جنگ, از آمریکا تضمین‌های امنیتی خیلی قوی‌ای دریافت می‌کنه\n✅\n@AloNews",
-        "date": "2026-08-08T18:38:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140644_0_c24a8a4c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140644"
-      },
-      {
-        "id": 140643,
-        "text": "👈\nاز صبح امروز تعدادی اسکرین شات فیک منتسب به مژده نظری عضو تیم‌ملی بسکتبال توسط برخی منتشر شده که تماما دستکاری و شیطنت رسانه‌ای بوده\n🔴\nاین عضو تیم ملی هم با انتشار متنی این حاشیه‌ها را تکذیب کرده است\n✅\n@AloNews",
-        "date": "2026-08-08T18:37:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140643_0_c24a8a4c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140643_1_837be092.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140643"
       }
     ]
   },
-  "last_update": "2026-08-09T12:41:52.692362+00:00",
+  "last_update": "2026-08-09T12:54:58.189174+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15721,15 +15721,15 @@
     "total_files": 1158,
     "total_links": 191,
     "files_by_type": {
-      "image": 1072,
-      "video": 79,
+      "image": 1071,
+      "video": 80,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1158,
     "existing_media_files": 1142,
-    "total_size_mb": 306.2,
-    "last_calculation": "2026-08-09T12:41:52.707190+00:00"
+    "total_size_mb": 316.81,
+    "last_calculation": "2026-08-09T12:54:58.202578+00:00"
   }
 }
