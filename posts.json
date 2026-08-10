@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 140862,
+        "text": "👈\nطالبان کاملا جدی برده داری جنسی زنان رو قانونی اعلام کرد، از این به بعد مرد ها میتونن مثل کالا زن هارو بخرن و مثل برده جنسی ازشون استفاده کنن\nاین در حالیه که حضور زنان در مدارس و تحصیل همچنان ممنوعه.\n✅\n@AloNews",
+        "date": "2026-08-10T03:34:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_140862_0_2f029237.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_140862_1_6df05d19.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/140862"
+      },
+      {
         "id": 140861,
         "text": "💢\n💢\n🔥\n🔥\n💢\nقیمت طلا و دلار فردا سه شنبه ریزشیه\n👇\nسایت رسمی اتحادیه طلا و جواهرات goldonliveeeee@   لحظه ای قیمت میزنه  منبع دقیق قیمت لحظه ای طلا و تتر\n😀\n☝️",
         "date": "2026-08-09T22:11:05+00:00",
@@ -15727,49 +15746,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140753"
-      },
-      {
-        "id": 140751,
-        "text": "👈\nاولین شهید راه دختر\n💢\n🔴\nدختر متهم: من با حمیدرضا رجب زاده در فضای مجازی آشنا شدم، اون مرتب به من تذکر حجاب میداد و می‌گفت درباره مسائل سیاسی حرف نزن.\n‏\n🔴\nمنم رفتم به دوست پسرم گفتم، او هم گفت تو این مداح را به یه بهونه‌ای بکش یک جای خلوت، تا هم او را به قتل برسانیم و هم فیلمش را بفرستیم به کانالی که بابت کشتن بسیجی‌ها پول میدهد!\n🔴\nرفته دیت و کشته شده\n✅\n@AloNews",
-        "date": "2026-08-09T11:59:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140751_0_c24a8a4c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140751_1_3cef76b6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140751_2_f7a9f172.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140751"
       }
     ]
   },
-  "last_update": "2026-08-10T02:14:12.370519+00:00",
+  "last_update": "2026-08-10T03:49:58.771689+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1168,
-    "total_files": 1168,
+    "total_media": 1167,
+    "total_files": 1167,
     "total_links": 191,
     "files_by_type": {
-      "image": 1086,
-      "video": 75,
+      "image": 1084,
+      "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1168,
-    "existing_media_files": 1152,
-    "total_size_mb": 331.11,
-    "last_calculation": "2026-08-10T02:14:12.384263+00:00"
+    "referenced_files": 1167,
+    "existing_media_files": 1151,
+    "total_size_mb": 331.49,
+    "last_calculation": "2026-08-10T03:49:58.778612+00:00"
   }
 }
