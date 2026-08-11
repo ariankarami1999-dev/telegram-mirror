@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 141245,
+        "text": "👈\nان‌بی‌سی: ایران نفوذ چهره‌های تندرو را در مراکز تصمیم‌گیری، به‌ویژه در حوزه امنیت و دفاع، تقویت می‌کند.\n🔴\nاین اقدام نشان می‌دهد تهران به جای امتیازدهی سریع، خود را برای احتمال تداوم تشدید تنش و رویارویی آماده می‌کند.\n✅\n@AloNews",
+        "date": "2026-08-11T22:11:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141245_0_6bfe4ccf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141245"
+      },
+      {
+        "id": 141244,
+        "text": "👈\nصدای جنگنده تو تهران شنیده میشه\n✅\n@AloNews",
+        "date": "2026-08-11T21:54:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141244_0_6bfe4ccf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141244"
+      },
+      {
         "id": 141243,
         "text": "👈\nرسایی: آرزوی شهادت دارم\n✅\n@AloNews",
         "date": "2026-08-11T21:38:13+00:00",
@@ -15642,40 +15672,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141143"
-      },
-      {
-        "id": 141142,
-        "text": "👈\nوزیر کشور پاکستان وارد تهران شد\n✅\n@AloNews",
-        "date": "2026-08-11T11:00:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141142_0_a9e1d5f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141142"
-      },
-      {
-        "id": 141141,
-        "text": "👈\nشهردار بوشهر برکنار شد\n✅\n@AloNews",
-        "date": "2026-08-11T10:52:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141141_0_a9e1d5f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141141"
       }
     ]
   },
-  "last_update": "2026-08-11T21:47:40.948183+00:00",
+  "last_update": "2026-08-11T22:42:51.395220+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15692,6 +15692,6 @@
     "referenced_files": 1144,
     "existing_media_files": 1128,
     "total_size_mb": 303.53,
-    "last_calculation": "2026-08-11T21:47:40.958576+00:00"
+    "last_calculation": "2026-08-11T22:42:51.408622+00:00"
   }
 }
