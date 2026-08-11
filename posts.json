@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 141079,
+        "text": "👈\nترامپ در حال گلف بازی کردن در تعطیلات آخر هفته\n🔴\nیه سیستم پدافند هوایی کوتاه برد AN/TWQ-1 Avenger هم گذاشته کنارش\n✅\n@AloNews",
+        "date": "2026-08-11T03:34:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141079_0_a9e1d5f9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141079_1_156cdc49.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141079"
+      },
+      {
         "id": 141078,
         "text": "📉\n📈\nبازار می‌ریزد؛ اما\nآربیتراژ\nمتوقف نمی‌شود\nوقتی معامله‌گران از ریزش بازار ضرر می‌کنند، ربات هوشمند اطلس اختلاف قیمت بین صرافی‌ها را به فرصت سود تبدیل می‌کند.\n✅\nبرداشت سود روزانه\n✅\nگزارش لحظه ای معاملات آربیتراژ\n✅\nشروع سرمایه‌گذاری از ۵ دلار\n✅\nبدون نیاز به دانش ترید\n🚀\nمشاهده عملکرد اطلس:\n@AtlasSmartBot\nاطلاعات بیشتر در کانال تلگرام",
         "date": "2026-08-10T22:01:51+00:00",
@@ -15747,29 +15766,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/140970"
-      },
-      {
-        "id": 140969,
-        "text": "👈\nاز صبح امروز تاکنون، هیچ کشتی‌ای از بخش عمانی تنگه هرمز عبور نکرده است\n✅\n@AloNews",
-        "date": "2026-08-10T13:23:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_140969_0_a9e1d5f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_140969_1_2672be6c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/140969"
       }
     ]
   },
-  "last_update": "2026-08-11T02:37:50.412846+00:00",
+  "last_update": "2026-08-11T03:41:26.219930+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15785,7 +15785,7 @@
     },
     "referenced_files": 1169,
     "existing_media_files": 1153,
-    "total_size_mb": 371.6,
-    "last_calculation": "2026-08-11T02:37:50.423246+00:00"
+    "total_size_mb": 371.71,
+    "last_calculation": "2026-08-11T03:41:26.233396+00:00"
   }
 }
