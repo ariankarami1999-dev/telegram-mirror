@@ -13992,6 +13992,33 @@
     ],
     "alonews": [
       {
+        "id": 141418,
+        "text": "👈\nلحظه‌ی زیبای خورشید گرفتگی کاملی که امروز در اسپانیا و آلمان رخ داد :\n✅\n@AloNews",
+        "date": "2026-08-12T22:54:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141418_0_34601b94.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_141418_1_35d02d5a.mp4"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141418_2_5ebe5e6f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141418_3_5d9aae8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141418"
+      },
+      {
         "id": 141417,
         "text": "👈\nرئیس کمیسیون امنیت ملی مجلس:\nدشمن قصد حمله زمینی از مسیرهای غرب کشور، خارک و قشم را داشت که با واکنش یگان‌های نظامی و نیروهای مردمی، این نقشه در نطفه خفه شد.\n✅\n@AloNews",
         "date": "2026-08-12T22:39:49+00:00",
@@ -15677,41 +15704,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141313"
-      },
-      {
-        "id": 141312,
-        "text": "👈\nفارس به نقل از منبع ایرانی: هیچ مذاکره‌ای درباره تمدید آتش‌بس با آمریکا در جریان نیست\n🔴\nاز دیدگاه ایران، آتش‌بس تاریخ شروعی نداشته که چیزی برای تمدید وجود داشته باشد.\n🔴\nآمریکا ۴۸ ساعت پس از توافق موقت آن را نقض کرد و چند روز بعد از آن خارج شد\n✅\n@AloNews",
-        "date": "2026-08-12T11:30:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141312_0_6bfe4ccf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141312"
       }
     ]
   },
-  "last_update": "2026-08-12T22:42:05.820463+00:00",
+  "last_update": "2026-08-12T23:41:48.418394+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1152,
-    "total_files": 1152,
+    "total_media": 1155,
+    "total_files": 1155,
     "total_links": 192,
     "files_by_type": {
-      "image": 1077,
-      "video": 68,
+      "image": 1079,
+      "video": 69,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1152,
-    "existing_media_files": 1136,
-    "total_size_mb": 276.2,
-    "last_calculation": "2026-08-12T22:42:05.829531+00:00"
+    "referenced_files": 1155,
+    "existing_media_files": 1139,
+    "total_size_mb": 277.46,
+    "last_calculation": "2026-08-12T23:41:48.425265+00:00"
   }
 }
