@@ -13992,6 +13992,52 @@
     ],
     "alonews": [
       {
+        "id": 141577,
+        "text": "👈\nامشب تو صحن امام رضا مردم داشتن با چوب عزاداری میکردن\nاما چند دقیقه بعد بین یه هیئت یزدی و تبریزی دعوا شد!\nبعدشم شروع کردن با همون چوبا همدیگرو کتک میزدن و پرت میکردن تو سر و کله همدیگه.\n✅\n@AloNews",
+        "date": "2026-08-13T23:29:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141577_0_7d5ea0ef.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_141577_1_4557c8b0.mp4"
+          },
+          {
+            "type": "video",
+            "file": "alonews_141577_2_f928478d.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141577"
+      },
+      {
+        "id": 141575,
+        "text": "👈\nصدا و سیما به دولت، خوارج گفت\n✅\n@AloNews",
+        "date": "2026-08-13T22:45:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141575_0_7d5ea0ef.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141575_1_3ebf8983.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141575_2_7d1932f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141575"
+      },
+      {
         "id": 141574,
         "text": "👈\n7پالایشگاه از 10پالایشگاه اصلی ایران قبل انقلاب ساخته شده\n✅\n@AloNews",
         "date": "2026-08-13T22:06:01+00:00",
@@ -15700,68 +15746,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141466"
-      },
-      {
-        "id": 141465,
-        "text": "‏\n👈\nعضو کمیسیون انرژی مجلس:  طرح گران سازی بنزین از اول شهریور طرح مشترک سازمان برنامه و وزارت نفت است ربطی به سازمان بهینه‌سازی ندارد\n✅\n@AloNews",
-        "date": "2026-08-13T09:14:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141465_0_34601b94.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141465_1_8ad03fe3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141465"
-      },
-      {
-        "id": 141463,
-        "text": "👈\nتصاویری متفاوت از خورشیدگرفتگی از داخل یک جنگنده و یک ایرباس!\n✅\n@AloNews",
-        "date": "2026-08-13T09:09:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141463_0_34601b94.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_141463_1_5fed776d.mp4"
-          },
-          {
-            "type": "video",
-            "file": "alonews_141463_2_c926a341.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141463"
       }
     ]
   },
-  "last_update": "2026-08-13T22:43:28.628069+00:00",
+  "last_update": "2026-08-13T23:42:51.865524+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1163,
-    "total_files": 1163,
+    "total_media": 1164,
+    "total_files": 1164,
     "total_links": 193,
     "files_by_type": {
-      "image": 1078,
+      "image": 1079,
       "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1163,
-    "existing_media_files": 1147,
-    "total_size_mb": 363.06,
-    "last_calculation": "2026-08-13T22:43:28.641522+00:00"
+    "referenced_files": 1164,
+    "existing_media_files": 1148,
+    "total_size_mb": 367.6,
+    "last_calculation": "2026-08-13T23:42:51.879520+00:00"
   }
 }
