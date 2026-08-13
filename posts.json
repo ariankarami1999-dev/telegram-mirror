@@ -13992,6 +13992,41 @@
     ],
     "alonews": [
       {
+        "id": 141438,
+        "text": "👈\nتصاویر ماهواره‌ای از خسارت به تأسیسات ذخیره و بارگیری غلات در نووروسیسک پس از حملات شب گذشته اوکراین حکایت دارد.\n🔴\nهمچنین، یک نفتکش در تأسیسات انتقال و بارگیری نفت نیز هدف حمله قرار گرفته است.\n✅\n@AloNews",
+        "date": "2026-08-13T07:24:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141438_0_34601b94.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141438_1_87f9ba69.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141438_2_7e98076a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141438_3_8ce0e6fc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141438_4_dab00bbe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141438_5_95816bc9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141438"
+      },
+      {
         "id": 141437,
         "text": "‏\n👈\nهواشناسی: گرما تا یکشنبه در بیشتر مناطق کشور ماندگار است\n✅\n@AloNews",
         "date": "2026-08-13T07:18:01+00:00",
@@ -15681,41 +15716,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141330"
-      },
-      {
-        "id": 141329,
-        "text": "👈\nحمزه صفوی:\nممکن است بمب اتم داشته باشی اما مردم انقلاب کنند\n🔴\nاگر بمب اتم هم داشته باشی، باید مسئله تحریم و اجماع جهانی را حل کنی\n✅\n@AloNews",
-        "date": "2026-08-12T13:43:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141329_0_34601b94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141329"
       }
     ]
   },
-  "last_update": "2026-08-13T07:21:52.764899+00:00",
+  "last_update": "2026-08-13T07:29:58.024941+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1153,
-    "total_files": 1153,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 192,
     "files_by_type": {
-      "image": 1077,
+      "image": 1082,
       "video": 69,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1153,
-    "existing_media_files": 1137,
-    "total_size_mb": 280.88,
-    "last_calculation": "2026-08-13T07:21:52.778410+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 281.43,
+    "last_calculation": "2026-08-13T07:29:58.033404+00:00"
   }
 }
