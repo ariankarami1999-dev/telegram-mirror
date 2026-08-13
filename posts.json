@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 141423,
+        "text": "👈\nآلتمن مدیرعامل OpenAi:احتمالا تا 6 ماه آینده، Chat gpt بتونه صفحه نمایش موبایل شمارو ببینه و بخونه!\n🔴\nبه این صورته که کارایی که در طول روز با موبایل انجام میدین رو میتونه تحلیل کنه، مثلا وسط چت با پارتنر یا رفیقتون، کمک میکنه چی جواب بدین.\n🔴\nیا اینکه سر کلاس آنلاین، جواب معلم رو چی بدین؟ حتی می‌تونه تماساتونم ضبط کنه و وسط مکالمه کمک‌تون کنه!\n✅\n@AloNews",
+        "date": "2026-08-13T05:58:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141423_0_34601b94.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141423_1_b5bead76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141423"
+      },
+      {
+        "id": 141422,
+        "text": "👈\nپلتفرم ایکس حساب یحیی سریع، سخنگوی حوثی‌ها، را مسدود کرد\n✅\n@AloNews",
+        "date": "2026-08-13T05:54:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141422_0_34601b94.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141422_1_771c6926.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141422"
+      },
+      {
+        "id": 141421,
+        "text": "👈\nالجزیره: قیمت نفت ۱ دلار و ۲۹ سنت یا ۱.۵ درصد در هر بشکه کاهش یافت و به ۸۷.۶۹ دلار رسید\n🔴\nاین کاهش پس از آن رخ داد که به دلیل جنگ علیه ایران، پیش‌بینی‌ها برای تقاضای جهانی نفت در سال ۲۰۲۶ کاهش یافت\n✅\n@AloNews",
+        "date": "2026-08-13T05:49:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141421_0_34601b94.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141421"
+      },
+      {
         "id": 141418,
         "text": "👈\nلحظه‌ی زیبای خورشید گرفتگی کاملی که امروز در اسپانیا و آلمان رخ داد :\n✅\n@AloNews",
         "date": "2026-08-12T22:54:22+00:00",
@@ -15659,71 +15712,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141316"
-      },
-      {
-        "id": 141315,
-        "text": "👈\nاحتمال شنیده شدن صدای انفجار در جاسک بر اثر عملیات خنثی‌سازی مهمات\n✅\n@AloNews",
-        "date": "2026-08-12T11:52:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141315_0_6bfe4ccf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141315"
-      },
-      {
-        "id": 141314,
-        "text": "👈\nپوتین: توقیف کشتی‌های روسیه توسط برخی کشور‌های اروپایی، چیزی بیشتر از «دزدی دریایی» نیست\n‏\n🔴\nاگر اروپا این اقدام را انجام دهد، پاسخ مشابهی خواهیم داد\n✅\n@AloNews",
-        "date": "2026-08-12T11:45:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141314_0_6bfe4ccf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141314"
-      },
-      {
-        "id": 141313,
-        "text": "👈\nفارس: نرخ خودکشی تو ارتش آمریکا بالا رفته\n✅\n@AloNews",
-        "date": "2026-08-12T11:38:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141313_0_6bfe4ccf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141313"
       }
     ]
   },
-  "last_update": "2026-08-13T04:14:40.279194+00:00",
+  "last_update": "2026-08-13T05:59:31.693035+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1155,
-    "total_files": 1155,
+    "total_media": 1157,
+    "total_files": 1157,
     "total_links": 192,
     "files_by_type": {
-      "image": 1079,
+      "image": 1081,
       "video": 69,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1155,
-    "existing_media_files": 1139,
-    "total_size_mb": 277.46,
-    "last_calculation": "2026-08-13T04:14:40.292984+00:00"
+    "referenced_files": 1157,
+    "existing_media_files": 1141,
+    "total_size_mb": 277.55,
+    "last_calculation": "2026-08-13T05:59:31.706896+00:00"
   }
 }
