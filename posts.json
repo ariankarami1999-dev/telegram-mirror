@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 141748,
+        "text": "👈\nهادی چوپان: به لطف مسئولین عزیز و زحمتکشمون یه بلوار به نامم شد و آرزوی من محقق شد\n🔴\nدست مسئولین رو میبوسم\n✅\n@AloNews",
+        "date": "2026-08-14T22:10:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141748_0_7dbf62a0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141748_1_3cc5210c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141748"
+      },
+      {
+        "id": 141747,
+        "text": "👈\nترامپ: میتونیم تو ۱روز ایران رو نابود کنیم اما این کار رو نکردیم\n✅\n@AloNews",
+        "date": "2026-08-14T21:48:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141747_0_7dbf62a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141747"
+      },
+      {
+        "id": 141746,
+        "text": "‏\n👈\nبلومبرگ:\nدولت ترامپ در حال آماده‌سازی \"اقدامات اقتصادی بی‌سابقه\" علیه ایران است، به منظور وادار کردن این کشور به توافق قبل از انتخابات میان‌دوره‌ای نوامبر!\n🔴\nاین اقدام همچنین نشان می‌دهد که ترامپ به جای بازگشت به حملات نظامی در ایران، به فشار اقتصادی و دیپلماسی اولویت می‌دهد، با وجود فشارهایی از سوی برخی مقامات ارشد\n✅\n@AloNews",
+        "date": "2026-08-14T21:41:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141746_0_7dbf62a0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141746_1_6f3f6237.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141746"
+      },
+      {
         "id": 141745,
         "text": "👈\nکاخ سفید:\nتمدید آتش‌بس با ایران هنوز قطعی نشده است\n✅\n@AloNews",
         "date": "2026-08-14T21:34:00+00:00",
@@ -15639,77 +15692,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141645"
-      },
-      {
-        "id": 141644,
-        "text": "👈\nپلیس اکوادور در روز سه‌شنبه، 469 کیلوگرم (حدود 1034 پوند) کوکائین را از یک کامیون در نزدیکی مرز کلمبیا کشف کرد. بسته‌های این مواد مخدر با تصویری از ارلینگ هالاند، ستاره فوتبال نروژی، مهر شده بودند.\n🔴\nمقامات ارزش این محموله را بیش از 11 میلیون دلار آمریکا و نزدیک به 20 میلیون دلار اروپا تخمین زدند.\n✅\n@AloNews",
-        "date": "2026-08-14T11:34:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141644_0_7d5ea0ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141644"
-      },
-      {
-        "id": 141643,
-        "text": "👈\nسپاه: بازم پهپاد زدیم الله اکبر\n✅\n@AloNews",
-        "date": "2026-08-14T11:28:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141643_0_7d5ea0ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141643"
-      },
-      {
-        "id": 141642,
-        "text": "💢\nتحلیل عجیب از اقتصاد آینده\n👇\nhttps://t.me/+nCexQYLuuONhYzg0\nhttps://t.me/+nCexQYLuuONhYzg0",
-        "date": "2026-08-14T11:25:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141642_0_7d5ea0ef.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+nCexQYLuuONhYzg0",
-            "type": "telegram",
-            "display_text": "https://t.me/+nCexQYLuuONhYzg0"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/alonews/141642"
       }
     ]
   },
-  "last_update": "2026-08-14T21:34:30.331607+00:00",
+  "last_update": "2026-08-14T22:24:33.209345+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1147,
-    "total_files": 1147,
-    "total_links": 195,
+    "total_media": 1149,
+    "total_files": 1149,
+    "total_links": 194,
     "files_by_type": {
-      "image": 1065,
+      "image": 1067,
       "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1147,
-    "existing_media_files": 1131,
-    "total_size_mb": 356.85,
-    "last_calculation": "2026-08-14T21:34:30.344695+00:00"
+    "referenced_files": 1149,
+    "existing_media_files": 1133,
+    "total_size_mb": 357.02,
+    "last_calculation": "2026-08-14T22:24:33.222820+00:00"
   }
 }
