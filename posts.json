@@ -13992,6 +13992,63 @@
     ],
     "alonews": [
       {
+        "id": 141740,
+        "text": "👈\nپزشکیان: پول نداریم\n✅\n@AloNews",
+        "date": "2026-08-14T20:50:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141740_0_7dbf62a0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141740_1_2390b6c0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141740"
+      },
+      {
+        "id": 141739,
+        "text": "👈\nاحسان حسینی، خبرنگار حوزه انرژی: اصلا بنزینی نیست که بتوانیم وارد کنیم\n✅\n@AloNews",
+        "date": "2026-08-14T20:40:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141739_0_7dbf62a0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141739_1_60eed907.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141739"
+      },
+      {
+        "id": 141738,
+        "text": "👈\nترامپ : آمریکا بازگشته است، و بزرگ‌ترین پیروزی‌های ما هنوز در راه هستند.»\n✅\n@AloNews",
+        "date": "2026-08-14T20:36:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141738_0_7dbf62a0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_141738_1_be77c2c1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141738"
+      },
+      {
         "id": 141737,
         "text": "👈\nدونالد ترامپ درباره ایران گفت: «یکی از مشکلات در ایران این است که کسی وجود ندارد که بتوان با او مذاکره کرد؛ این یک مشکل است.»\n🔴\nاو در ادامه گفت: «ایران تنها کشور جهان است که در آن هیچ‌کس نمی‌خواهد رئیس‌جمهور شود.»\n✅\n@AloNews",
         "date": "2026-08-14T20:31:39+00:00",
@@ -15631,79 +15688,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141637"
-      },
-      {
-        "id": 141636,
-        "text": "👈\nکویت، بحرین و مصر حملات ایران به دو کشتی اماراتی را محکوم کردند.\n✅\n@AloNews",
-        "date": "2026-08-14T10:44:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141636_0_7d5ea0ef.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141636_1_04a23935.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141636"
-      },
-      {
-        "id": 141635,
-        "text": "👈\nسخنگوی وزارت آموزش و پرورش: مدارس در سال تحصیلی جدید همزمان با اول مهر، به صورت ۱۰۰ درصد حضوری فعالیت خود را آغاز خواهند کرد\n✅\n@AloNews",
-        "date": "2026-08-14T10:40:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141635_0_7d5ea0ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141635"
-      },
-      {
-        "id": 141634,
-        "text": "👈\nلهستان در حال بررسی انتقال یک دسته اضافی از موشک‌های رهگیر دفاع هوایی پتریوت به اوکراین است و انتظار می‌رود تصمیمی در سطح بالای دولت در چند روز آینده اتخاذ شود.\n✅\n@AloNews",
-        "date": "2026-08-14T10:35:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141634_0_7d5ea0ef.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141634_1_882cff13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141634"
       }
     ]
   },
-  "last_update": "2026-08-14T20:32:55.532894+00:00",
+  "last_update": "2026-08-14T21:02:36.832591+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1147,
-    "total_files": 1147,
+    "total_media": 1148,
+    "total_files": 1148,
     "total_links": 194,
     "files_by_type": {
       "image": 1065,
-      "video": 75,
+      "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1147,
-    "existing_media_files": 1131,
-    "total_size_mb": 349.06,
-    "last_calculation": "2026-08-14T20:32:55.543548+00:00"
+    "referenced_files": 1148,
+    "existing_media_files": 1132,
+    "total_size_mb": 356.36,
+    "last_calculation": "2026-08-14T21:02:36.843260+00:00"
   }
 }
