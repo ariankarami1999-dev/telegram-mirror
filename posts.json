@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 141845,
+        "text": "👈\nآتش‌نشانی مهاباد: انفجار بنزین ذخیره شده در یک واحد مسکونی، ۸ نفر را روانه بیمارستان کرد\n🔴\n۳ تن از نیرو‌های آتش‌نشانی، ۱ نفر از افراد حاضر در منزل و ۴ نفر از همسایگان، دچار سوختگی سطحی شدند\n✅\n@AloNews",
+        "date": "2026-08-15T12:32:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141845_0_7dbf62a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141845"
+      },
+      {
         "id": 141844,
         "text": "👈\nلهستان بزرگ‌ترین رژه نظامی تاریخ خود را برگزار کرد؛ دونالد توسک هشدار داد: «فقط قدرتمندان از جنگ دور می‌مانند.»\n✅\n@AloNews",
         "date": "2026-08-15T12:23:57+00:00",
@@ -15689,45 +15704,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141738"
-      },
-      {
-        "id": 141737,
-        "text": "👈\nدونالد ترامپ درباره ایران گفت: «یکی از مشکلات در ایران این است که کسی وجود ندارد که بتوان با او مذاکره کرد؛ این یک مشکل است.»\n🔴\nاو در ادامه گفت: «ایران تنها کشور جهان است که در آن هیچ‌کس نمی‌خواهد رئیس‌جمهور شود.»\n✅\n@AloNews",
-        "date": "2026-08-14T20:31:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141737_0_7dbf62a0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_141737_1_39ebedff.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141737"
       }
     ]
   },
-  "last_update": "2026-08-15T12:29:34.638237+00:00",
+  "last_update": "2026-08-15T12:37:34.506245+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1156,
-    "total_files": 1156,
+    "total_media": 1155,
+    "total_files": 1155,
     "total_links": 192,
     "files_by_type": {
       "image": 1071,
-      "video": 78,
+      "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1156,
-    "existing_media_files": 1140,
-    "total_size_mb": 349.66,
-    "last_calculation": "2026-08-15T12:29:34.648532+00:00"
+    "referenced_files": 1155,
+    "existing_media_files": 1139,
+    "total_size_mb": 344.33,
+    "last_calculation": "2026-08-15T12:37:34.515810+00:00"
   }
 }
