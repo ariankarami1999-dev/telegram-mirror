@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 141895,
+        "text": "👈\nطالبان هم فهمید برای پیشرفت باید دنبال رابطه با دنیا باشه و جهاد رو بزاره کنار اما جمهوری اسلامی نفهمید\n✅\n@AloNews",
+        "date": "2026-08-15T18:24:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141895_0_51c1a8f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141895"
+      },
+      {
         "id": 141894,
         "text": "👈\nنیروهای یمنی مورد حمایت عربستان سعودی از یک پهپاد انتحاری (FPV) برای حمله به یک خودروی متعلق به گروه انصارالله/حوثی در خط مقدم جبهه استفاده کردند\n✅\n@AloNews",
         "date": "2026-08-15T18:21:48+00:00",
@@ -15713,45 +15728,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141791"
-      },
-      {
-        "id": 141790,
-        "text": "👈\nهزینه جدید کارواش خودرو در ۱۴۰۵ / روشویی تا ۶۰۰ هزار تومان رسید\n✅\n@AloNews",
-        "date": "2026-08-15T08:51:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141790_0_7dbf62a0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141790_1_2fcc591f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141790"
       }
     ]
   },
-  "last_update": "2026-08-15T18:23:45.229132+00:00",
+  "last_update": "2026-08-15T18:30:45.169010+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1159,
-    "total_files": 1159,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 194,
     "files_by_type": {
-      "image": 1076,
+      "image": 1075,
       "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1159,
-    "existing_media_files": 1143,
-    "total_size_mb": 340.14,
-    "last_calculation": "2026-08-15T18:23:45.239113+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 340.09,
+    "last_calculation": "2026-08-15T18:30:45.182851+00:00"
   }
 }
