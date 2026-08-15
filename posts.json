@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 141854,
+        "text": "👈\nکارشناس صدا و سیما:\n70درصد مردم تو تجمعات شبانه شرکت داشتن\n✅\n@AloNews",
+        "date": "2026-08-15T14:18:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141854_0_51c1a8f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141854"
+      },
+      {
+        "id": 141853,
+        "text": "👈\nواشنگتن پست: هیچ توافق خوب و قابل‌قبولی با ایران نمی‌توان منعقد کرد\n✅\n@AloNews",
+        "date": "2026-08-15T14:14:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141853_0_51c1a8f9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141853_1_92896e5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141853"
+      },
+      {
+        "id": 141852,
+        "text": "👈\nویدئویی از حمله نیروهای انصارالله به نیروهای وابسته به عربستان تو بندر المخا\n✅\n@AloNews",
+        "date": "2026-08-15T14:05:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141852_0_51c1a8f9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_141852_1_c9e1c5d1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141852"
+      },
+      {
         "id": 141851,
         "text": "👈\nاسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، اعلام کرد که ایران و عمان به توافقی در مورد طرح ترانزیت دریایی در تنگه هرمز رسیده‌اند. این توافق پس از پیشرفت‌های مثبت در مذاکرات صورت گرفته است، «با وجود موانع ایجاد شده توسط ایالات متحده».\n🔴\nبقایی افزود که این توافق حاصل تلاش‌های هماهنگ بین‌سازمانی به رهبری وزارت امور خارجه ایران، با مشارکت مقامات دفاعی، امنیتی و محیط زیستی کشور بوده است.\n✅\n@AloNews",
         "date": "2026-08-15T13:46:11+00:00",
@@ -15653,75 +15706,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141748"
-      },
-      {
-        "id": 141747,
-        "text": "👈\nترامپ: میتونیم تو ۱روز ایران رو نابود کنیم اما این کار رو نکردیم\n✅\n@AloNews",
-        "date": "2026-08-14T21:48:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141747_0_7dbf62a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141747"
-      },
-      {
-        "id": 141746,
-        "text": "‏\n👈\nبلومبرگ:\nدولت ترامپ در حال آماده‌سازی \"اقدامات اقتصادی بی‌سابقه\" علیه ایران است، به منظور وادار کردن این کشور به توافق قبل از انتخابات میان‌دوره‌ای نوامبر!\n🔴\nاین اقدام همچنین نشان می‌دهد که ترامپ به جای بازگشت به حملات نظامی در ایران، به فشار اقتصادی و دیپلماسی اولویت می‌دهد، با وجود فشارهایی از سوی برخی مقامات ارشد\n✅\n@AloNews",
-        "date": "2026-08-14T21:41:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141746_0_7dbf62a0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141746_1_6f3f6237.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141746"
-      },
-      {
-        "id": 141745,
-        "text": "👈\nکاخ سفید:\nتمدید آتش‌بس با ایران هنوز قطعی نشده است\n✅\n@AloNews",
-        "date": "2026-08-14T21:34:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141745_0_7dbf62a0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141745"
       }
     ]
   },
-  "last_update": "2026-08-15T13:57:06.217770+00:00",
+  "last_update": "2026-08-15T14:23:54.496838+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1156,
-    "total_files": 1156,
+    "total_media": 1157,
+    "total_files": 1157,
     "total_links": 191,
     "files_by_type": {
       "image": 1072,
-      "video": 77,
+      "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1156,
-    "existing_media_files": 1140,
-    "total_size_mb": 348.33,
-    "last_calculation": "2026-08-15T13:57:06.231792+00:00"
+    "referenced_files": 1157,
+    "existing_media_files": 1141,
+    "total_size_mb": 353.86,
+    "last_calculation": "2026-08-15T14:23:54.510226+00:00"
   }
 }
