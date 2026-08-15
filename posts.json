@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 141965,
+        "text": "👈\nاردوغان:\nترامپ به من قول داد که جنگنده‌های اف-35 را به ترکیه بفروشد. ما منتظر هستیم تا او به قول خود عمل کند\n✅\n@AloNews",
+        "date": "2026-08-15T21:35:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141965_0_51c1a8f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141965"
+      },
+      {
+        "id": 141964,
+        "text": "👈\nقالیباف:\nدغدغه من از سال 64، لبنان هست\n✅\n@AloNews",
+        "date": "2026-08-15T21:26:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141964_0_51c1a8f9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141964_1_2a810acd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141964"
+      },
+      {
         "id": 141957,
         "text": "👈\nاعتراض خانواده‌ها و بیماران مبتلا به سیستیک فیبروزیس(بیماری ژنتیکی\n⬅️\nCf) در ایران به کمبود داروهای ضروری(حیاتی) مانند کرئون و پولموزایم و نبود تریکافتا در ایران\n✅\n@AloNews",
         "date": "2026-08-15T21:21:38+00:00",
@@ -15774,44 +15808,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141851"
-      },
-      {
-        "id": 141850,
-        "text": "👈\nاسرائیل دو حمله هوایی به لبنان انجام داد و ۹ نفر کُشته، و زخمی شد\n✅\n@AloNews",
-        "date": "2026-08-15T13:31:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141850_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141850_1_46332455.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141850"
-      },
-      {
-        "id": 141849,
-        "text": "👈\nژنرال کین، رئیس ستاد ارتش آمریکا :رژیم ایران یک ساختار ایدئولوژیک است و اکنون خود را پیروز جنگ می‌داند؛ جز قدرت نظامی، هیچ ترکیب جدیدی از تحریم و فشار اقتصادی، تنگه هرمز را به وضعیت عادی برنمی‌گرداند.\n✅\n@AloNews",
-        "date": "2026-08-15T13:14:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141849_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141849"
       }
     ]
   },
-  "last_update": "2026-08-15T21:22:40.084621+00:00",
+  "last_update": "2026-08-15T21:49:08.638393+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15827,7 +15827,7 @@
     },
     "referenced_files": 1178,
     "existing_media_files": 1162,
-    "total_size_mb": 372.51,
-    "last_calculation": "2026-08-15T21:22:40.098165+00:00"
+    "total_size_mb": 372.46,
+    "last_calculation": "2026-08-15T21:49:08.652598+00:00"
   }
 }
