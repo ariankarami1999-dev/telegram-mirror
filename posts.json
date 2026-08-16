@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 142134,
+        "text": "‏\n👈\nسپاه: پدافند هواییمون حتی ۱ پیچش هم خارجی نیست و ۱۰۰٪ داخلیه\n✅\n@AloNews",
+        "date": "2026-08-16T19:38:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142134_0_079caeb9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142134"
+      },
+      {
+        "id": 142133,
+        "text": "👈\nنظرسنجی سقاب اصفهانی در توییتر درمورد ۳ طرح بنزینی دولت\n✅\n@AloNews",
+        "date": "2026-08-16T19:30:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142133_0_079caeb9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142133_1_2483ce1a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142133"
+      },
+      {
+        "id": 142132,
+        "text": "👈\nنتانیاهو با انتشار این پست در اینستاگرام رسما تایید کرد که مجتبی خامنه ای زنده ست و گفت اینا نمیخوان من تو انتخابات برنده بشم. نزارید اینا به خواستشون برسن.\n✅\n@AloNews",
+        "date": "2026-08-16T19:25:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142132_0_079caeb9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142132_1_449c371f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142132"
+      },
+      {
         "id": 142131,
         "text": "👈\nقالیباف: ۹۰میلیون ایران حامی نظام هستند\n✅\n@AloNews",
         "date": "2026-08-16T19:18:07+00:00",
@@ -15637,75 +15690,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142024"
-      },
-      {
-        "id": 142023,
-        "text": "👈\nحسین شریعتمداری: وظیفه جمهوری اسلامی در قبال مردم، فقط حجاب هست\n✅\n@AloNews",
-        "date": "2026-08-16T09:30:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142023_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142023_1_c8d75109.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142023"
-      },
-      {
-        "id": 142022,
-        "text": "👈\nالمیادین:بر اساس مذاکرات جاری میان ایران و عمان، مسیر جنوبی لغو خواهد شد.\n🔴\nتمامی نفتکش‌ها ملزم خواهند بود با نیروی دریایی سپاه هماهنگ کنند.\n🔴\nبیشتر کشتی‌ها هنگام عبور از تنگه هرمز، مسیر ایرانی را رعایت کرده‌اند.\n✅\n@AloNews",
-        "date": "2026-08-16T09:26:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142022_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142022"
-      },
-      {
-        "id": 142021,
-        "text": "👈\nفرمانده ارتش: هر ایرانی ای که یه سرباز آمریکایی رو اسیر کنه یا بکشه بهش ۳۰ هزار دلار جایزه میدیم\n✅\n@AloNews",
-        "date": "2026-08-16T09:19:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142021_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142021"
       }
     ]
   },
-  "last_update": "2026-08-16T19:24:46.094738+00:00",
+  "last_update": "2026-08-16T19:47:18.880456+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1152,
-    "total_files": 1152,
+    "total_media": 1153,
+    "total_files": 1153,
     "total_links": 191,
     "files_by_type": {
-      "image": 1073,
+      "image": 1074,
       "video": 72,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1152,
-    "existing_media_files": 1136,
-    "total_size_mb": 320.98,
-    "last_calculation": "2026-08-16T19:24:46.109289+00:00"
+    "referenced_files": 1153,
+    "existing_media_files": 1137,
+    "total_size_mb": 321.07,
+    "last_calculation": "2026-08-16T19:47:18.893897+00:00"
   }
 }
