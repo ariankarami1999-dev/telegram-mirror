@@ -13992,6 +13992,63 @@
     ],
     "alonews": [
       {
+        "id": 142086,
+        "text": "👈\nالسیسی، رئیس جمهور مصر همراه با وزیر امور خارجه و وزیر اطلاعات این کشور با جرد کوشنر، مشاور ارشد ترامپ و داماد او دیدار کردند\n✅\n@AloNews",
+        "date": "2026-08-16T15:47:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142086_0_079caeb9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142086_1_454cad30.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142086"
+      },
+      {
+        "id": 142085,
+        "text": "👈\nتبلیغات انتخاباتی جدید نتانیاهو، مجتبی خامنه‌ای، زهران مامدانی، رجب طیب اردوغان و نعیم قاسم را گرد هم می‌آورد: «آنها می‌خواهند نتانیاهو شکست بخورد. اجازه ندهید آنها پیروز شوند.»\n✅\n@AloNews",
+        "date": "2026-08-16T15:29:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142085_0_079caeb9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142085_1_761ad6bd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142085"
+      },
+      {
+        "id": 142084,
+        "text": "👈\nکریستیانو رونالدو در گفت‌وگویی با مجله «ووگ» درباره آینده دوران حرفه‌ای خود صحبت کرد و گفت: «احتمالاً این آخرین سال فوتبالی من خواهد بود و می‌خواهم میراثی فوق‌العاده از خودم به جا بگذارم.»\n✅\n@AloNews",
+        "date": "2026-08-16T15:26:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142084_0_079caeb9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142084_1_aabdd886.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142084"
+      },
+      {
         "id": 142083,
         "text": "👈\nحدود ۴۰ دقیقه پیش، توپخانه انصارالله به مناطق روستایی ناحیه مقبانه در استان تعز غربی یمن، شلیک کرد\n✅\n@AloNews",
         "date": "2026-08-16T15:20:03+00:00",
@@ -15661,79 +15718,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141971"
-      },
-      {
-        "id": 141970,
-        "text": "👈\nاسرائیل برای بار Nام تفاهم نامه اسلام آباد رو نقض و به لبنان حمله کرد\n✅\n@AloNews",
-        "date": "2026-08-15T22:18:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141970_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_141970_1_d7f4235c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141970"
-      },
-      {
-        "id": 141969,
-        "text": "👈\nمجری: تا الان مردم فقط ۸۱میلیون تومن کمک کردن تا ترامپ رو بکشیم\n✅\n@AloNews",
-        "date": "2026-08-15T22:12:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141969_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_141969_1_1772ba2e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141969"
-      },
-      {
-        "id": 141968,
-        "text": "👈\nهم اکنون حملات به جنوب لبنان\n✅\n@AloNews",
-        "date": "2026-08-15T22:08:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141968_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141968"
       }
     ]
   },
-  "last_update": "2026-08-16T15:23:12.507489+00:00",
+  "last_update": "2026-08-16T15:49:44.920503+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1159,
-    "total_files": 1159,
+    "total_media": 1160,
+    "total_files": 1160,
     "total_links": 191,
     "files_by_type": {
-      "image": 1077,
-      "video": 75,
+      "image": 1080,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1159,
-    "existing_media_files": 1143,
-    "total_size_mb": 308.27,
-    "last_calculation": "2026-08-16T15:23:12.521460+00:00"
+    "referenced_files": 1160,
+    "existing_media_files": 1144,
+    "total_size_mb": 306.2,
+    "last_calculation": "2026-08-16T15:49:44.933810+00:00"
   }
 }
