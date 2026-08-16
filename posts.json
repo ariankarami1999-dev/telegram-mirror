@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 142157,
+        "text": "👈\nترامپ درباره ایران:\nاونا پولشون بی ارزشه، ارتششون داغونه، نیروی دریاییشون و 159 تا کشتی‌شون غرق شدن و ته دریا دارن استراحت میکنن. رادارشون و تکنولوژی‌شون از بین رفته، تورم 350 درصدی دارن.\n✅\n@AloNews",
+        "date": "2026-08-16T23:04:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142157_0_079caeb9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142157_1_c34e7deb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142157"
+      },
+      {
+        "id": 142156,
+        "text": "👈\nترامپ درباره ایران:\nاتفاقات خوبی خیلی زود رخ خواهد داد\n. در واقع، آنها همین حالا هم رخ داده‌اند، چون یک کاری هست که ما نمی‌توانیم اجازه دهیم انجام شود: ما نمی‌توانیم اجازه دهیم ایران به سلاح هسته‌ای دست پیدا کند\n✅\n@AloNews",
+        "date": "2026-08-16T22:53:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142156_0_079caeb9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142156"
+      },
+      {
         "id": 142155,
         "text": "👈\nمارجوری\nتیلور گرین نماینده سابق مجلس آمریکا :\nاستفاده از بمب اتمی علیه ایران تو جلسات ترامپ مطرح شده\nاین یک طرح شیطانی هست جلوش باید سریعا گرفته بشه\nمطلب رو اشتباه نخوندید درست خوندید یک فاجعه در راهه\n✅\n@AloNews",
         "date": "2026-08-16T22:07:34+00:00",
@@ -15650,56 +15684,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142047"
-      },
-      {
-        "id": 142046,
-        "text": "👈\nهم اکنون حمله پهپادی اسرائیل به چند خودرو تو خان‌یونس، جنوب غزه\n✅\n@AloNews",
-        "date": "2026-08-16T12:00:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142046_0_079caeb9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142046"
-      },
-      {
-        "id": 142045,
-        "text": "👈\nمعاون وزیر نیرو: به دلیل سنگین شدن بهای برق در بازه‌های دوماهه، در دستور کار است تا دوره صدور قبض‌های برق به یک ماه برسد\n✅\n@AloNews",
-        "date": "2026-08-16T11:48:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142045_0_079caeb9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142045"
       }
     ]
   },
-  "last_update": "2026-08-16T22:49:44.109076+00:00",
+  "last_update": "2026-08-16T23:21:59.394758+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1149,
-    "total_files": 1149,
+    "total_media": 1150,
+    "total_files": 1150,
     "total_links": 192,
     "files_by_type": {
       "image": 1069,
-      "video": 73,
+      "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1149,
-    "existing_media_files": 1133,
-    "total_size_mb": 323.41,
-    "last_calculation": "2026-08-16T22:49:44.117177+00:00"
+    "referenced_files": 1150,
+    "existing_media_files": 1134,
+    "total_size_mb": 326.64,
+    "last_calculation": "2026-08-16T23:21:59.408373+00:00"
   }
 }
