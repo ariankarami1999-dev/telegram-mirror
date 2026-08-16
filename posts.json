@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 142056,
+        "text": "👈\nهم اکنون ویدیویی از اقلیم کردستان منتشر شده که صدای پهپاد های انتحاری شاهد به گوش می رسد\n✅\n@AloNews",
+        "date": "2026-08-16T12:36:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142056_0_079caeb9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142056_1_609642f9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142056"
+      },
+      {
         "id": 142055,
         "text": "👈\nرضا دالمن دانشجوی دانشگاه شریف به دلیل اعدام نمادین یک موش از دانشگاه شریف اخراج شد\n🔴\nهنوز مشخص نیست که آیا اعدام نمادین یک عروسک چطور جرم انگاری شده\n✅\n@AloNews",
         "date": "2026-08-16T12:28:08+00:00",
@@ -15751,29 +15770,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141932"
-      },
-      {
-        "id": 141931,
-        "text": "👈\nسقاب اصفهانی: امکان ایجاد بازار صحیح برای فروش سهمیه افراد نیز می توان اجرا کرد/قیمت این بازار ها نباید توسط دولت یا رانت کنترل شود\n✅\n@AloNews",
-        "date": "2026-08-15T19:44:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141931_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_141931_1_dfbac29f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141931"
       }
     ]
   },
-  "last_update": "2026-08-16T12:31:22.480129+00:00",
+  "last_update": "2026-08-16T12:39:18.637329+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15789,7 +15789,7 @@
     },
     "referenced_files": 1173,
     "existing_media_files": 1157,
-    "total_size_mb": 342.57,
-    "last_calculation": "2026-08-16T12:31:22.489864+00:00"
+    "total_size_mb": 339.28,
+    "last_calculation": "2026-08-16T12:39:18.650863+00:00"
   }
 }
