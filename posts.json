@@ -13992,6 +13992,76 @@
     ],
     "alonews": [
       {
+        "id": 142154,
+        "text": "قیمت‌ها رو تو سال 84 ببینید\n[\n@AloTweet\n]",
+        "date": "2026-08-16T21:46:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142154_0_079caeb9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142154_1_30f83334.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142154"
+      },
+      {
+        "id": 142153,
+        "text": "👈\nرائفی پور: نابودی اسرائیل، تقدیر الهی هست\n✅\n@AloNews",
+        "date": "2026-08-16T21:41:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142153_0_079caeb9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142153"
+      },
+      {
+        "id": 142152,
+        "text": "با پایان آتش بس، محاصره تا کجا ادامه داره\n⁉️\nآیا جنگ قطعیه؟\nتحلیل نوستراداموس ایرانی رو ببینید\n👇\nhttps://t.me/+S8mMBRHkHmFiMTFk\nhttps://t.me/+S8mMBRHkHmFiMTFk",
+        "date": "2026-08-16T21:36:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142152_0_079caeb9.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+S8mMBRHkHmFiMTFk",
+            "type": "telegram",
+            "display_text": "https://t.me/+S8mMBRHkHmFiMTFk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/alonews/142152"
+      },
+      {
+        "id": 142151,
+        "text": "👈\nنوید محمدزاده: از فلسطین حمایت می‌کنم چون با اسرائیل حال نمی‌کنم\n✅\n@AloNews",
+        "date": "2026-08-16T21:26:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142151_0_079caeb9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142151"
+      },
+      {
         "id": 142150,
         "text": "👈\nترامپ:\nبسیار خوشحالم که عربستان سعودی، ترکیه و پاکستان اخیراً و سرانجام، توافقنامه دفاعی مشترک مکه را امضا کردند.\n🔴\nاین نشان می‌دهد که چگونه خاورمیانه در حال متحد شدن است و چگونه کشورها سرانجام می‌توانند به طور موثرتری از خود دفاع کنند.\n✅\n@AloNews",
         "date": "2026-08-16T21:18:32+00:00",
@@ -15606,102 +15676,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142044"
-      },
-      {
-        "id": 142043,
-        "text": "👈\nپوتین ۴۳ هزار سربازش را در ماه اخیر در یکی از خونین ترین ماه ها از زمان شروع جنگ از دست داد!\n✅\n@AloNews",
-        "date": "2026-08-16T11:38:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142043_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142043_1_470b9f5f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142043"
-      },
-      {
-        "id": 142042,
-        "text": "👈\nمجلس: ۵ تا ۱۰ سال زندان برای برگزارکنندگان دوره‌ها، کلاس‌ها یا کارگاه‌های آموزشی حضوری یا مجازی که با فرهنگ ایرانی ناسازگارند؛ ۶ ماه تا ۲ سال زندان هم برای شرکت در این دوره‌ها.\n✅\n@AloNews",
-        "date": "2026-08-16T11:18:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142042_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142042"
-      },
-      {
-        "id": 142040,
-        "text": "👈\nیک نشت جدید نفت خام در تنگه هرمز رخ داده است، و علت آن هنوز مشخص نیست\n✅\n@AloNews",
-        "date": "2026-08-16T11:12:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142040_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142040_1_75e13af9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142040_2_92fc0247.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142040"
-      },
-      {
-        "id": 142039,
-        "text": "👈\nعربستان سعودی جملات و عبارات “دشمن صهیونی” و “ اشغال اسرائیل” و “ مسلمانان هیچ وقت اورشلیم را تسلیم نمی کنند” را از کتب درسی مدرسه در چارچوب برنامه سعودی ویژن ۲۰۳۰  حذف کرد.\n✅\n@AloNews",
-        "date": "2026-08-16T11:07:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142039_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142039_1_a00a7974.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142039"
       }
     ]
   },
-  "last_update": "2026-08-16T21:24:03.140731+00:00",
+  "last_update": "2026-08-16T21:50:04.447814+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1151,
-    "total_files": 1151,
-    "total_links": 191,
+    "total_media": 1148,
+    "total_files": 1148,
+    "total_links": 192,
     "files_by_type": {
-      "image": 1072,
-      "video": 72,
+      "image": 1068,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1151,
-    "existing_media_files": 1135,
-    "total_size_mb": 320.76,
-    "last_calculation": "2026-08-16T21:24:03.154258+00:00"
+    "referenced_files": 1148,
+    "existing_media_files": 1132,
+    "total_size_mb": 323.36,
+    "last_calculation": "2026-08-16T21:50:04.461295+00:00"
   }
 }
