@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 141990,
+        "text": "👈\nسنتکام: فرمانده سنتکام براد کوپر سفر خود به خاورمیانه را پس از بازدید از ۶ کشور و یک ناو هواپیمابر به پایان رساند!\n✅\n@AloNews",
+        "date": "2026-08-16T06:34:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141990_0_51c1a8f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141990"
+      },
+      {
         "id": 141989,
         "text": "👈\nمعاون رئیس جمهور: نمی‌دانیم پول فروش فیلترشکن که بین ۷ تا ۱۲ هزار میلیارد است؛ به جیب چه کسانی می‌رود\n✅\n@AloNews",
         "date": "2026-08-16T06:26:36+00:00",
@@ -15811,45 +15826,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141871"
-      },
-      {
-        "id": 141870,
-        "text": "👈\nسربازان گردان موتورزرهی 64، که بخشی از گروه نیروهای \"وُستوک\" هستند، به شناسایی و هدف قرار دادن نیروهای اوکراینی در منطقه زاپوریژیا ادامه می‌دهند.\n✅\n@AloNews",
-        "date": "2026-08-15T15:42:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141870_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_141870_1_2df90756.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141870"
       }
     ]
   },
-  "last_update": "2026-08-16T06:33:39.035279+00:00",
+  "last_update": "2026-08-16T06:40:29.398733+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1185,
-    "total_files": 1185,
+    "total_media": 1184,
+    "total_files": 1184,
     "total_links": 193,
     "files_by_type": {
       "image": 1093,
-      "video": 85,
+      "video": 84,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1185,
-    "existing_media_files": 1169,
-    "total_size_mb": 372.66,
-    "last_calculation": "2026-08-16T06:33:39.043424+00:00"
+    "referenced_files": 1184,
+    "existing_media_files": 1168,
+    "total_size_mb": 366.09,
+    "last_calculation": "2026-08-16T06:40:29.412325+00:00"
   }
 }
