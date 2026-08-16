@@ -13992,6 +13992,79 @@
     ],
     "alonews": [
       {
+        "id": 141989,
+        "text": "👈\nمعاون رئیس جمهور: نمی‌دانیم پول فروش فیلترشکن که بین ۷ تا ۱۲ هزار میلیارد است؛ به جیب چه کسانی می‌رود\n✅\n@AloNews",
+        "date": "2026-08-16T06:26:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141989_0_51c1a8f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141989"
+      },
+      {
+        "id": 141985,
+        "text": "👈\nصحنه‌های اضافی از آتش‌سوزی در انبار Wildberries در منطقه کولیدینو، منطقه مسکو روسیه، پس از حمله پهپاد اوکراینی\n✅\n@AloNews",
+        "date": "2026-08-16T06:21:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141985_0_51c1a8f9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_141985_1_248c3e2f.mp4"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141985_2_660a0618.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141985_3_0d96b1b8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141985_4_8eaa5920.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141985"
+      },
+      {
+        "id": 141982,
+        "text": "👈\nپهپادهای اوکراینی به یک مرکز لجستیک ویلدبری در کولدینو و انبار دیگری در دوموددوو حمله کردند که هر دو در منطقه مسکو روسیه واقع شده‌اند.\n🔴\nهر دو انبار در آتش سوخته‌اند و دود آسمان منطقه‌ای را که درست خارج از پایتخت روسیه قرار دارد، پر کرده است.\n✅\n@AloNews",
+        "date": "2026-08-16T06:07:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_141982_0_51c1a8f9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_141982_1_dd4de9b2.mp4"
+          },
+          {
+            "type": "video",
+            "file": "alonews_141982_2_0fcded7d.mp4"
+          },
+          {
+            "type": "image",
+            "file": "alonews_141982_3_8be089e0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/141982"
+      },
+      {
         "id": 141981,
         "text": "👈\nخبرگزاری میزان وابسته به قوه قضاییه از اجرای حکم اعدام شهرام صادقی، از معترضان دی‌ماه، بامداد یکشنبه خبر داد.\n🔴\nصادقی از سوی دادگاه انقلاب کرج به اتهام «اقدام عملیاتی به نفع اسرائیل، آمریکا » به اعدام محکوم شده بود.\n✅\n@AloNews",
         "date": "2026-08-16T05:54:02+00:00",
@@ -15757,71 +15830,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141870"
-      },
-      {
-        "id": 141869,
-        "text": "👈\nشجاع خلیل‌زاده: گل من به مصر درست بود؛ شاید ترامپ گل را دستکاری کرده باشد!\n✅\n@AloNews",
-        "date": "2026-08-15T15:35:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141869_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141869"
-      },
-      {
-        "id": 141868,
-        "text": "👈\nسازمان تبلیغات اسلامی: تجمعات تا هر موقع رهبر بخواد ادامه داره\n✅\n@AloNews",
-        "date": "2026-08-15T15:31:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141868_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141868"
-      },
-      {
-        "id": 141867,
-        "text": "👈\nبه گزارش ان‌بی‌سی نیوز، دونالد ترامپ نگرانی خانواده‌های نظامیان درباره شرایط دشوار زندگی و خدمت در ناو هواپیمابر «یواس‌اس آبراهام لینکلن» را رد کرد.\n🔴\nمأموریت این ناو در خاورمیانه به دلیل جنگ با ایران بیش از زمان برنامه‌ریزی‌شده ادامه یافته و همین موضوع نگرانی‌هایی درباره وضعیت خدمه و فشار عملیاتی واردشده بر آنان ایجاد کرده است.\n✅\n@AloNews",
-        "date": "2026-08-15T15:25:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141867_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141867"
       }
     ]
   },
-  "last_update": "2026-08-16T05:57:45.265238+00:00",
+  "last_update": "2026-08-16T06:33:39.035279+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1178,
-    "total_files": 1178,
+    "total_media": 1185,
+    "total_files": 1185,
     "total_links": 193,
     "files_by_type": {
-      "image": 1089,
-      "video": 82,
+      "image": 1093,
+      "video": 85,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1178,
-    "existing_media_files": 1162,
-    "total_size_mb": 363.22,
-    "last_calculation": "2026-08-16T05:57:45.279342+00:00"
+    "referenced_files": 1185,
+    "existing_media_files": 1169,
+    "total_size_mb": 372.66,
+    "last_calculation": "2026-08-16T06:33:39.043424+00:00"
   }
 }
