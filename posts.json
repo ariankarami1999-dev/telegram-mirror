@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 142044,
+        "text": "👈\nمعاون بهداشت وزارت بهداشت:\nامیدبه‌زندگی کشور به ۸۰ سال رسیده درحالی‌که سال ۱۳۵۷، ۵۵ سال بوده است\n✅\n@AloNews",
+        "date": "2026-08-16T11:44:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142044_0_51c1a8f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142044"
+      },
+      {
+        "id": 142043,
+        "text": "👈\nپوتین ۴۳ هزار سربازش را در ماه اخیر در یکی از خونین ترین ماه ها از زمان شروع جنگ از دست داد!\n✅\n@AloNews",
+        "date": "2026-08-16T11:38:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142043_0_51c1a8f9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142043_1_470b9f5f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142043"
+      },
+      {
         "id": 142042,
         "text": "👈\nمجلس: ۵ تا ۱۰ سال زندان برای برگزارکنندگان دوره‌ها، کلاس‌ها یا کارگاه‌های آموزشی حضوری یا مجازی که با فرهنگ ایرانی ناسازگارند؛ ۶ ماه تا ۲ سال زندان هم برای شرکت در این دوره‌ها.\n✅\n@AloNews",
         "date": "2026-08-16T11:18:20+00:00",
@@ -15748,76 +15782,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/141923"
-      },
-      {
-        "id": 141919,
-        "text": "گوشی‌های جدید سامسونگ با قیمتای فضایی وارد ایران شدن؛\n⬆️\nگلکسی زد فولد ۸ اولترا (Galaxy Z Fold 8 Ultra) با حافظه 256 گیگابایت و رم 12 گیگابایت که جزو گرونترین‌ها به حساب میاد، حدود 437 میلیون تومنه.\n⬇️\nارزون‌ترین سری هم، گلکسی زد فلیپ ۸ (Galaxy Z Flip 8) با رم 12 گیگ و حافظه 256 گیگ، از حدودا 300 میلیون تومن شروع میشه.\n[\n@AloTweet\n]",
-        "date": "2026-08-15T19:26:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141919_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141919_1_d88c8b8e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141919_2_ec49c548.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141919_3_4c876320.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_141919_4_85982272.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141919"
-      },
-      {
-        "id": 141918,
-        "text": "🔴\nحرام زاده بودن رژیم جمهوری اسلامی و طرفدارهاش رو بصورت ساده توضیح میده\n✅\n@AloNews",
-        "date": "2026-08-15T19:26:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_141918_0_51c1a8f9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_141918_1_b6f2cbde.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/141918"
       }
     ]
   },
-  "last_update": "2026-08-16T11:22:31.145336+00:00",
+  "last_update": "2026-08-16T11:47:59.493704+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1180,
-    "total_files": 1180,
+    "total_media": 1176,
+    "total_files": 1176,
     "total_links": 191,
     "files_by_type": {
-      "image": 1090,
-      "video": 83,
+      "image": 1087,
+      "video": 82,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1180,
-    "existing_media_files": 1164,
-    "total_size_mb": 369.58,
-    "last_calculation": "2026-08-16T11:22:31.159023+00:00"
+    "referenced_files": 1176,
+    "existing_media_files": 1160,
+    "total_size_mb": 358.24,
+    "last_calculation": "2026-08-16T11:47:59.507338+00:00"
   }
 }
