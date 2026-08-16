@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 142155,
+        "text": "👈\nمارجوری\nتیلور گرین نماینده سابق مجلس آمریکا :\nاستفاده از بمب اتمی علیه ایران تو جلسات ترامپ مطرح شده\nاین یک طرح شیطانی هست جلوش باید سریعا گرفته بشه\nمطلب رو اشتباه نخوندید درست خوندید یک فاجعه در راهه\n✅\n@AloNews",
+        "date": "2026-08-16T22:07:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142155_0_079caeb9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142155_1_138cb242.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142155"
+      },
+      {
         "id": 142154,
         "text": "قیمت‌ها رو تو سال 84 ببینید\n[\n@AloTweet\n]",
         "date": "2026-08-16T21:46:37+00:00",
@@ -15661,41 +15680,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142045"
-      },
-      {
-        "id": 142044,
-        "text": "👈\nمعاون بهداشت وزارت بهداشت:\nامیدبه‌زندگی کشور به ۸۰ سال رسیده درحالی‌که سال ۱۳۵۷، ۵۵ سال بوده است\n✅\n@AloNews",
-        "date": "2026-08-16T11:44:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142044_0_51c1a8f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142044"
       }
     ]
   },
-  "last_update": "2026-08-16T21:50:04.447814+00:00",
+  "last_update": "2026-08-16T22:22:23.993749+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1148,
-    "total_files": 1148,
+    "total_media": 1149,
+    "total_files": 1149,
     "total_links": 192,
     "files_by_type": {
-      "image": 1068,
+      "image": 1069,
       "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1148,
-    "existing_media_files": 1132,
-    "total_size_mb": 323.36,
-    "last_calculation": "2026-08-16T21:50:04.461295+00:00"
+    "referenced_files": 1149,
+    "existing_media_files": 1133,
+    "total_size_mb": 323.41,
+    "last_calculation": "2026-08-16T22:22:24.006870+00:00"
   }
 }
