@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 142238,
+        "text": "👈\nنیروی دریایی ایالات متحده قراردادی ۲۲.۹ میلیارد دلاری برای تولید موشک‌های تاماهاک به RTX اعطا کرد.\n✅\n@AloNews",
+        "date": "2026-08-17T12:43:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142238_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142238"
+      },
+      {
         "id": 142237,
         "text": "👈\nمدیرعامل آسیاتک: مردم بی‌رویه اینترنت مصرف می‌کنند چون قیمت هر گیگ اینترنت ناچیز است!\n✅\n@AloNews",
         "date": "2026-08-17T12:30:59+00:00",
@@ -15673,45 +15688,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142133"
-      },
-      {
-        "id": 142132,
-        "text": "👈\nنتانیاهو با انتشار این پست در اینستاگرام رسما تایید کرد که مجتبی خامنه ای زنده ست و گفت اینا نمیخوان من تو انتخابات برنده بشم. نزارید اینا به خواستشون برسن.\n✅\n@AloNews",
-        "date": "2026-08-16T19:25:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142132_0_079caeb9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142132_1_449c371f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142132"
       }
     ]
   },
-  "last_update": "2026-08-17T12:36:44.514593+00:00",
+  "last_update": "2026-08-17T12:43:56.120097+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1149,
-    "total_files": 1149,
+    "total_media": 1148,
+    "total_files": 1148,
     "total_links": 194,
     "files_by_type": {
-      "image": 1066,
+      "image": 1065,
       "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1149,
-    "existing_media_files": 1133,
-    "total_size_mb": 350.34,
-    "last_calculation": "2026-08-17T12:36:44.528335+00:00"
+    "referenced_files": 1148,
+    "existing_media_files": 1132,
+    "total_size_mb": 350.28,
+    "last_calculation": "2026-08-17T12:43:56.133426+00:00"
   }
 }
