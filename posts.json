@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 142350,
+        "text": "👈\nرسایی:\nاسرائیل باید نابود بشه و آمریکا هم از غرب آسیا جمع کنه بره\n✅\n@AloNews",
+        "date": "2026-08-17T21:12:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142350_0_7234d995.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142350_1_9412757f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142350"
+      },
+      {
         "id": 142348,
         "text": "👈\nپست جدید ترامپ تو تروث سوشال که سعی داره کره جنوبی رو اذیت کنه\n✅\n@AloNews",
         "date": "2026-08-17T20:52:44+00:00",
@@ -15739,41 +15758,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142243"
-      },
-      {
-        "id": 142242,
-        "text": "👈\nعارف: سهمیه اول بنزین کاهش نمی‌یابد، اما سهمیهٔ دوم به‌تدریج و در راستای آزادسازی قیمت‌ها کاهش می‌یابد.\n🔴\nخلاصه: نم نم جا میکنیم درد نگیره\n✅\n@AloNews",
-        "date": "2026-08-17T13:05:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142242_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142242"
       }
     ]
   },
-  "last_update": "2026-08-17T20:57:03.462723+00:00",
+  "last_update": "2026-08-17T21:27:38.911531+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1166,
-    "total_files": 1166,
+    "total_media": 1167,
+    "total_files": 1167,
     "total_links": 193,
     "files_by_type": {
-      "image": 1080,
+      "image": 1081,
       "video": 79,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1166,
-    "existing_media_files": 1150,
-    "total_size_mb": 326.35,
-    "last_calculation": "2026-08-17T20:57:03.472418+00:00"
+    "referenced_files": 1167,
+    "existing_media_files": 1151,
+    "total_size_mb": 326.43,
+    "last_calculation": "2026-08-17T21:27:38.921388+00:00"
   }
 }
