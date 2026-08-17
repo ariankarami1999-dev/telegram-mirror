@@ -13992,6 +13992,121 @@
     ],
     "alonews": [
       {
+        "id": 142237,
+        "text": "👈\nمدیرعامل آسیاتک: مردم بی‌رویه اینترنت مصرف می‌کنند چون قیمت هر گیگ اینترنت ناچیز است!\n✅\n@AloNews",
+        "date": "2026-08-17T12:30:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142237_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142237"
+      },
+      {
+        "id": 142236,
+        "text": "با حرفاش موافقید؟\n👍\n👎\n[\n@AloTweet\n]",
+        "date": "2026-08-17T12:24:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142236_0_7234d995.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142236_1_4c7fe101.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142236"
+      },
+      {
+        "id": 142235,
+        "text": "👈\nترامپ: محاصره دریایی آمریکا به اعمال فشارهای اقتصادی جدید بر حکومت ایران ادامه می‌دهد.\n✅\n@AloNews",
+        "date": "2026-08-17T12:18:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142235_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142235"
+      },
+      {
+        "id": 142234,
+        "text": "👈\nرویترز: قیمت نفت بدون تغییر و در سطح ۸۸.۵۵ دلار در هر بشکه باقی ماند\n🔴\nقراردادهای آتی نفت برنت تا ساعت ۰۱:۲۸ به وقت گرینویچ بدون تغییر در سطح ۸۸.۵۵ دلار در هر بشکه باقی ماند، در حالی که قیمت نفت وست تگزاس اینترمدیت (WTI) در همان زمان با ۱۴ سنت کاهش به ۸۲.۲۶ دلار در هر بشکه رسید.\n✅\n@AloNews",
+        "date": "2026-08-17T12:15:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142234_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142234"
+      },
+      {
+        "id": 142233,
+        "text": "🔴\nفووری/خبر مهم درباره ابر تورم\n👇\nhttps://t.me/+S8mMBRHkHmFiMTFk\nhttps://t.me/+S8mMBRHkHmFiMTFk",
+        "date": "2026-08-17T12:13:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142233_0_7234d995.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+S8mMBRHkHmFiMTFk",
+            "type": "telegram",
+            "display_text": "https://t.me/+S8mMBRHkHmFiMTFk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/alonews/142233"
+      },
+      {
+        "id": 142232,
+        "text": "👈\nعلی قلهکی: تغییرات مهمی در قوه قضاییه در راه است!\n✅\n@AloNews",
+        "date": "2026-08-17T12:10:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142232_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142232"
+      },
+      {
+        "id": 142231,
+        "text": "👈\nترامپ: انتخابات میان دوره‌ای آمریکا کوچکترین اثری در مورد دیدگاه و نظر من در مورد ایران ندارد.\n✅\n@AloNews",
+        "date": "2026-08-17T12:03:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142231_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142231"
+      },
+      {
         "id": 142230,
         "text": "👈\nتصویری از یک کشتی عربستانی که ساعاتی قبل، توسط حوثی های یمنی در تنگه باب‌المندب هدف قرار گرفت!\n✅\n@AloNews",
         "date": "2026-08-17T11:50:50+00:00",
@@ -15577,151 +15692,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142132"
-      },
-      {
-        "id": 142131,
-        "text": "👈\nقالیباف: ۹۰میلیون ایران حامی نظام هستند\n✅\n@AloNews",
-        "date": "2026-08-16T19:18:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142131_0_079caeb9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142131"
-      },
-      {
-        "id": 142130,
-        "text": "👈\nتنها رهبری که میشه گفت هرچی بگه همونه، مابقی هیچ\n✅\n@AloNews",
-        "date": "2026-08-16T19:16:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142130_0_079caeb9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142130_1_fd756dbf.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142130"
-      },
-      {
-        "id": 142129,
-        "text": "👈\nقالیباف(ممد سامتینگ): مردم حس پیروزی را آن‌گونه که باید، حس نکردند\n🔴\nپ.ن: حس که چه عرض کنم اما این پیروزی خیالی تا ۳۰سانت به مردم فرو شده فعلا، البته شماها سیر هستید و متوجه نمیشید\n✅\n@AloNews",
-        "date": "2026-08-16T19:09:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142129_0_079caeb9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142129_1_2d0485cc.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142129"
-      },
-      {
-        "id": 142128,
-        "text": "👈\nیک روحانی: تو نمازهاتون شاه رو حتما دعا کنید چون هرکاری کرد اما با دین مردم بازی نکرد\n✅\n@AloNews",
-        "date": "2026-08-16T19:05:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142128_0_079caeb9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142128_1_7df63ffe.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142128"
-      },
-      {
-        "id": 142127,
-        "text": "👈\n۲ساعت تا پایان آتش بس\n✅\n@AloNews",
-        "date": "2026-08-16T18:53:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142127_0_079caeb9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142127"
-      },
-      {
-        "id": 142126,
-        "text": "👈\nعامل آتش‌سوزی عمدی مراتع هویر دماوند متواری شد\n‏\n🔴\nعصر امروز آتش در ارتفاعات حاشیه روستای هویر دماوند دیده شد؛ حریقی که به گفته رییس اداره حفاظت محیط زیست دماوند عمدی بود و عامل آن پیش از حضور نیروها از محل متواری شد\n✅\n@AloNews",
-        "date": "2026-08-16T18:43:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142126_0_079caeb9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142126_1_bc4c15e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142126"
-      },
-      {
-        "id": 142125,
-        "text": "👈\nجوئیل، بلاگر ایرانی آمریکایی: علاوه بر رامین رضاییان چندتا بازیکن دیگه هم اومدن دایرکت و شات گرفتم بزودی پخش میکنم\n✅\n@AloNews",
-        "date": "2026-08-16T18:36:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142125_0_079caeb9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142125_1_d4bbe413.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142125"
       }
     ]
   },
-  "last_update": "2026-08-17T11:53:40.234780+00:00",
+  "last_update": "2026-08-17T12:36:44.514593+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1153,
-    "total_files": 1153,
-    "total_links": 193,
+    "total_media": 1149,
+    "total_files": 1149,
+    "total_links": 194,
     "files_by_type": {
-      "image": 1068,
-      "video": 78,
+      "image": 1066,
+      "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1153,
-    "existing_media_files": 1137,
-    "total_size_mb": 368.5,
-    "last_calculation": "2026-08-17T11:53:40.248607+00:00"
+    "referenced_files": 1149,
+    "existing_media_files": 1133,
+    "total_size_mb": 350.34,
+    "last_calculation": "2026-08-17T12:36:44.528335+00:00"
   }
 }
