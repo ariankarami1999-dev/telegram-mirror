@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 142320,
+        "text": "👈\nتحولات به شدت داره خبر از جنگ مجدد میده\n✅\n@AloNews",
+        "date": "2026-08-17T18:38:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142320_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142320"
+      },
+      {
         "id": 142319,
         "text": "👈\nکان: احتمال شروع مجدد جنگ بسیار بالاست\n✅\n@AloNews",
         "date": "2026-08-17T18:31:43+00:00",
@@ -15717,45 +15732,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142217"
-      },
-      {
-        "id": 142216,
-        "text": "👈\nتوی اتوبان بابایی تهران، یه پسر جوون داشت با پشت پژو پارس سرعت میرفت، که این شکلی شد\n✅\n@AloNews",
-        "date": "2026-08-17T10:36:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142216_0_079caeb9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142216_1_303b959b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142216"
       }
     ]
   },
-  "last_update": "2026-08-17T18:34:58.885838+00:00",
+  "last_update": "2026-08-17T18:41:05.050420+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1160,
-    "total_files": 1160,
+    "total_media": 1159,
+    "total_files": 1159,
     "total_links": 194,
     "files_by_type": {
       "image": 1069,
-      "video": 84,
+      "video": 83,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1160,
-    "existing_media_files": 1144,
-    "total_size_mb": 335.49,
-    "last_calculation": "2026-08-17T18:34:58.899409+00:00"
+    "referenced_files": 1159,
+    "existing_media_files": 1143,
+    "total_size_mb": 332.06,
+    "last_calculation": "2026-08-17T18:41:05.063961+00:00"
   }
 }
