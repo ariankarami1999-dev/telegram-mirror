@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 142543,
+        "text": "👈\nوزیر اقتصاد: هدف اول ما اینه که تاب آوری مردم جلوی مشکلات اقتصادی زیاد بشه و مقاوم بشن\n✅\n@AloNews",
+        "date": "2026-08-18T21:39:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142543_0_9c82ab0a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142543_1_8abea106.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142543"
+      },
+      {
         "id": 142542,
         "text": "👈\nحمید رسایی:\n«مردم ایران همیشه در حال آه و ناله و غر زدنن؛ حتی اگه وضع اقتصادی هم خوب باشه، باز فرقی نمی‌کنه. مردم جز غر زدن و ناله کردن چیز دیگه‌ای بلد نیستن\n✅\n@AloNews",
         "date": "2026-08-18T21:17:25+00:00",
@@ -15689,41 +15708,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142437"
-      },
-      {
-        "id": 142436,
-        "text": "👈\nسخنگوی وزارت خارجه قطر: میانجی‌گران منتظرند عمان و ایران ابتدا به یک توافق دوجانبه درباره تنگه هرمز دست پیدا کنند و سپس به مذاکرات گسترده‌تر بازگردند.\n🔴\nدر مذاکرات عمان و ایران هیچ تحول جدیدی رخ نداده و منتظر دستیابی آنها به توافق هستیم.\n🔴\nدستیابی به توافقی درباره تنگه هرمز می‌تواند ازسرگیری مذاکرات ایران و آمریکا را تا حد زیادی تسهیل کند.\n✅\n@AloNews",
-        "date": "2026-08-18T11:19:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142436_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142436"
       }
     ]
   },
-  "last_update": "2026-08-18T21:28:10.520596+00:00",
+  "last_update": "2026-08-18T21:52:42.969456+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1149,
-    "total_files": 1149,
+    "total_media": 1150,
+    "total_files": 1150,
     "total_links": 196,
     "files_by_type": {
-      "image": 1065,
+      "image": 1066,
       "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1149,
-    "existing_media_files": 1133,
-    "total_size_mb": 349.0,
-    "last_calculation": "2026-08-18T21:28:10.534375+00:00"
+    "referenced_files": 1150,
+    "existing_media_files": 1134,
+    "total_size_mb": 349.03,
+    "last_calculation": "2026-08-18T21:52:42.982701+00:00"
   }
 }
