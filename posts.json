@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 142377,
+        "text": "👈\nتفاوت وحشتناک قیمت ها در ۱ سال\n✅\n@AloNews",
+        "date": "2026-08-18T06:39:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142377_0_7234d995.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142377_1_81044d85.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142377"
+      },
+      {
         "id": 142376,
         "text": "👈\nمصر و کویت خواستار بازگشت ایران و آمریکا به یادداشت تفاهم شدند\n✅\n@AloNews",
         "date": "2026-08-18T06:35:50+00:00",
@@ -15739,41 +15758,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142268"
-      },
-      {
-        "id": 142267,
-        "text": "👈\nالمیادین به نقل از یک منبع بلندپایه ایرانی: حادثه‌ای که امروز در اربیل، در اقلیم کردستان عراق، رخ داد، نمونه دیگری از عملیات «پرچم دروغین» است.\n🔴\nایران هیچ ارتباطی با حادثه‌ای که در اربیل رخ داد ندارد و عملیات‌های ایران به‌طور رسمی و صریح اعلام می‌شوند.\n🔴\nهرکس به حاکمیت ایران احترام بگذارد، از احترام ایران نیز برخوردار خواهد بود.\n✅\n@AloNews",
-        "date": "2026-08-17T15:38:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142267_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142267"
       }
     ]
   },
-  "last_update": "2026-08-18T06:37:36.171872+00:00",
+  "last_update": "2026-08-18T06:46:07.945682+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1163,
-    "total_files": 1163,
+    "total_media": 1164,
+    "total_files": 1164,
     "total_links": 195,
     "files_by_type": {
       "image": 1079,
-      "video": 77,
+      "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1163,
-    "existing_media_files": 1147,
-    "total_size_mb": 315.5,
-    "last_calculation": "2026-08-18T06:37:36.185956+00:00"
+    "referenced_files": 1164,
+    "existing_media_files": 1148,
+    "total_size_mb": 317.62,
+    "last_calculation": "2026-08-18T06:46:07.959086+00:00"
   }
 }
