@@ -13992,6 +13992,42 @@
     ],
     "alonews": [
       {
+        "id": 142356,
+        "text": "👈\nخیانت بزرگ چین و روسیه به ایران\n✅\n@AloNews",
+        "date": "2026-08-18T03:40:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142356_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142356"
+      },
+      {
+        "id": 142355,
+        "text": "🚨\nآرامش قبل طوفان دلار\n❗️\n💢\nاگه نمیدونید ریزش داره یا صعود عضو کانال آقای ترید بشید  اونجا بهتون میگه تا 3ماه دیگه تارگت کجاست :\n👇\nhttps://t.me/+nAClsSFetLA3YjBk https://t.me/+nAClsSFetLA3YjBk https://t.me/+nAClsSFetLA3YjBk",
+        "date": "2026-08-18T03:31:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142355_0_7234d995.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+nAClsSFetLA3YjBk",
+            "type": "telegram",
+            "display_text": "https://t.me/+nAClsSFetLA3YjBk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/alonews/142355"
+      },
+      {
         "id": 142354,
         "text": "🚨\nآرامش قبل طوفان دلار\n❗️\n💢\nاگه نمیدونید ریزش داره یا صعود عضو کانال آقای ترید بشید  اونجا بهتون میگه تا 3ماه دیگه تارگت کجاست :\n👇\nhttps://t.me/+nAClsSFetLA3YjBk\nhttps://t.me/+nAClsSFetLA3YjBk\nhttps://t.me/+nAClsSFetLA3YjBk",
         "date": "2026-08-17T22:15:18+00:00",
@@ -15718,64 +15754,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142249"
-      },
-      {
-        "id": 142248,
-        "text": "👈\nظریف: قرار بود بعد رفتن آمریکا از افغانستان، نظام شاهنشاهی اونجا مجدد برگرده اما ما نزاشتیم و کمک کردیم طالبان قدرت بگیره\n✅\n@AloNews",
-        "date": "2026-08-17T14:14:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142248_0_7234d995.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142248_1_52c129f1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142248"
-      },
-      {
-        "id": 142247,
-        "text": "👤\nخداداد عزیزی: دخترهامو زور نکردم روسری سرشون کنن. برام مهم نیست چی دربارم میگن، حکومتی بودم که بیکار نبودم\n@AloSport",
-        "date": "2026-08-17T13:59:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142247_0_7234d995.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142247_1_60550bf2.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142247"
       }
     ]
   },
-  "last_update": "2026-08-18T02:54:09.566681+00:00",
+  "last_update": "2026-08-18T03:46:24.230451+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1165,
-    "total_files": 1165,
-    "total_links": 194,
+    "total_media": 1163,
+    "total_files": 1163,
+    "total_links": 195,
     "files_by_type": {
-      "image": 1079,
-      "video": 79,
+      "image": 1078,
+      "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1165,
-    "existing_media_files": 1149,
-    "total_size_mb": 326.3,
-    "last_calculation": "2026-08-18T02:54:09.580756+00:00"
+    "referenced_files": 1163,
+    "existing_media_files": 1147,
+    "total_size_mb": 319.26,
+    "last_calculation": "2026-08-18T03:46:24.243905+00:00"
   }
 }
