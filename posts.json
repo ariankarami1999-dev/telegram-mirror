@@ -13992,6 +13992,48 @@
     ],
     "alonews": [
       {
+        "id": 142546,
+        "text": "👈\nحمله هوایی جنگنده‌های اسرائیلی به شهرک کفررمان در جنوب لبنان.\n✅\n@AloNews",
+        "date": "2026-08-18T22:08:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142546_0_9c82ab0a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142546_1_9188cb6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142546"
+      },
+      {
+        "id": 142544,
+        "text": "👈\nامروز ۲۸ مرداد، تولد جاویدنام مهرداد مشتاقی هست.\n✅\n@AloNews",
+        "date": "2026-08-18T21:53:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142544_0_9c82ab0a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142544_1_c9b86ba5.mp4"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142544_2_74c3534b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142544"
+      },
+      {
         "id": 142543,
         "text": "👈\nوزیر اقتصاد: هدف اول ما اینه که تاب آوری مردم جلوی مشکلات اقتصادی زیاد بشه و مقاوم بشن\n✅\n@AloNews",
         "date": "2026-08-18T21:39:20+00:00",
@@ -15674,60 +15716,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142439"
-      },
-      {
-        "id": 142438,
-        "text": "👈\nخبرنگار الجزیره: در دوره زمانی ۶۰ روزه نه مذاکرات واقعی‌ای در کار بود و نه ازسرگیری جنگ تمام‌ عیار\n🔴\nخبرنگار الجزیره گفت: در دوره زمانی ۶۰ روزه که در یادداشت‌ تفاهم ایران و آمریکا آمده بود، نه مذاکرات واقعی‌ای در کار بود و نه ازسرگیری جنگ تمام‌ عیار؛ کمی پیام رد و بدل و موشک‌هایی شلیک شد منطقه اکنون رسماً در وضعیت «نه جنگ، نه صلح» قرار دارد.\n✅\n@AloNews",
-        "date": "2026-08-18T11:36:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142438_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142438"
-      },
-      {
-        "id": 142437,
-        "text": "👈\nسناتور دارلین گراهام در مورد اسرائیل:\nمن با نتانیاهو و همسرش ملاقات کرده ام. آنها برای تشییع جنازه لیندزی در شهر بودند.\n🔴\nمن یک چیز را به او اطمینان دادم که در کنار اسرائیل نیز خواهم بود\n✅\n@AloNews",
-        "date": "2026-08-18T11:28:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142437_0_7234d995.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142437_1_1ffc6120.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142437"
       }
     ]
   },
-  "last_update": "2026-08-18T21:52:42.969456+00:00",
+  "last_update": "2026-08-18T22:24:56.723339+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1150,
-    "total_files": 1150,
+    "total_media": 1152,
+    "total_files": 1152,
     "total_links": 196,
     "files_by_type": {
-      "image": 1066,
+      "image": 1068,
       "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1150,
-    "existing_media_files": 1134,
-    "total_size_mb": 349.03,
-    "last_calculation": "2026-08-18T21:52:42.982701+00:00"
+    "referenced_files": 1152,
+    "existing_media_files": 1136,
+    "total_size_mb": 346.13,
+    "last_calculation": "2026-08-18T22:24:56.732434+00:00"
   }
 }
