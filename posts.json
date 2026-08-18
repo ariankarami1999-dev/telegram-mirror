@@ -13992,6 +13992,61 @@
     ],
     "alonews": [
       {
+        "id": 142537,
+        "text": "‏\n👈\nاسماعیل بقایی: شلیک موشک کار ما نبوده‌‌ و کشورهای منطقه باید از اتهام‌زنی بی‌اساس علیه ما دست بکشن.\n✅\n@AloNews",
+        "date": "2026-08-18T20:51:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142537_0_9c82ab0a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142537"
+      },
+      {
+        "id": 142535,
+        "text": "دنبال وامی\n⁉️\nبیا اینجا شرایط بخون\n👇\nhttps://t.me/+S8mMBRHkHmFiMTFk\nhttps://t.me/+S8mMBRHkHmFiMTFk",
+        "date": "2026-08-18T20:44:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142535_0_9c82ab0a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+S8mMBRHkHmFiMTFk",
+            "type": "telegram",
+            "display_text": "https://t.me/+S8mMBRHkHmFiMTFk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/alonews/142535"
+      },
+      {
+        "id": 142534,
+        "text": "👈\nعلم الهدی: گرونی‌ها کار دشمنه\n✅\n@AloNews",
+        "date": "2026-08-18T20:44:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142534_0_9c82ab0a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142534_1_89d6ac07.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142534"
+      },
+      {
         "id": 142533,
         "text": "👈\nامارات متحده عربی اعلام کرده است که تمامی مبادلات تجاری، روابط اقتصادی و تراکنش‌های مالی با ایران را تا اطلاع ثانوی متوقف کرده است\n✅\n@AloNews",
         "date": "2026-08-18T20:34:01+00:00",
@@ -15641,65 +15696,16 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142432"
-      },
-      {
-        "id": 142431,
-        "text": "👈\nسخنگوی وزارت خارجه قطر:  در ۱۹ مارس بقایای یکی از دو خلبانی را که وارد حریم هوایی قطر شده بودند، پیدا کردیم.\n🔴\nبقایای یکی از دو خلبان را که وارد حریم هوایی قطر شده بودند، به طرف ایرانی تحویل دادیم.\n🔴\nطرف ایرانی به دعوت ما برای اعزام یک تیم فنی جهت اطلاع از روند عملیات جست‌وجو پاسخ نداد.\n✅\n@AloNews",
-        "date": "2026-08-18T10:51:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142431_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142431"
-      },
-      {
-        "id": 142430,
-        "text": "👈\nان‌بی‌سی به نقل از منابع غربی مدعی شد روسیه از طریق دریای خزر قطعات پهپادی، موشکی و مهمات به ایران منتقل می‌کند تا ذخایر تسلیحاتی ایران را بازسازی کند.\n✅\n@AloNews",
-        "date": "2026-08-18T10:50:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142430_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142430"
-      },
-      {
-        "id": 142429,
-        "text": "👈\nوزارت امور خارجه سوریه حملات هوایی را که به پایگاه نظامی ابو الظهور هدف قرار داد، محکوم کرد و اسرائیل را به طور رسمی به انجام این بمباران متهم نمود.\n✅\n@AloNews",
-        "date": "2026-08-18T10:46:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142429_0_7234d995.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142429_1_ce27c330.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142429"
       }
     ]
   },
-  "last_update": "2026-08-18T20:42:19.535705+00:00",
+  "last_update": "2026-08-18T20:52:53.902267+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
     "total_media": 1147,
     "total_files": 1147,
-    "total_links": 195,
+    "total_links": 196,
     "files_by_type": {
       "image": 1064,
       "video": 76,
@@ -15710,6 +15716,6 @@
     "referenced_files": 1147,
     "existing_media_files": 1131,
     "total_size_mb": 341.93,
-    "last_calculation": "2026-08-18T20:42:19.550162+00:00"
+    "last_calculation": "2026-08-18T20:52:53.912791+00:00"
   }
 }
