@@ -13992,6 +13992,61 @@
     ],
     "alonews": [
       {
+        "id": 142440,
+        "text": "‼️\nشرایط وام بدون ضامن تا سقف ۳۰۰میلیون\n👇\nhttps://t.me/+S8mMBRHkHmFiMTFk\nhttps://t.me/+S8mMBRHkHmFiMTFk",
+        "date": "2026-08-18T11:50:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142440_0_7234d995.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+S8mMBRHkHmFiMTFk",
+            "type": "telegram",
+            "display_text": "https://t.me/+S8mMBRHkHmFiMTFk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/alonews/142440"
+      },
+      {
+        "id": 142439,
+        "text": "👈\nواکنش معاون وزیر خارجه به توییت ترامپ: به‌زودی توهمش درخصوص تنگهٔ هرمز را هم اصلاح خواهیم کرد.\n✅\n@AloNews",
+        "date": "2026-08-18T11:48:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142439_0_7234d995.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142439_1_da445cad.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142439"
+      },
+      {
+        "id": 142438,
+        "text": "👈\nخبرنگار الجزیره: در دوره زمانی ۶۰ روزه نه مذاکرات واقعی‌ای در کار بود و نه ازسرگیری جنگ تمام‌ عیار\n🔴\nخبرنگار الجزیره گفت: در دوره زمانی ۶۰ روزه که در یادداشت‌ تفاهم ایران و آمریکا آمده بود، نه مذاکرات واقعی‌ای در کار بود و نه ازسرگیری جنگ تمام‌ عیار؛ کمی پیام رد و بدل و موشک‌هایی شلیک شد منطقه اکنون رسماً در وضعیت «نه جنگ، نه صلح» قرار دارد.\n✅\n@AloNews",
+        "date": "2026-08-18T11:36:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142438_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142438"
+      },
+      {
         "id": 142437,
         "text": "👈\nسناتور دارلین گراهام در مورد اسرائیل:\nمن با نتانیاهو و همسرش ملاقات کرده ام. آنها برای تشییع جنازه لیندزی در شهر بودند.\n🔴\nمن یک چیز را به او اطمینان دادم که در کنار اسرائیل نیز خواهم بود\n✅\n@AloNews",
         "date": "2026-08-18T11:28:07+00:00",
@@ -15667,65 +15722,16 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142331"
-      },
-      {
-        "id": 142330,
-        "text": "",
-        "date": "2026-08-17T19:36:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142330_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142330"
-      },
-      {
-        "id": 142329,
-        "text": "",
-        "date": "2026-08-17T19:36:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142329_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142329"
-      },
-      {
-        "id": 142328,
-        "text": "👈\nیک هواپیمای آمریکایی مدل E-3G، که برای هشدار زودهنگام و کنترل هوایی استفاده می‌شود، از ریاض به پرواز درآمد تا در نزدیکی تنگه هرمز فعالیت کند\n✅\n@AloNews",
-        "date": "2026-08-17T19:33:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142328_0_7234d995.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142328_1_4ba2a8d5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142328"
       }
     ]
   },
-  "last_update": "2026-08-18T11:29:12.734232+00:00",
+  "last_update": "2026-08-18T11:53:57.768523+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
     "total_media": 1155,
     "total_files": 1155,
-    "total_links": 194,
+    "total_links": 195,
     "files_by_type": {
       "image": 1076,
       "video": 72,
@@ -15736,6 +15742,6 @@
     "referenced_files": 1155,
     "existing_media_files": 1139,
     "total_size_mb": 315.79,
-    "last_calculation": "2026-08-18T11:29:12.747710+00:00"
+    "last_calculation": "2026-08-18T11:53:57.779278+00:00"
   }
 }
