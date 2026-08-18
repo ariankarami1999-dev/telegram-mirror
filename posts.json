@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 142358,
+        "text": "👈\nرویترز: ارزش دلاری حداقل دستمزد در ایران از مارس تاکنون کاهش یافته است\n✅\n@AloNews",
+        "date": "2026-08-18T04:30:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142358_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142358"
+      },
+      {
+        "id": 142357,
+        "text": "👈\nوزیر خزانه داری آمریکا: درحال خفه کردن تدریجی ایران هستیم\n✅\n@AloNews",
+        "date": "2026-08-18T03:55:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142357_0_7234d995.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142357"
+      },
+      {
         "id": 142356,
         "text": "👈\nخیانت بزرگ چین و روسیه به ایران\n✅\n@AloNews",
         "date": "2026-08-18T03:40:02+00:00",
@@ -15720,60 +15750,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142251"
-      },
-      {
-        "id": 142250,
-        "text": "👈\nعوستاد رائفی پور:به ترامپ مشکوک هستم\n✅\n@AloNews",
-        "date": "2026-08-17T14:24:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142250_0_7234d995.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142250_1_01b68491.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142250"
-      },
-      {
-        "id": 142249,
-        "text": "👈\nمقامات پاکستانی: مذاکرات با هدف بازگشایی تنگه هرمز و پایان دادن به جنگ همچنان ادامه دارد\n✅\n@AloNews",
-        "date": "2026-08-17T14:20:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142249_0_7234d995.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142249"
       }
     ]
   },
-  "last_update": "2026-08-18T03:46:24.230451+00:00",
+  "last_update": "2026-08-18T04:37:27.443772+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1163,
-    "total_files": 1163,
+    "total_media": 1162,
+    "total_files": 1162,
     "total_links": 195,
     "files_by_type": {
-      "image": 1078,
+      "image": 1077,
       "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1163,
-    "existing_media_files": 1147,
-    "total_size_mb": 319.26,
-    "last_calculation": "2026-08-18T03:46:24.243905+00:00"
+    "referenced_files": 1162,
+    "existing_media_files": 1146,
+    "total_size_mb": 319.19,
+    "last_calculation": "2026-08-18T04:37:27.457255+00:00"
   }
 }
