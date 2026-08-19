@@ -13992,6 +13992,63 @@
     ],
     "alonews": [
       {
+        "id": 142685,
+        "text": "👈\nارتش اسرائیل: ۴ فرمانده گردان بیت لاهیا حماس را در غزه کشتیم.\n✅\n@AloNews",
+        "date": "2026-08-19T17:52:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142685_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142685_1_7a2e64d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142685"
+      },
+      {
+        "id": 142684,
+        "text": "👈\nتوئیت معناداری که قاليباف منتشر کرد\n🔴\nپ.ن: تنگه قالیباف\n✅\n@AloNews",
+        "date": "2026-08-19T17:48:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142684_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142684_1_1e90715f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142684"
+      },
+      {
+        "id": 142683,
+        "text": "👈\nرشد ‌عجیب ارزش بیت‌کوین\n🔴\nفقط در ۵۰ دقیقه ۴,۴۰۰ دلار جهش کرد و برای اولین بار در بیش از ۲ ماه گذشته به سقف ۶۹,۷۰۰ دلار رسید\n✅\n@AloNews",
+        "date": "2026-08-19T17:40:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142683_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142683_1_984b902d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142683"
+      },
+      {
         "id": 142682,
         "text": "👈\nنتانیاهو: ما شاهد تلاش ترکیه برای استقرار در سوریه بودیم و به همین دلیل حمله کردیم. این یک پیام بود.\n✅\n@AloNews",
         "date": "2026-08-19T17:31:20+00:00",
@@ -15647,71 +15704,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142583"
-      },
-      {
-        "id": 142582,
-        "text": "👈\nجروزالم پست: تام باراک، فرستاده آمریکا، هشدار داد که حمله هوایی اسرائیل به پایگاه هوایی ابوالظهور در نزدیکی ادلب در سوریه می‌توانست به تشدید تنش و رویارویی نظامی مستقیم، احتمالاً با ترکیه، منجر شود\n✅\n@AloNews",
-        "date": "2026-08-19T08:14:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142582_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142582"
-      },
-      {
-        "id": 142581,
-        "text": "👈\nشبکه CNN به نقل از مقامات ارشد کاخ سفید: در روز های آینده تحریم های بی سابقه و بسیار شدیدی علیه ایران اعمال خواهد شد.\n✅\n@AloNews",
-        "date": "2026-08-19T07:58:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142581_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142581"
-      },
-      {
-        "id": 142580,
-        "text": "👈\nرئیس سازمان سنجش: از عضویت در کانال‌های خرید و فروش سؤالات کنکور خودداری کنید\n✅\n@AloNews",
-        "date": "2026-08-19T07:54:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142580_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142580"
       }
     ]
   },
-  "last_update": "2026-08-19T17:31:31.155577+00:00",
+  "last_update": "2026-08-19T17:53:40.820557+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1149,
-    "total_files": 1149,
+    "total_media": 1152,
+    "total_files": 1152,
     "total_links": 194,
     "files_by_type": {
-      "image": 1067,
+      "image": 1070,
       "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1149,
-    "existing_media_files": 1133,
-    "total_size_mb": 378.33,
-    "last_calculation": "2026-08-19T17:31:31.166304+00:00"
+    "referenced_files": 1152,
+    "existing_media_files": 1136,
+    "total_size_mb": 378.51,
+    "last_calculation": "2026-08-19T17:53:40.834518+00:00"
   }
 }
