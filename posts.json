@@ -13992,6 +13992,137 @@
     ],
     "alonews": [
       {
+        "id": 142702,
+        "text": "توی اسلامشهر تهران؛ یه مادر و پسر گدا رو گرفتن که فقط تو نیم ساعت ۲ میلیون تومن پول از مردم جمع کرده بودن.\nطبق گفته این زن روزی ۱۵ میلیون تومن از مردم گدایی میکردن.\nماهی ۴۵۰ میلیون تومن درآمد داشتن. بهتره بریم‌ گدا شیم.\n[\n@AloTweet\n]",
+        "date": "2026-08-19T18:55:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142702_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142702_1_8cb98687.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142702"
+      },
+      {
+        "id": 142701,
+        "text": "👈\nجهت رزرو تبلیغات در الونیوز به اینجا مراجعه کنید\n⬇️\nhttps://t.me/ads_alonews\nhttps://t.me/ads_alonews",
+        "date": "2026-08-19T18:51:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142701_0_bf8ba0ae.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/ads_alonews",
+            "type": "telegram",
+            "display_text": "https://t.me/ads_alonews"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/alonews/142701"
+      },
+      {
+        "id": 142700,
+        "text": "👈\nزلزله ۴.۲ ریشتری حوالی گیلانغرب را لرزاند\n✅\n@AloNews",
+        "date": "2026-08-19T18:51:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142700_0_bf8ba0ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142700"
+      },
+      {
+        "id": 142699,
+        "text": "👈\nهمتی: تاکنون چیزی از پول‌های بلوکه‌شده در راستای تفاهم‌نامه آزاد نشده ا\nست\n✅\n@AloNews",
+        "date": "2026-08-19T18:46:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142699_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142699_1_24c3b6e0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142699"
+      },
+      {
+        "id": 142698,
+        "text": "👈\nوال استریت ژورنال: دولت ترامپ نگران است عمان به ایران برای رسیدن به توافقی که بیشتر به نفع تهران باشد کمک کند\n✅\n@AloNews",
+        "date": "2026-08-19T18:41:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142698_0_bf8ba0ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142698"
+      },
+      {
+        "id": 142697,
+        "text": "👈\nتوئیت معناداری که قاليباف منتشر کرد\n🔴\nپ.ن: تنگه قالیباف\n✅\n@AloNews",
+        "date": "2026-08-19T18:36:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142697_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142697_1_cb81828c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142697_2_d7b80fa1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142697"
+      },
+      {
+        "id": 142696,
+        "text": "👈\nاوکراین، پالایشگاه نفتی \"اوفا\" متعلق به روسیه را مورد حمله قرار داد\n✅\n@AloNews",
+        "date": "2026-08-19T18:30:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142696_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142696_1_39e5203e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142696"
+      },
+      {
         "id": 142695,
         "text": "👈\nعربستان: امنیت دریایی همچنان اولویت اصلی است؛ هرمز و باب‌المندب باید بازگشایی شوند\n🔴\nهمچنان به تلاش‌های خود برای کاهش تنش‌ها و جلوگیری از بازگشت درگیری‌ها ادامه می‌دهیم\n✅\n@AloNews",
         "date": "2026-08-19T18:30:01+00:00",
@@ -15589,139 +15720,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142598"
-      },
-      {
-        "id": 142597,
-        "text": "👈\nپاسگاه پلیس ترکیه هدف پهپاد قرار گرفت\n🔴\nطبق گزارش رسانه‌های ترکیه‌ای یک ایستگاه پلیس در استان «ترابزون» که در ساحل دریای سیاه قرار دارد، هدف یک پهپاد قرار گرفت.\n🔴\n«ترکیه تودی» گزارش کرد که این حادثه دیشب در منطقهٔ آرسین رخ داده و تلفاتی نداشته است. فرماندار ترابزون هم پس‌از بازدید از محل حادثه گفت: «اطلاعات پس‌از تکمیل تحقیقات در مورد منشأ هواپیما ارائه خواهد شد.»\n✅\n@AloNews",
-        "date": "2026-08-19T09:19:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142597_0_9c82ab0a.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142597_1_4726f41d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142597"
-      },
-      {
-        "id": 142596,
-        "text": "👈\nرادیو ارتش اسرائیل: وجود یک رادار پیشرفته ترکیه‌ای در خاک سوریه به آزادی عمل هوایی، نه تنها در سوریه، بلکه در ایران نیز آسیب خواهد زد. حتی هواپیماهایی که تلاش کنند مخفیانه به سمت ایران به پرواز درآیند ممکن است کشف شوند، و این نشان‌دهنده میزان خطر بالقوه در سوریه است\n✅\n@AloNews",
-        "date": "2026-08-19T09:19:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142596_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142596"
-      },
-      {
-        "id": 142595,
-        "text": "👈\nیاسر جبرائیلی، فعال سیاسی: بنزین ۸۷ هزار تومنی در کرمان عملیات فریب بود. بنزین شده لیتری ۳۰ هزار تومن و به زودی اجرایی میشه!\n✅\n@AloNews",
-        "date": "2026-08-19T09:14:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142595_0_9c82ab0a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142595_1_5ba30e44.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142595"
-      },
-      {
-        "id": 142594,
-        "text": "👈\nوال‌استریت‌ژورنال: تهران عملاً مسیر کشتی‌ها در هرمز را تعیین می‌کند\n🔴\nآنچه امروز در تنگه هرمز دیده می‌شود، بیش از آنکه نشانه موفقیت محاصره آمریکا باشد، محدودیت قدرت واشنگتن در برابر توان ایران برای مختل‌کردن یکی از حیاتی‌ترین شریان‌های جهان را نشان می‌دهد.\n🔴\nبر اساس این گزارش، ایران عملاً بر مسیر عبور کشتی‌ها اثر گذاشته و آمریکا میان پاسخ نظامی و خطر گسترش جنگ گرفتار شده است.\n✅\n@AloNews",
-        "date": "2026-08-19T09:13:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142594_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142594"
-      },
-      {
-        "id": 142593,
-        "text": "👈\nخوش‌چشم تحلیلگر صداسیما: باید آب‌های فلوریدا رو با مین‌های هوشمند مین‌گذاری کنیم؛ این کار می‌تونه یک حواس‌پرتی استراتژیک بزرگ برای آمریکا ایجاد کنه و واشنگتن رو مجبور کنه بخشی از تمرکز و توان نظامی خودش رو از خاورمیانه به سمت سواحل خودش منتقل کنه\n✅\n@AloNews",
-        "date": "2026-08-19T09:09:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142593_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142593"
-      },
-      {
-        "id": 142592,
-        "text": "👈\nمدیر شرکت ملی پخش فرآورده‌های نفتی منطقه کرمان از افزایش سهمیه بنزین کارت سوخت شخصی شهروندان استان به ۱۶۰ لیتر از ابتدای شهریورماه خبر داد.\n✅\n@AloNews",
-        "date": "2026-08-19T09:05:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142592_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142592"
-      },
-      {
-        "id": 142591,
-        "text": "👈\nفارس: ۷.۵ میلیارد دلار ارز نفتی مرتبط با فروش ۴ ماه اول سال در اختیار بانک مرکزی قرار گرفت\n🔴\nفروش نفت کشور در ۴ ماه اول سال همه مخارج ارزی دولت تا دی‌ماه را پشتیبانی می‌کند.\n✅\n@AloNews",
-        "date": "2026-08-19T09:01:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142591_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142591"
       }
     ]
   },
-  "last_update": "2026-08-19T18:30:13.863925+00:00",
+  "last_update": "2026-08-19T18:57:16.233262+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1153,
-    "total_files": 1153,
-    "total_links": 193,
+    "total_media": 1156,
+    "total_files": 1156,
+    "total_links": 194,
     "files_by_type": {
-      "image": 1068,
-      "video": 78,
+      "image": 1069,
+      "video": 80,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1153,
-    "existing_media_files": 1137,
-    "total_size_mb": 386.06,
-    "last_calculation": "2026-08-19T18:30:13.877740+00:00"
+    "referenced_files": 1156,
+    "existing_media_files": 1140,
+    "total_size_mb": 385.19,
+    "last_calculation": "2026-08-19T18:57:16.248991+00:00"
   }
 }
