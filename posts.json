@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 142633,
+        "text": "👈\nبه گزارش رسانه های حقوق بشری\n«آذر یاهو» به دلیل گذاشتن استیکر خوشحالی برای مرگ آیت الله خامنه ای و همچنین کامنت گذاشتن برای نتانیاهو؛ به ۳ سال زندان محکوم شده.\n✅\n@AloNews",
+        "date": "2026-08-19T12:43:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142633_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142633_1_bc6373f1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142633"
+      },
+      {
         "id": 142632,
         "text": "👈\nعوستاد خوش چشم: باید آب‌های فلوریدا رو با مین‌های هوشمند مین‌گذاری کنیم، اینکار میتونه حواس آمریکا رو پرت کنه و ارتش آمریکا محبور بشه بخشی‌از توان نظامیش رو به آمریکا برگردونه!\n✅\n@AloNews",
         "date": "2026-08-19T12:31:27+00:00",
@@ -15651,41 +15670,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142529"
-      },
-      {
-        "id": 142528,
-        "text": "👈\nحزب‌الله تصاویری از عملیات‌هایی را منتشر کرد که در آن، گروه‌هایی از سربازان و خودروهای ارتش اسرائیل در حومه جنوبی شهر زوتار الشرقیه هدف قرار گرفتند. این عملیات‌ها قبل از امضای توافق آتش‌بس در ماه ژوئن انجام شد و با استفاده از دسته‌ای از پهپادهای تهاجمی صورت گرفت\n✅\n@AloNews",
-        "date": "2026-08-18T20:11:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142528_0_9c82ab0a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142528"
       }
     ]
   },
-  "last_update": "2026-08-19T12:40:26.115897+00:00",
+  "last_update": "2026-08-19T12:45:52.982956+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1144,
-    "total_files": 1144,
+    "total_media": 1145,
+    "total_files": 1145,
     "total_links": 193,
     "files_by_type": {
-      "image": 1067,
+      "image": 1068,
       "video": 70,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1144,
-    "existing_media_files": 1128,
-    "total_size_mb": 312.25,
-    "last_calculation": "2026-08-19T12:40:26.123628+00:00"
+    "referenced_files": 1145,
+    "existing_media_files": 1129,
+    "total_size_mb": 312.27,
+    "last_calculation": "2026-08-19T12:45:52.991019+00:00"
   }
 }
