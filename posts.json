@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 142944,
+        "text": "👈\nشلیل دونه‌ای ۴۱ هزارتومن\n✅\n@AloNews",
+        "date": "2026-08-20T21:51:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142944_0_f0a4c3f9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142944_1_976caeca.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142944"
+      },
+      {
+        "id": 142943,
+        "text": "👈\nوزیر انرژی آمریکا: روزانه ۱۰الی۱۵ میلیون بشکه نفت از تنگه هرمز(مسیر جنوبی) عبور میکند\n✅\n@AloNews",
+        "date": "2026-08-20T21:37:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142943_0_f0a4c3f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142943"
+      },
+      {
         "id": 142942,
         "text": "👈\nواشنگتن پست به نقل از یک مقام دولت ترامپ:\nایران «کاملاً ورشکسته» است و ترامپ ابزارهای متعددی در اختیار دارد که می‌تواند طی هفته‌ها و ماه‌های آینده با شدت بیشتری از آن‌ها استفاده کند\n✅\n@AloNews",
         "date": "2026-08-20T21:20:48+00:00",
@@ -15694,56 +15728,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142828"
-      },
-      {
-        "id": 142827,
-        "text": "🚨\nنمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره :\n@khabar\n◀️",
-        "date": "2026-08-20T13:02:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142827_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142827"
-      },
-      {
-        "id": 142826,
-        "text": "👈\nیارانه 1.5 دلاری مرداد به حساب سرپرستان خانوار دهک‌های ۴ تا ۹ واریز شد\n✅\n@AloNews",
-        "date": "2026-08-20T12:51:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142826_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142826"
       }
     ]
   },
-  "last_update": "2026-08-20T21:32:22.854391+00:00",
+  "last_update": "2026-08-20T21:58:18.470630+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1160,
-    "total_files": 1160,
+    "total_media": 1161,
+    "total_files": 1161,
     "total_links": 192,
     "files_by_type": {
       "image": 1074,
-      "video": 79,
+      "video": 80,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1160,
-    "existing_media_files": 1144,
-    "total_size_mb": 351.65,
-    "last_calculation": "2026-08-20T21:32:22.868117+00:00"
+    "referenced_files": 1161,
+    "existing_media_files": 1145,
+    "total_size_mb": 355.04,
+    "last_calculation": "2026-08-20T21:58:18.484523+00:00"
   }
 }
