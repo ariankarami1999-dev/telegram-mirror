@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 142942,
+        "text": "👈\nواشنگتن پست به نقل از یک مقام دولت ترامپ:\nایران «کاملاً ورشکسته» است و ترامپ ابزارهای متعددی در اختیار دارد که می‌تواند طی هفته‌ها و ماه‌های آینده با شدت بیشتری از آن‌ها استفاده کند\n✅\n@AloNews",
+        "date": "2026-08-20T21:20:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142942_0_f0a4c3f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142942"
+      },
+      {
+        "id": 142941,
+        "text": "👈\n‏قالیباف، ۱۰ تیر ۱۴۰۵:\n‏اگر به سوئیس نمی‌رفتم ۱۲ میلیارد دلار ایران آزاد نمی‌شد.\n🔴\n‏همتی، ۲۹ مرداد ۱۴۰۵:\n‏یک دلار هم از پول‌های بلوکه‌ شده ایران آزاد نشد.\n✅\n@AloNews",
+        "date": "2026-08-20T21:00:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142941_0_f0a4c3f9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142941_1_593b7f3f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142941"
+      },
+      {
         "id": 142940,
         "text": "👈\nکانال 14 اسرائیل: مجتبی خامنه‌ای «\nایزوله\n» شده و سپاه کشور را اداره می‌کند.\n✅\n@AloNews",
         "date": "2026-08-20T20:49:52+00:00",
@@ -15690,64 +15724,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142826"
-      },
-      {
-        "id": 142825,
-        "text": "👈\nامروز ۲۹ مرداد روزی که جنگ ۸ ساله ساعت ۶:۳۰ صبح با یک آتش‌بس پایان یافت\n✅\n@AloNews",
-        "date": "2026-08-20T12:32:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142825_0_f0a4c3f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142825_1_57156232.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142825"
-      },
-      {
-        "id": 142824,
-        "text": "👈\nقائم حسینی از اتباع افغانستانی، یکی از بازداشت‌شدگان اعتراضات دی ماه پارسال تو پرونده‌ی میدون علیخانی اصفهان، صبح امروز اعدام شد.\n✅\n@AloNews",
-        "date": "2026-08-20T12:22:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142824_0_f0a4c3f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_142824_1_adf52bbe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142824"
       }
     ]
   },
-  "last_update": "2026-08-20T20:50:23.166242+00:00",
+  "last_update": "2026-08-20T21:32:22.854391+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1161,
-    "total_files": 1161,
+    "total_media": 1160,
+    "total_files": 1160,
     "total_links": 192,
     "files_by_type": {
-      "image": 1076,
-      "video": 78,
+      "image": 1074,
+      "video": 79,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1161,
-    "existing_media_files": 1145,
-    "total_size_mb": 349.74,
-    "last_calculation": "2026-08-20T20:50:23.179737+00:00"
+    "referenced_files": 1160,
+    "existing_media_files": 1144,
+    "total_size_mb": 351.65,
+    "last_calculation": "2026-08-20T21:32:22.868117+00:00"
   }
 }
