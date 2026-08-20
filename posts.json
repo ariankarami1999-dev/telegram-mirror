@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 142945,
+        "text": "اگه توام دنبال پارتنر هستی بیا\n👇\n@sesoteBot\n@sesoteBot\n@sesoteBot\n@sesoteBot",
+        "date": "2026-08-20T22:22:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142945_0_f0a4c3f9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142945"
+      },
+      {
         "id": 142944,
         "text": "👈\nشلیل دونه‌ای ۴۱ هزارتومن\n✅\n@AloNews",
         "date": "2026-08-20T21:51:04+00:00",
@@ -15709,45 +15724,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142829"
-      },
-      {
-        "id": 142828,
-        "text": "👈\nپزشکیان: روز اول اومدم دیدم نهاد ریاست جمهوری، استخر داره، گفتم خاموشش کنید\n🔴\nبعد دیدم به چمنا هم آب میدم گفتم خشکش کنید چمن چه بدرد میخوره\n✅\n@AloNews",
-        "date": "2026-08-20T13:05:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142828_0_f0a4c3f9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142828_1_1fc643ce.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142828"
       }
     ]
   },
-  "last_update": "2026-08-20T21:58:18.470630+00:00",
+  "last_update": "2026-08-20T22:28:46.171505+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1161,
-    "total_files": 1161,
+    "total_media": 1160,
+    "total_files": 1160,
     "total_links": 192,
     "files_by_type": {
       "image": 1074,
-      "video": 80,
+      "video": 79,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1161,
-    "existing_media_files": 1145,
-    "total_size_mb": 355.04,
-    "last_calculation": "2026-08-20T21:58:18.484523+00:00"
+    "referenced_files": 1160,
+    "existing_media_files": 1144,
+    "total_size_mb": 353.78,
+    "last_calculation": "2026-08-20T22:28:46.178496+00:00"
   }
 }
