@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 142770,
+        "text": "👈\nعارف، معاون پزشکیان: گران شدن بنزین تا محدوده ۸۰هزار تومن قطعیه\n✅\n@AloNews",
+        "date": "2026-08-20T07:00:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142770_0_bf8ba0ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142770"
+      },
+      {
+        "id": 142768,
+        "text": "👈\nیک تانکر نفتی هندی تلاش کرد از تنگه هرمز عبور کند، اما به دستور سپاه ، مجبور به بازگشت شد.\n✅\n@AloNews",
+        "date": "2026-08-20T06:49:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142768_0_bf8ba0ae.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142768_1_7958f7ae.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_142768_2_3ac1cb47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142768"
+      },
+      {
+        "id": 142767,
+        "text": "👈\nقالیباف در دومین روز سفر هیأت پارلمانی ایران به عراق با قاسم حسن العبودی، مشاور امنیت ملی عراق، دیدار و گفت‌وگو کرد\n✅\n@AloNews",
+        "date": "2026-08-20T06:41:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142767_0_bf8ba0ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142767"
+      },
+      {
         "id": 142766,
         "text": "👈\nشبکه ۱۲ اسرائیل به نقل از یک مقام امنیتی: اسرائیل از آمریکا چراغ سبز برای اجرای عملیات‌های ترور در غزه را دریافت کرده است. همچنین تأکید شد که ارتش از «خط زرد» عقب‌نشینی نخواهد کرد و تا زمانی که حماس خلع سلاح نشود، روند بازسازی نوار غزه آغاز نخواهد شد.\n✅\n@AloNews",
         "date": "2026-08-20T06:32:36+00:00",
@@ -15695,63 +15748,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142663"
-      },
-      {
-        "id": 142662,
-        "text": "👈\nخبرنگار: آیا انتظار دارید که در اواخر امسال با کیم جونگ اون، رهبر کره شمالی، ملاقات کنید؟\n🔴\nترامپ: بله، من با او ملاقات خواهم کرد.\n✅\n@AloNews",
-        "date": "2026-08-19T15:41:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142662_0_bf8ba0ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142662"
-      },
-      {
-        "id": 142661,
-        "text": "👈\nخبرنگار\n:\nآیا انتظار دارید که در اواخر امسال با کیم جونگ اون، رهبر کره شمالی، ملاقات کنید؟\n🔴\nترامپ\n:\nبله، من با او ملاقات خواهم کرد.\n✅\n@AloNews",
-        "date": "2026-08-19T15:40:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142661_0_bf8ba0ae.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142661_1_247ef127.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142661"
-      },
-      {
-        "id": 142660,
-        "text": "👈\nترامپ درباره‌ تنگه هرمز: ما کنترل کامل و بی‌چون و چرا را بر تنگه هرمز در اختیار داریم.\n‌\n✅\n@AloNews",
-        "date": "2026-08-19T15:39:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142660_0_bf8ba0ae.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142660_1_f1a24e31.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142660"
       }
     ]
   },
-  "last_update": "2026-08-20T06:40:19.055514+00:00",
+  "last_update": "2026-08-20T07:00:35.979125+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15759,15 +15759,15 @@
     "total_files": 1160,
     "total_links": 196,
     "files_by_type": {
-      "image": 1069,
-      "video": 84,
+      "image": 1071,
+      "video": 82,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1160,
     "existing_media_files": 1144,
-    "total_size_mb": 364.53,
-    "last_calculation": "2026-08-20T06:40:19.069085+00:00"
+    "total_size_mb": 353.69,
+    "last_calculation": "2026-08-20T07:00:35.993147+00:00"
   }
 }
