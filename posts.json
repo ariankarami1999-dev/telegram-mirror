@@ -13992,6 +13992,33 @@
     ],
     "alonews": [
       {
+        "id": 142973,
+        "text": "👈\nتصاویر تکمیلی از حملات هوایی اسرائیل که اوایل امشب ارتفاعات علی الطاهر و مناطق اطراف آن را در جنوب لبنان هدف قرار داد.\n✅\n@AloNews",
+        "date": "2026-08-21T06:44:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_142973_0_f0a4c3f9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142973_1_a1e0c54c.mp4"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142973_2_011d49e2.mp4"
+          },
+          {
+            "type": "video",
+            "file": "alonews_142973_3_3cacc88e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/142973"
+      },
+      {
         "id": 142972,
         "text": "👈\nشورای انتقالی یمن ویدیویی منتشر کرد که در آن ادعا می‌کند حمله‌ای به جلسه‌ای از رهبران حوثی (انصارالله) در استان حجه صورت گرفته است\n✅\n@AloNews",
         "date": "2026-08-21T06:34:56+00:00",
@@ -15653,45 +15680,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/142871"
-      },
-      {
-        "id": 142870,
-        "text": "👈\nمجری: آیا کارزار اقتصادی علیه ایران شامل چین هم می‌شود؟ چون چین شریک اصلی اقتصادی ایران است\n🔴\nبِسِنت: بسیاری از گفت‌وگوها بهتر است در محافل خصوصی انجام شوند.\n✅\n@AloNews",
-        "date": "2026-08-20T15:26:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_142870_0_f0a4c3f9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_142870_1_72db9e16.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/142870"
       }
     ]
   },
-  "last_update": "2026-08-21T06:39:26.361071+00:00",
+  "last_update": "2026-08-21T06:45:35.527548+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1147,
-    "total_files": 1147,
+    "total_media": 1149,
+    "total_files": 1149,
     "total_links": 192,
     "files_by_type": {
       "image": 1060,
-      "video": 80,
+      "video": 82,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1147,
-    "existing_media_files": 1131,
-    "total_size_mb": 345.24,
-    "last_calculation": "2026-08-21T06:39:26.374233+00:00"
+    "referenced_files": 1149,
+    "existing_media_files": 1133,
+    "total_size_mb": 349.23,
+    "last_calculation": "2026-08-21T06:45:35.535538+00:00"
   }
 }
