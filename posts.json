@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 143112,
+        "text": "👈\nسفارت ایران : هیچ راه فراری نیست\n✅\n@AloNews",
+        "date": "2026-08-21T22:45:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143112_0_dc107f20.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143112_1_3bc385fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143112"
+      },
+      {
+        "id": 143111,
+        "text": "👈\nسه فروند موشک بالستیک \"اسکندر-ام\" و دو فروند موشک \"اس-400\" به سمت کیف، پایتخت اوکراین، شلیک شدند.\n🔴\nموشک‌های کروز \"باندِرول\" نیز پس از حملات موشکی بالستیک، در حال پرواز به سمت کیف هستند.\n✅\n@AloNews",
+        "date": "2026-08-21T22:42:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143111_0_dc107f20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143111"
+      },
+      {
+        "id": 143110,
+        "text": "👈\nپنج فروند هواپیمای تانکر سوخت‌رسان و یک فروند هواپیمای هشدار اولیه مدل E-3B ساخت آمریکا در نزدیکی تنگه هرمز در حال پرواز هستند.\n✅\n@AloNews",
+        "date": "2026-08-21T22:32:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143110_0_dc107f20.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143110_1_e4403a0e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143110"
+      },
+      {
         "id": 143109,
         "text": "👈\nعربستان اینترنت یکی از استان‌های یمن رو قطع کرد،حالا تسنیم هم این حرکت عربستان رو غیر انسانی دونسته و گفته حکومت مزدوران هست\n🔴\nحالا تو ایران چندماه چندماه قطع میکنن و انگار ن انگار\n✅\n@AloNews",
         "date": "2026-08-21T22:23:58+00:00",
@@ -15681,71 +15734,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143004"
-      },
-      {
-        "id": 143003,
-        "text": "👈\nقالیباف: مسیر مبارزه ایران و عراق با آمریکا و اسرائیل ادامه خواهد داشت\n🔴\nآمریکا و اسرائیل بداند که وحدت بین ایران و عراق هرگز گسستنی نیست\n✅\n@AloNews",
-        "date": "2026-08-21T09:22:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143003_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143003"
-      },
-      {
-        "id": 143002,
-        "text": "👈\nبیت کوین 79000دلار شد\n😐\n‼️\n✅\n@AloNews",
-        "date": "2026-08-21T09:20:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143002_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143002"
-      },
-      {
-        "id": 143001,
-        "text": "👈\nبیت کوین 79000دلار شد\n😐\n‼️\n✅\n@AloNews",
-        "date": "2026-08-21T09:15:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143001_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143001"
       }
     ]
   },
-  "last_update": "2026-08-21T22:26:48.030155+00:00",
+  "last_update": "2026-08-21T22:53:45.038716+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1162,
-    "total_files": 1162,
+    "total_media": 1164,
+    "total_files": 1164,
     "total_links": 191,
     "files_by_type": {
-      "image": 1081,
+      "image": 1083,
       "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1162,
-    "existing_media_files": 1146,
-    "total_size_mb": 351.6,
-    "last_calculation": "2026-08-21T22:26:48.043576+00:00"
+    "referenced_files": 1164,
+    "existing_media_files": 1148,
+    "total_size_mb": 351.75,
+    "last_calculation": "2026-08-21T22:53:45.052564+00:00"
   }
 }
