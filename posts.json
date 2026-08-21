@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 143115,
+        "text": "👈\nیک باشگاه مختلط در تهران به خاطر مختلط بودن پلمپ شد و ۷ نفر هم دستگیر شدن.\n✅\n@AloNews",
+        "date": "2026-08-21T23:17:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143115_0_dc107f20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143115"
+      },
+      {
+        "id": 143114,
+        "text": "👈\nفرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد که نیروهای آمریکایی مسیر ۶۸ فروند کشتی تجاری را تغییر داده‌اند، ۳ فروند را غیرفعال کرده‌اند و سوار شدن به ۲ فروند دیگر را انجام داده‌اند تا از رعایت مقررات مربوط به بن‌بست اعمال‌شده بر بنادر ایران اطمینان حاصل کنند.\n✅\n@AloNews",
+        "date": "2026-08-21T23:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143114_0_dc107f20.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143114_1_bb8b426e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143114"
+      },
+      {
+        "id": 143113,
+        "text": "👈\nیک فروند جنگنده F-35 بر فراز امارات متحده عربی پیام اضطراری ارسال کرد\n✅\n@AloNews",
+        "date": "2026-08-21T22:55:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143113_0_dc107f20.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143113_1_a057849a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143113"
+      },
+      {
         "id": 143112,
         "text": "👈\nسفارت ایران : هیچ راه فراری نیست\n✅\n@AloNews",
         "date": "2026-08-21T22:45:43+00:00",
@@ -15669,91 +15722,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143009"
-      },
-      {
-        "id": 143006,
-        "text": "👈\nحملات اسرائیل به جنوب لبنان\n✅\n@AloNews",
-        "date": "2026-08-21T09:37:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143006_0_f0a4c3f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143006_1_8dc559f1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143006_2_ac9df6ce.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143006_3_fcaf6124.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143006"
-      },
-      {
-        "id": 143005,
-        "text": "👈\nیک تانکر نفتی سعودی از تنگه هرمز عبور کرد، این بار از طریق مسیر عمان-آمریکا\n✅\n@AloNews",
-        "date": "2026-08-21T09:32:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143005_0_f0a4c3f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143005_1_b3cb1daf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143005"
-      },
-      {
-        "id": 143004,
-        "text": "👈\nنوسان قیمت نفت برنت در ساعات اخیر\n✅\n@AloNews",
-        "date": "2026-08-21T09:27:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143004_0_f0a4c3f9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143004_1_743db02f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143004"
       }
     ]
   },
-  "last_update": "2026-08-21T22:53:45.038716+00:00",
+  "last_update": "2026-08-21T23:25:00.955583+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1164,
-    "total_files": 1164,
+    "total_media": 1161,
+    "total_files": 1161,
     "total_links": 191,
     "files_by_type": {
-      "image": 1083,
+      "image": 1080,
       "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1164,
-    "existing_media_files": 1148,
-    "total_size_mb": 351.75,
-    "last_calculation": "2026-08-21T22:53:45.052564+00:00"
+    "referenced_files": 1161,
+    "existing_media_files": 1145,
+    "total_size_mb": 351.52,
+    "last_calculation": "2026-08-21T23:25:00.969613+00:00"
   }
 }
