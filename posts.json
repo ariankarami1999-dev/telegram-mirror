@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 143124,
+        "text": "👈\nسخنگوی وزارت خارجه: اعلام تحریم‌های اقتصادی جدید آمریکا علیه ایران، اعلان جنگ به همه دولت‌ها است\n🔴\nتحریم‌های جدید، بسیار فراتر از یک «جنگ اقتصادی» است و تلاشی برای تحمیل حاکمیت فراسرزمینی واشنگتن محسوب می‌شود\n🔴\n«ارعاب اقتصادی» برای وادار کردن یک دولت مستقل به تغییر سیاست‌ها، یک عمل متخلفانه بین‌المللی است\n✅\n@AloNews",
+        "date": "2026-08-22T05:25:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143124_0_dc107f20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143124"
+      },
+      {
+        "id": 143123,
+        "text": "👈\nپاکستان برای میانجیگری بین ایران و امریکا ‌۱۰ میلیارد دلار میخواهد\n✅\n@AloNews",
+        "date": "2026-08-22T05:18:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143123_0_dc107f20.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143123_1_686c2243.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143123"
+      },
+      {
         "id": 143122,
         "text": "👈\nترامپ:\nببین، شب جمعه است. ما زمان زیادی داریم\n🔴\nلعنتی باید چیکار کنم؟ برگردید، ایران را کمی بیشتر بمباران کنید؟‌‌\n✅\n@AloNews",
         "date": "2026-08-22T00:12:00+00:00",
@@ -15704,56 +15738,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143018"
-      },
-      {
-        "id": 143017,
-        "text": "👈\nالجدید: نخست‌وزیر لبنان، نوفل سلام، تأیید کرد که هیچ تاریخ مشخصی برای دور بعدی مذاکرات بین لبنان و اسرائیل تعیین نشده است\n✅\n@AloNews",
-        "date": "2026-08-21T10:29:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143017_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143017"
-      },
-      {
-        "id": 143016,
-        "text": "👈\nپزشکیان: جنگ باید در یک مقطع به پایان برسد.\n🔴\nبهتر است امروز که در قدرت و عزت هستیم و تمام دنیا به پیروزی ما اذعان دارند و آمریکا در دنیا منفور است، جنگ را پایان دهیم.\n✅\n@AloNews",
-        "date": "2026-08-21T10:24:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143016_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143016"
       }
     ]
   },
-  "last_update": "2026-08-22T04:33:49.513571+00:00",
+  "last_update": "2026-08-22T05:28:14.898973+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1164,
-    "total_files": 1164,
+    "total_media": 1165,
+    "total_files": 1165,
     "total_links": 191,
     "files_by_type": {
-      "image": 1080,
+      "image": 1081,
       "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1164,
-    "existing_media_files": 1148,
-    "total_size_mb": 385.11,
-    "last_calculation": "2026-08-22T04:33:49.526887+00:00"
+    "referenced_files": 1165,
+    "existing_media_files": 1149,
+    "total_size_mb": 385.15,
+    "last_calculation": "2026-08-22T05:28:14.908089+00:00"
   }
 }
