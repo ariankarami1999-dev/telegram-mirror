@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 143122,
+        "text": "👈\nترامپ:\nببین، شب جمعه است. ما زمان زیادی داریم\n🔴\nلعنتی باید چیکار کنم؟ برگردید، ایران را کمی بیشتر بمباران کنید؟‌‌\n✅\n@AloNews",
+        "date": "2026-08-22T00:12:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143122_0_dc107f20.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143122_1_47f65b97.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143122"
+      },
+      {
+        "id": 143121,
+        "text": "👈\nترامپ درباره ایران:\nاگر ایران به سلاح هسته ای دست پیدا می کرد، از آن استفاده می کرد. آنها اسرائیل و خاورمیانه را از بین خواهند برد. ما نمی گذاریم این اتفاق بیفتد.\n🔴\nآن بمب افکن های B-2 یک سال پیش به امید سلاح هسته ای ایران پایان دادند.‌‌\n✅\n@AloNews",
+        "date": "2026-08-21T23:57:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143121_0_dc107f20.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143121_1_cb32a4ae.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143121"
+      },
+      {
         "id": 143120,
         "text": "👈\nترامپ:\nاگر در میان دوره ای شکست بخوریم، استیضاح می شوم.\n🔴\nقرار است من را استیضاح کنند. آنها هیچ ایده ای ندارند که چرا.‌‌\n✅\n@AloNews",
         "date": "2026-08-21T23:40:08+00:00",
@@ -15696,56 +15734,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143016"
-      },
-      {
-        "id": 143015,
-        "text": "👈\nنخست وزیر عراق: برخی گروه‌ها سلاح خود را تحویل داده، ارتباطات سازمانی خود را قطع کرده و به حشد الشعبی پیوسته‌اند؛ با گروه‌های دیگری نیز در حال گفت‌وگو هستیم\n🔴\nهیچ قصدی برای رویارویی نظامی با گروه‌های مسلح وجود ندارد\n🔴\nاجازه نخواهیم داد این کشور به عرصه تسویه‌حساب‌ها تبدیل شود\n✅\n@AloNews",
-        "date": "2026-08-21T10:23:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143015_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143015"
-      },
-      {
-        "id": 143014,
-        "text": "👈\nعضو کمیسیون برنامه و بودجه: مشکل بازار کمبود کالا نیست، بلکه گرانی است\n✅\n@AloNews",
-        "date": "2026-08-21T10:11:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143014_0_f0a4c3f9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143014"
       }
     ]
   },
-  "last_update": "2026-08-21T23:53:37.978671+00:00",
+  "last_update": "2026-08-22T01:00:27.477960+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1162,
-    "total_files": 1162,
+    "total_media": 1164,
+    "total_files": 1164,
     "total_links": 191,
     "files_by_type": {
       "image": 1080,
-      "video": 75,
+      "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1162,
-    "existing_media_files": 1146,
-    "total_size_mb": 371.9,
-    "last_calculation": "2026-08-21T23:53:37.992728+00:00"
+    "referenced_files": 1164,
+    "existing_media_files": 1148,
+    "total_size_mb": 385.11,
+    "last_calculation": "2026-08-22T01:00:27.491459+00:00"
   }
 }
