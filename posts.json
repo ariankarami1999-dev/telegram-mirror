@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 143237,
+        "text": "👈\nایالات متحده مجوز فروش ۲۱ فروند بالگردهای UH-60M مدل بلک هاوک به همراه تجهیزات مرتبط، قطعات یدکی و آموزش به نروژ را صادر کرد\n🔴\nارزش این معامله بیش از ۲.۳ میلیارد دلار است\n✅\n@AloNews",
+        "date": "2026-08-22T18:27:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143237_0_719674e5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143237_1_6c8093e2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143237"
+      },
+      {
         "id": 143236,
         "text": "👈\nپزشکیان: ساخت مدرسه کافی نیست؛ باید برای ساختن انسان‌های توانمند تلاش کنیم\n✅\n@AloNews",
         "date": "2026-08-22T18:17:10+00:00",
@@ -15707,41 +15726,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143129"
-      },
-      {
-        "id": 143128,
-        "text": "👈\nسازمان دریانوردی ملل متحد: ۱۹ دریانورد در بحران هرمز کشته شده‌اند\n✅\n@AloNews",
-        "date": "2026-08-22T05:44:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143128_0_dc107f20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143128"
       }
     ]
   },
-  "last_update": "2026-08-22T18:23:29.850496+00:00",
+  "last_update": "2026-08-22T18:30:43.450772+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1161,
-    "total_files": 1161,
+    "total_media": 1162,
+    "total_files": 1162,
     "total_links": 191,
     "files_by_type": {
-      "image": 1077,
+      "image": 1078,
       "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1161,
-    "existing_media_files": 1145,
-    "total_size_mb": 315.92,
-    "last_calculation": "2026-08-22T18:23:29.864331+00:00"
+    "referenced_files": 1162,
+    "existing_media_files": 1146,
+    "total_size_mb": 315.97,
+    "last_calculation": "2026-08-22T18:30:43.461472+00:00"
   }
 }
