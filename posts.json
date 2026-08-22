@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 143257,
+        "text": "👈\nادارات و بانک‌های زابل، زهک، هامون، نیمروز و هیرمند به‌دلیل شدت طوفان و افزایش غلظت ریزگردها، فردا تعطیل هستند.\n✅\n@AloNews",
+        "date": "2026-08-22T20:12:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143257_0_719674e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143257"
+      },
+      {
+        "id": 143256,
+        "text": "🔴\nفووووووووووووری / نتانیاهو و ترامپ در میدان انقلاب تهران اعدام شدند\n✅\n@AloNews",
+        "date": "2026-08-22T19:59:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143256_0_719674e5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143256_1_4151b6eb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143256"
+      },
+      {
+        "id": 143255,
+        "text": "👈\nزمین‌لرزه‌ای به بزرگی ۳.۱ ریشتر نورآباد ممسنی را لرزاند\n✅\n@AloNews",
+        "date": "2026-08-22T19:56:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143255_0_719674e5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143255"
+      },
+      {
         "id": 143254,
         "text": "👈\nفیلد مارشال رضایی: ما تاکنون به هیچکدام از منافع اقتصادی آمریکا حمله نکرده‌ایم\n✅\n@AloNews",
         "date": "2026-08-22T19:45:46+00:00",
@@ -15685,71 +15734,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143152"
-      },
-      {
-        "id": 143151,
-        "text": "👈\nقیمت دلار آزاد به ۱۹۰ هزار تومان رسید\n✅\n@AloNews",
-        "date": "2026-08-22T08:35:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143151_0_dc107f20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143151"
-      },
-      {
-        "id": 143150,
-        "text": "👈\nسایت فوتبال ۳۶۰ رفع فیلتر شد و دوباره در دسترس قرار گرفت\n✅\n@AloNews",
-        "date": "2026-08-22T08:32:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143150_0_dc107f20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143150"
-      },
-      {
-        "id": 143149,
-        "text": "👈\nفیلد مارشال محسن رضایی: با ادامه محاصره دریایی، ممکن است از پیمان منع سلاح های هسته‌ای (NPT) خارج شویم\n✅\n@AloNews",
-        "date": "2026-08-22T08:12:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143149_0_dc107f20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143149"
       }
     ]
   },
-  "last_update": "2026-08-22T19:50:52.186646+00:00",
+  "last_update": "2026-08-22T20:23:33.390637+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1163,
-    "total_files": 1163,
+    "total_media": 1164,
+    "total_files": 1164,
     "total_links": 191,
     "files_by_type": {
       "image": 1074,
-      "video": 82,
+      "video": 83,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1163,
-    "existing_media_files": 1147,
-    "total_size_mb": 338.54,
-    "last_calculation": "2026-08-22T19:50:52.200462+00:00"
+    "referenced_files": 1164,
+    "existing_media_files": 1148,
+    "total_size_mb": 343.65,
+    "last_calculation": "2026-08-22T20:23:33.404609+00:00"
   }
 }
