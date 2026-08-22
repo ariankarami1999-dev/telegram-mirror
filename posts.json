@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 143136,
+        "text": "👈\nرویترز: ایران به درخواست بغداد، اجازه عبور شماری از نفتکش‌های عراقی را از تنگه هرمز داده است.\n✅\n@AloNews",
+        "date": "2026-08-22T06:46:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143136_0_dc107f20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143136"
+      },
+      {
+        "id": 143135,
+        "text": "👈\nشاخص کل بورس از ۶ میلیون واحد عبور کرد!!\n✅\n@AloNews",
+        "date": "2026-08-22T06:42:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143135_0_dc107f20.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143135_1_c3f0353f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143135"
+      },
+      {
+        "id": 143134,
+        "text": "👈\nروزنامه اطلاعات: حرف‌های پزشکیان و قالیباف درباره اوضاع اقتصادی را جدی بگیریم / معیشت فقط غذا خوردن نیست که بگوییم با یک لقمه نان و پابرهنه می‌جنگیم\n✅\n@AloNews",
+        "date": "2026-08-22T06:36:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143134_0_dc107f20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143134"
+      },
+      {
         "id": 143133,
         "text": "👈\nالیاس کردی، تحلیلگر: گویا راه حل چهارمی برای بنزین پیدا کردن!\n🔴\nکیفیتو انقدر پایین آوردن که مردم از ترس خراب شدن ماشینشون دیگه بنزین نزنن… دولت با همین ترفند ساده، مصرف رو کنترل کرد.\n✅\n@AloNews",
         "date": "2026-08-22T06:25:30+00:00",
@@ -15697,59 +15746,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143030"
-      },
-      {
-        "id": 143029,
-        "text": "👈\nعقل عرزشی:\n+باید با همه بجنگیم\n_خب محاصره شدیم و گرونی اومده\n+تقصیر پزشکیانه\n✅\n@AloNews",
-        "date": "2026-08-21T11:51:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143029_0_dc107f20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143029"
-      },
-      {
-        "id": 143028,
-        "text": "👈\nحالا این وسط یه سری عکسا هم پخش شده از جورجینا و اون پسره\n💢\nمشاهده تصاویر  فقط قیافه پسره\n😐",
-        "date": "2026-08-21T11:46:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143028_0_dc107f20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143028"
-      },
-      {
-        "id": 143027,
-        "text": "👈\nتاج گردون: آقای پزشکیان فعلا بنزین گرون نکن چون اگه مردم اعتراض کنن سرکوب سخت‌تر میشه\n✅\n@AloNews",
-        "date": "2026-08-21T11:42:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143027_0_dc107f20.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143027_1_3295188e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143027"
       }
     ]
   },
-  "last_update": "2026-08-22T06:35:16.348319+00:00",
+  "last_update": "2026-08-22T06:47:46.543694+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15766,6 +15766,6 @@
     "referenced_files": 1167,
     "existing_media_files": 1151,
     "total_size_mb": 373.9,
-    "last_calculation": "2026-08-22T06:35:16.362028+00:00"
+    "last_calculation": "2026-08-22T06:47:46.557406+00:00"
   }
 }
