@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 143386,
+        "text": "👈\nبامداد امروز یک شهریور، کارخانه‌ نوشابه‌سازی ایرانشهر طی حادثه‌ای در آتش سوخت.\n✅\n@AloNews",
+        "date": "2026-08-23T15:44:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143386_0_cd871b1d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143386_1_b73c0930.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143386"
+      },
+      {
         "id": 143385,
         "text": "👈\nمجری صداسیما: گوشت بوفالو از گاو بهتره\n✅\n@AloNews",
         "date": "2026-08-23T15:22:58+00:00",
@@ -15709,41 +15728,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143275"
-      },
-      {
-        "id": 143274,
-        "text": "👈\nپزشکیان:با تمام وجود به دنبال این هستیم که تورم و معیشت مردم را حل کنیم/ می‌فهمم مشکلات زیادی داریم\n✅\n@AloNews",
-        "date": "2026-08-23T05:24:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143274_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143274"
       }
     ]
   },
-  "last_update": "2026-08-23T15:23:36.056931+00:00",
+  "last_update": "2026-08-23T15:50:25.912427+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1160,
-    "total_files": 1160,
+    "total_media": 1161,
+    "total_files": 1161,
     "total_links": 192,
     "files_by_type": {
-      "image": 1080,
+      "image": 1081,
       "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1160,
-    "existing_media_files": 1144,
-    "total_size_mb": 332.07,
-    "last_calculation": "2026-08-23T15:23:36.070907+00:00"
+    "referenced_files": 1161,
+    "existing_media_files": 1145,
+    "total_size_mb": 332.16,
+    "last_calculation": "2026-08-23T15:50:25.925923+00:00"
   }
 }
