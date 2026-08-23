@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 143464,
+        "text": "👈\nبرخی گزارشات حاکی از آن است ایالات متحده امتیازاتی به چین داده و از این کشور خواسته هیچ محموله‌ای را بصورت زمینی به ایران ارسال نکند\n✅\n@AloNews",
+        "date": "2026-08-23T22:44:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143464_0_cd871b1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143464"
+      },
+      {
+        "id": 143463,
+        "text": "👈\nحالا این وسط یه سری عکسا هم پخش شده از جورجینا و اون پسره\n💢\nمشاهده تصاویر  فقط قیافه پسره\n😐",
+        "date": "2026-08-23T22:32:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143463_0_cd871b1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143463"
+      },
+      {
         "id": 143462,
         "text": "👈\nسه حمله هوایی نیروی هوایی اسرائیل علیه جنوب لبنان. دو حمله به مناطق شرقی شهر کفر رمان و یک حمله به منطقه القنطره.\n✅\n@AloNews",
         "date": "2026-08-23T22:20:06+00:00",
@@ -15658,64 +15688,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143360"
-      },
-      {
-        "id": 143358,
-        "text": "👈\nبرخاستن ستون‌های دود پس از حمله هوایی جنگنده‌های ارتش اسرائیل به شهرک الزوایده در مرکز نوار غزه\n✅\n@AloNews",
-        "date": "2026-08-23T12:20:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143358_0_cd871b1d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143358_1_ba882465.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143358_2_26afe4e8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143358"
-      },
-      {
-        "id": 143357,
-        "text": "👈\nوزارت خارجه پاکستان اعلام کرد «محمد اسحاق دار»، معاون نخست‌وزیر و وزیر خارجه پاکستان، از ۲۴ تا ۲۸ آگوست (۲ تا ۶ شهریور) در سفری رسمی عازم انگلیس خواهد شد\n✅\n@AloNews",
-        "date": "2026-08-23T12:11:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143357_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143357"
       }
     ]
   },
-  "last_update": "2026-08-23T22:22:27.490181+00:00",
+  "last_update": "2026-08-23T22:51:08.232865+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1153,
-    "total_files": 1153,
+    "total_media": 1151,
+    "total_files": 1151,
     "total_links": 192,
     "files_by_type": {
-      "image": 1064,
+      "image": 1062,
       "video": 82,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1153,
-    "existing_media_files": 1137,
-    "total_size_mb": 369.09,
-    "last_calculation": "2026-08-23T22:22:27.500846+00:00"
+    "referenced_files": 1151,
+    "existing_media_files": 1135,
+    "total_size_mb": 368.91,
+    "last_calculation": "2026-08-23T22:51:08.246612+00:00"
   }
 }
