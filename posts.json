@@ -13992,6 +13992,63 @@
     ],
     "alonews": [
       {
+        "id": 143433,
+        "text": "👈\nتصاویری که حمله هوایی اسرائیل به تپه علی الطاهر در جنوب لبنان را نشان می‌دهد.\n✅\n@AloNews",
+        "date": "2026-08-23T19:45:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143433_0_cd871b1d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143433_1_3eaecf74.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143433"
+      },
+      {
+        "id": 143432,
+        "text": "👈\nرئیس دفتر پزشکیان: قرار است جانفداها به سراغ ۵ میلیون مشترک پرمصرف برق بروند و بگویند صرفه‌جویی کنن\n✅\n@AloNews",
+        "date": "2026-08-23T19:38:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143432_0_cd871b1d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143432_1_23e36fa2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143432"
+      },
+      {
+        "id": 143431,
+        "text": "👈\nیک حمله هوایی اسرائیل به ارتفاعات دبشا، در جنوب لبنان، انجام شد.\n✅\n@AloNews",
+        "date": "2026-08-23T19:33:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143431_0_cd871b1d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143431_1_fbaa8b46.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143431"
+      },
+      {
         "id": 143430,
         "text": "👈\nگلوله‌باران توپخانه‌ای اسرائیل شهرک «براشیت» در جنوب لبنان را هدف قرار داد.\n✅\n@AloNews",
         "date": "2026-08-23T19:29:19+00:00",
@@ -15659,71 +15716,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143323"
-      },
-      {
-        "id": 143322,
-        "text": "👈\nفایننشال تایمز:شرکت‌های انرژی بریتانیا در حالت آماده‌باش قرار دارند، زیرا هکرهایی که با ایران مرتبط هستند، یک نیروگاه برق را از کار انداخته‌اند\n✅\n@AloNews",
-        "date": "2026-08-23T09:20:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143322_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143322"
-      },
-      {
-        "id": 143321,
-        "text": "👈\nگزارشات از اعتصاب برخی کسبه بازار\n✅\n@AloNews",
-        "date": "2026-08-23T09:16:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143321_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143321"
-      },
-      {
-        "id": 143320,
-        "text": "👈\nسعید آجورلو: آمریکا از مسیر جنوب تنگه هرمز تا روزی ۹ میلیون بشکه نفت عبور می‌دهد\n🔴\nمسیر جنوب تنگه هرمز همین الان دارد کار می‌کند\n🔴\nعمان محافظه کار است و با انگلیس، عراق و آمریکا طرف است\n✅\n@AloNews",
-        "date": "2026-08-23T09:14:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143320_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143320"
       }
     ]
   },
-  "last_update": "2026-08-23T19:31:31.657794+00:00",
+  "last_update": "2026-08-23T19:48:22.715207+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1155,
-    "total_files": 1155,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 192,
     "files_by_type": {
-      "image": 1070,
-      "video": 78,
+      "image": 1072,
+      "video": 79,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1155,
-    "existing_media_files": 1139,
-    "total_size_mb": 362.3,
-    "last_calculation": "2026-08-23T19:31:31.671114+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 368.25,
+    "last_calculation": "2026-08-23T19:48:22.723188+00:00"
   }
 }
