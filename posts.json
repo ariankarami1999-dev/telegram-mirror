@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 143270,
+        "text": "👈\nکیهان: پزشکیان و قالیباف به دشمن پالس ضعف و انفعال مخابره می کنند\n✅\n@AloNews",
+        "date": "2026-08-23T04:33:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143270_0_cd871b1d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143270_1_11220e4d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143270"
+      },
+      {
+        "id": 143269,
+        "text": "👈\nخبرگزاري کان\n: اظهارات شما درباره \"کشته شدن ۴۰ تا ۵۰ نفر در غزه هر روز\" باعث ایجاد موج بزرگی از اعتراض در سراسر جهان شد.\n🔴\nبن-گویر، از اسرائیل\n: عالی. عالی. من ترجیح می‌دهم که آنها گریه کنند و یک مادر یهودی به خاطر پسر سربازش گریه نکند.\n🔴\nخبرگزاري کان\n: آقای بن-گویر... شما نمی‌توانید این‌گونه تبلیغات کنید. شما باید با مسئولیت صحبت کنید. ما هم با جهان در ارتباط هستیم.\n✅\n@AloNews",
+        "date": "2026-08-23T04:10:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143269_0_cd871b1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143269"
+      },
+      {
         "id": 143268,
         "text": "👈\nترامپ: بیش از 1000 کشتی را برای عبور از تنگه هرمز همراهی کردیم‌‌\n✅\n@AloNews",
         "date": "2026-08-23T03:22:22+00:00",
@@ -15707,64 +15741,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143166"
-      },
-      {
-        "id": 143165,
-        "text": "👈\nیک مقام سپاه : خلبانان بازداشتی ایرانی در قطر وضعیت جسمانی نامساعدی دارند از قطر می‌خواهیم آن‌ها را به بیمارستان منتقل کند.\n✅\n@AloNews",
-        "date": "2026-08-22T10:15:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143165_0_dc107f20.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143165"
-      },
-      {
-        "id": 143163,
-        "text": "👈\nکشتی ناقله نفت به نام \"مینوآن\" که در تاریخ ۱۷ اوت مورد هدف قرار گرفت، شروع به نشت مقادیر زیادی نفت خام در تنگه هرمز کرده است.\n✅\n@AloNews",
-        "date": "2026-08-22T10:09:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143163_0_dc107f20.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143163_1_33825668.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143163_2_7b87a9c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143163"
       }
     ]
   },
-  "last_update": "2026-08-23T03:52:30.102262+00:00",
+  "last_update": "2026-08-23T04:39:05.194814+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1164,
-    "total_files": 1164,
+    "total_media": 1163,
+    "total_files": 1163,
     "total_links": 193,
     "files_by_type": {
-      "image": 1074,
+      "image": 1073,
       "video": 83,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1164,
-    "existing_media_files": 1148,
-    "total_size_mb": 339.52,
-    "last_calculation": "2026-08-23T03:52:30.116442+00:00"
+    "referenced_files": 1163,
+    "existing_media_files": 1147,
+    "total_size_mb": 339.4,
+    "last_calculation": "2026-08-23T04:39:05.208648+00:00"
   }
 }
