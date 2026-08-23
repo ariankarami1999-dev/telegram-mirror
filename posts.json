@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 143268,
+        "text": "👈\nترامپ: بیش از 1000 کشتی را برای عبور از تنگه هرمز همراهی کردیم‌‌\n✅\n@AloNews",
+        "date": "2026-08-23T03:22:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143268_0_719674e5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143268_1_037160cf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143268"
+      },
+      {
         "id": 143267,
         "text": "👮‍♂️\nمد\nا\nرک رسمی تحصیلی «مقاطع متوسطه و عالی»!\n✔️\nاز دیپلم تا دکتری | کاملاً غیرحضوری\n✔️\nقابل استعلام قانونی\n+\nقابل ترجمه رسمی\n✔️\nمناسب برای\n:\nمهاجرت\n|\nاستخدام\n|\nادامه‌ی تحصیل\nارتباط با مشاور\n:\nhttps://t.me/mydiplom_support\nورود به کانال :\nhttps://t.me/+lHweVa-y92IyZDA0",
         "date": "2026-08-22T22:05:55+00:00",
@@ -15726,29 +15745,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143163"
-      },
-      {
-        "id": 143162,
-        "text": "👈\nمهدی عرب صادق کارشناس انرژی: بنزین ۵ هزار تومانی ارزان نیست!\n✅\n@AloNews",
-        "date": "2026-08-22T10:00:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143162_0_dc107f20.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143162_1_59c8a2e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143162"
       }
     ]
   },
-  "last_update": "2026-08-23T03:01:11.117866+00:00",
+  "last_update": "2026-08-23T03:52:30.102262+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15764,7 +15764,7 @@
     },
     "referenced_files": 1164,
     "existing_media_files": 1148,
-    "total_size_mb": 339.55,
-    "last_calculation": "2026-08-23T03:01:11.131862+00:00"
+    "total_size_mb": 339.52,
+    "last_calculation": "2026-08-23T03:52:30.116442+00:00"
   }
 }
