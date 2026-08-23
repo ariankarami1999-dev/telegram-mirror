@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 143466,
+        "text": "👈\nوزیر نیرو: خواستم یه خبر خوب بدم به مردم عزیزمون اونم اینه که از هفته بعد قطعی برق نداریم\n✅\n@AloNews",
+        "date": "2026-08-23T22:52:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143466_0_cd871b1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143466"
+      },
+      {
         "id": 143464,
         "text": "👈\nبرخی گزارشات حاکی از آن است ایالات متحده امتیازاتی به چین داده و از این کشور خواسته هیچ محموله‌ای را بصورت زمینی به ایران ارسال نکند\n✅\n@AloNews",
         "date": "2026-08-23T22:44:06+00:00",
@@ -15669,45 +15684,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143361"
-      },
-      {
-        "id": 143360,
-        "text": "👈\nخرس معروف تبریز که با کوهنوردای کوه سبلان هم سفره میشد و باهاشون غذا میخورد و کوهنوردا خیلی دوسش داشتن،صبح امروز جنازش پیدا شد در حالی که توسط چند شکارچی کشته شده بود.\n✅\n@AloNews",
-        "date": "2026-08-23T12:31:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143360_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143360_1_038e8a76.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143360"
       }
     ]
   },
-  "last_update": "2026-08-23T22:51:08.232865+00:00",
+  "last_update": "2026-08-23T23:31:01.260347+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1151,
-    "total_files": 1151,
+    "total_media": 1150,
+    "total_files": 1150,
     "total_links": 192,
     "files_by_type": {
       "image": 1062,
-      "video": 82,
+      "video": 81,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1151,
-    "existing_media_files": 1135,
-    "total_size_mb": 368.91,
-    "last_calculation": "2026-08-23T22:51:08.246612+00:00"
+    "referenced_files": 1150,
+    "existing_media_files": 1134,
+    "total_size_mb": 367.08,
+    "last_calculation": "2026-08-23T23:31:01.270996+00:00"
   }
 }
