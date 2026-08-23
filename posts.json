@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 143385,
+        "text": "👈\nمجری صداسیما: گوشت بوفالو از گاو بهتره\n✅\n@AloNews",
+        "date": "2026-08-23T15:22:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143385_0_cd871b1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143385"
+      },
+      {
+        "id": 143384,
+        "text": "👈\nمحمد سامتینگ، رئیس مجلس شورای اسلامی:\nواردات گوشت منجمد برای اصلاح قیمت‌های گوشت. خب، شاید این کار جواب بدهد.\nبرای اوراق قرضه چه برنامه‌ای دارید؟ آیا اوراق قرضه منجمد وارد می‌کنید؟ خریداران مسکن منجمد برای مسکن؟ حقوق‌های منجمد برای دستمزد؟\nیک سیاست خارجی منجمد، اقتصاد منجمدی را به همراه دارد.\nتنها چیزی که هنوز در حرکت است؟ بومران ایران.\n✅\n@AloNews",
+        "date": "2026-08-23T15:05:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143384_0_cd871b1d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143384_1_4354d39a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143384"
+      },
+      {
         "id": 143383,
         "text": "👈\nخضریان:\nآقایون حواستون هست وضع حجاب خرابه؟\n✅\n@AloNews",
         "date": "2026-08-23T14:45:02+00:00",
@@ -15690,64 +15724,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143274"
-      },
-      {
-        "id": 143273,
-        "text": "👈\nرئیس جمهور پزشکیان: تفاهم‌نامه نتیجه بحث‌ها و گفتگوهای طولانی همه کسانی بود که دستی در آتش داشتند\n✅\n@AloNews",
-        "date": "2026-08-23T05:23:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143273_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143273_1_105e92f8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143273"
-      },
-      {
-        "id": 143272,
-        "text": "👈\nپزشکیان: تا جان در بدن داریم خدمتگزار مردم خواهیم بود/ امیدوارم بتوانیم با قدرت از بحران‌ها عبور کنیم\n✅\n@AloNews",
-        "date": "2026-08-23T05:23:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143272_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143272_1_44db3b6f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143272"
       }
     ]
   },
-  "last_update": "2026-08-23T14:52:14.000776+00:00",
+  "last_update": "2026-08-23T15:23:36.056931+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1161,
-    "total_files": 1161,
+    "total_media": 1160,
+    "total_files": 1160,
     "total_links": 192,
     "files_by_type": {
-      "image": 1079,
-      "video": 75,
+      "image": 1080,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1161,
-    "existing_media_files": 1145,
-    "total_size_mb": 335.98,
-    "last_calculation": "2026-08-23T14:52:14.014160+00:00"
+    "referenced_files": 1160,
+    "existing_media_files": 1144,
+    "total_size_mb": 332.07,
+    "last_calculation": "2026-08-23T15:23:36.070907+00:00"
   }
 }
