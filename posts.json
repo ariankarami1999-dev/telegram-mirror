@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 143286,
+        "text": "👈\nیک کشتی که به نام چین ثبت شده بود، از امارات متحده عربی به سمت ایران در حرکت بود و از تنگه هرمز با استفاده از مسیر تعیین‌شده توسط ایران عبور کرد.\n✅\n@AloNews",
+        "date": "2026-08-23T06:42:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143286_0_cd871b1d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143286_1_261c0e28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143286"
+      },
+      {
         "id": 143285,
         "text": "👈\nسپاه اصفهان : احتمال شنیده‌شدن صدای انفجار کنترل‌شده در صفه، بهارستان و مناطق اطراف تا ساعت ۱۳ امروز وجود دارد\n✅\n@AloNews",
         "date": "2026-08-23T06:32:42+00:00",
@@ -15722,41 +15741,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143183"
-      },
-      {
-        "id": 143182,
-        "text": "🔴\nتا چقدر اعوامل حرام زاده رژیم میتونن بی شرف و بی وطن باشن؟!\n🤔\nبه وقتش به تک تک تون همین مردم رسیدگی میکنن و این خاک پاک رو از وجود شما نجس ها پاک میکنن.\n✅\n@AloNews",
-        "date": "2026-08-22T12:49:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143182_0_719674e5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143182"
       }
     ]
   },
-  "last_update": "2026-08-23T06:34:51.301602+00:00",
+  "last_update": "2026-08-23T06:44:27.971103+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1162,
-    "total_files": 1162,
+    "total_media": 1163,
+    "total_files": 1163,
     "total_links": 193,
     "files_by_type": {
-      "image": 1069,
+      "image": 1070,
       "video": 86,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1162,
-    "existing_media_files": 1146,
-    "total_size_mb": 355.71,
-    "last_calculation": "2026-08-23T06:34:51.315539+00:00"
+    "referenced_files": 1163,
+    "existing_media_files": 1147,
+    "total_size_mb": 355.74,
+    "last_calculation": "2026-08-23T06:44:27.984618+00:00"
   }
 }
