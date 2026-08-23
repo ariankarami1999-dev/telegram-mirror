@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 143418,
+        "text": "👈\nرئیس مجلس نمایندگان آمریکا به فاکس‌نیوز: به زودی وارد مرحله جدیدی از جنگ با ایران می‌شویم و به تلاش برای پایان دادن به آن ادامه خواهیم داد\n✅\n@AloNews",
+        "date": "2026-08-23T18:28:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143418_0_cd871b1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143418"
+      },
+      {
         "id": 143417,
         "text": "👈\nکانال ۱۵ عبری: دیدار وزیر امور خارجه سوریه و رئیس موساد مثبت بود\n✅\n@AloNews",
         "date": "2026-08-23T18:22:01+00:00",
@@ -15701,25 +15716,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143308"
-      },
-      {
-        "id": 143307,
-        "text": "تو ایران حتی نمیشه مُرد\n[\n@AloTweet\n]",
-        "date": "2026-08-23T08:27:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143307_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143307"
       }
     ]
   },
-  "last_update": "2026-08-23T18:24:31.091486+00:00",
+  "last_update": "2026-08-23T18:29:47.347943+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15736,6 +15736,6 @@
     "referenced_files": 1158,
     "existing_media_files": 1142,
     "total_size_mb": 348.12,
-    "last_calculation": "2026-08-23T18:24:31.105310+00:00"
+    "last_calculation": "2026-08-23T18:29:47.358841+00:00"
   }
 }
