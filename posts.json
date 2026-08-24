@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 143538,
+        "text": "👈\nترامپ:\nایران به طور کامل در حال فروپاشی است!!!‌‌\n✅\n@AloNews",
+        "date": "2026-08-24T12:48:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143538_0_0c7687c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143538_1_11ad7ccc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143538"
+      },
+      {
+        "id": 143537,
+        "text": "👈\nهر گرم طلای ۱۸عیار 22,900,000\n✅\n@AloNews",
+        "date": "2026-08-24T12:45:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143537_0_0c7687c1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143537_1_d82fb923.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143537"
+      },
+      {
         "id": 143536,
         "text": "به تازگی توی بالاشهر تهران، یه رستوران ساختن مخصوص شوگر مامیا.\nخانمای میانسال جا افتاده و پولدار اینجا جمع میشن و پسرای جوون و خوشتیپ هم میرن اینجا، تا برا خودشون شوگرمامی پیدا کنن.\n[\n@AloTweet\n]",
         "date": "2026-08-24T12:38:02+00:00",
@@ -15642,48 +15680,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143433"
-      },
-      {
-        "id": 143432,
-        "text": "👈\nرئیس دفتر پزشکیان: قرار است جانفداها به سراغ ۵ میلیون مشترک پرمصرف برق بروند و بگویند صرفه‌جویی کنن\n✅\n@AloNews",
-        "date": "2026-08-23T19:38:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143432_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143432_1_23e36fa2.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143432"
-      },
-      {
-        "id": 143431,
-        "text": "👈\nیک حمله هوایی اسرائیل به ارتفاعات دبشا، در جنوب لبنان، انجام شد.\n✅\n@AloNews",
-        "date": "2026-08-23T19:33:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143431_0_cd871b1d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143431_1_fbaa8b46.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143431"
       }
     ]
   },
-  "last_update": "2026-08-24T12:41:30.364489+00:00",
+  "last_update": "2026-08-24T12:50:15.374972+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15699,7 +15699,7 @@
     },
     "referenced_files": 1149,
     "existing_media_files": 1133,
-    "total_size_mb": 367.32,
-    "last_calculation": "2026-08-24T12:41:30.371328+00:00"
+    "total_size_mb": 365.56,
+    "last_calculation": "2026-08-24T12:50:15.389274+00:00"
   }
 }
