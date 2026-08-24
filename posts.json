@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 143620,
+        "text": "👈\nخط فقر به ۱۶۰میلیون تومان رسید\n✅\n@AloNews",
+        "date": "2026-08-24T21:26:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143620_0_0c7687c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143620"
+      },
+      {
+        "id": 143619,
+        "text": "👈\nعوستاد خوش چشم:\nمیتونیم با موشک‌های دوربرد خودمون علیه آمریکا یه محاصره دریایی و هوایی انجام بدیم\n✅\n@AloNews",
+        "date": "2026-08-24T20:54:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143619_0_0c7687c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143619_1_7d49cda9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143619"
+      },
+      {
         "id": 143618,
         "text": "👈\nپست حق یک پیج مرتبط به پلیس یگان ویژه تهران\n✅\n@AloNews",
         "date": "2026-08-24T20:47:16+00:00",
@@ -15682,56 +15716,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143517"
-      },
-      {
-        "id": 143516,
-        "text": "‏\n👈\nاژه‌ای: درباره اصلاح قیمت بنزین اختلاف‌نظر وجود دارد\n✅\n@AloNews",
-        "date": "2026-08-24T10:35:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143516_0_0c7687c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143516"
-      },
-      {
-        "id": 143515,
-        "text": "👈\nانفجاری در نزدیکی اداره منطقه در شهر پالمیرا سوریه رخ داد و گزارش‌هایی از کشته و زخمی شدن چندین نفر منتشر شده است.\n✅\n@AloNews",
-        "date": "2026-08-24T10:31:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143515_0_0c7687c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143515"
       }
     ]
   },
-  "last_update": "2026-08-24T20:52:44.022543+00:00",
+  "last_update": "2026-08-24T21:31:34.180017+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 192,
     "files_by_type": {
-      "image": 1071,
+      "image": 1072,
       "video": 79,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 371.11,
-    "last_calculation": "2026-08-24T20:52:44.036397+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 371.16,
+    "last_calculation": "2026-08-24T21:31:34.188329+00:00"
   }
 }
