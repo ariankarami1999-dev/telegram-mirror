@@ -13992,6 +13992,127 @@
     ],
     "alonews": [
       {
+        "id": 143509,
+        "text": "👈\nدلار در بازار آزاد 204000تومان\n✅\n@AloNews",
+        "date": "2026-08-24T09:40:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143509_0_0c7687c1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143509_1_ab56cdcb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143509"
+      },
+      {
+        "id": 143508,
+        "text": "👈\nدلار هم اکنون 203,000 تومان\n✅\n@AloNews",
+        "date": "2026-08-24T09:36:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143508_0_0c7687c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143508"
+      },
+      {
+        "id": 143507,
+        "text": "👈\nنتانیاهو توی کمپین انتخاباتی به‌سر میبره و شماره خودشو منتشر کرد و گفت هرکی دوست داره بهم زنگ بزنه\n✅\n@AloNews",
+        "date": "2026-08-24T09:21:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143507_0_0c7687c1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143507_1_80ea8667.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143507"
+      },
+      {
+        "id": 143506,
+        "text": "👈\nرئیس ستاد نیروی هوایی اسرائیل:\nما در تمام جبهه‌ها در حالت آماده‌باش و آمادگی بالا باقی خواهیم ماند\n✅\n@AloNews",
+        "date": "2026-08-24T09:13:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143506_0_0c7687c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143506"
+      },
+      {
+        "id": 143505,
+        "text": "👈\nارتش پاکستان: سفر عاصم منیر به تهران در راستای ارتقای صلح و ثبات منطقه‌ای است\n✅\n@AloNews",
+        "date": "2026-08-24T09:11:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143505_0_0c7687c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143505"
+      },
+      {
+        "id": 143504,
+        "text": "👈\nخوش‌چشم، کارشناس صدا و سیما: ارتش آمریکا به زودی بخش‌هایی از عمان را اشغال می‌کند!\n✅\n@AloNews",
+        "date": "2026-08-24T09:00:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143504_0_0c7687c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143504_1_a8f12c5b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143504"
+      },
+      {
+        "id": 143503,
+        "text": "👈\nاسکندر مومنی، وزیر کشور در فرودگاه از عاصم منیر، فرمانده ارتش و محسن نقوی، وزیر کشور پاکستان استقبال کرد\n✅\n@AloNews",
+        "date": "2026-08-24T08:56:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143503_0_0c7687c1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143503_1_0f215635.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143503"
+      },
+      {
         "id": 143502,
         "text": "👈\nتسنیم : عاصم منیر فرمانده ارتش پاکستان دقایقی پیش برای دیدار و گفتگو با مقامات کشورمان وارد تهران شد\n✅\n@AloNews",
         "date": "2026-08-24T08:44:16+00:00",
@@ -15557,131 +15678,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143403"
-      },
-      {
-        "id": 143402,
-        "text": "👈\nروزنامه اسرائیلی هاآرتص: نتانیاهو «اسرائیل» را به جنگی دیگر و بی‌نتیجه کشانده است؛ این بار با ترکیه\n✅\n@AloNews",
-        "date": "2026-08-23T16:47:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143402_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143402"
-      },
-      {
-        "id": 143401,
-        "text": "👈\nنتانیاهو: به واقعیت پیش از ۷ اکتبر بازنخواهیم گشت و به هیچ جبهه‌ای در غزة اجازه نخواهیم داد که جوامع اسرائیلی را تهدید کند و امنیت را تضعیف نماید.\n✅\n@AloNews",
-        "date": "2026-08-23T16:46:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143401_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143401"
-      },
-      {
-        "id": 143400,
-        "text": "👈\nهواپیماهای اف‌اِی/۱۸ سوپرهورنت و ش‌اچ-۶۰ سی‌هاوک نیروی دریایی ایالات متحده نیز پیش از گرندپری فریدوم ۲۵۰ در واشینگتن دی‌سی، پرواز نمایشی انجام دادند.\n✅\n@AloNews",
-        "date": "2026-08-23T16:39:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143400_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143400_1_408c0081.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143400"
-      },
-      {
-        "id": 143399,
-        "text": "👈\nهلی‌کوپترهای چینوک، بلک‌هاک و آپاچی ارتش ایالات متحده و هلی‌کوپترهای تهاجمی وایپر نیروی دریایی ایالات متحده، پروازهای نمایشی را پیش از گرند پری آزادی ۲۵۰ در واشینگتن دی‌سی انجام دادند.\n✅\n@AloNews",
-        "date": "2026-08-23T16:39:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143399_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143399_1_c56b3a5f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143399"
-      },
-      {
-        "id": 143398,
-        "text": "👈\nرئیس سازمان بهینه‌سازی: ۴ روز بعد از آغاز جنگ، جلسۀ دولت تشکیل شد. آقای عراقچی در جلسه گفت ممکن است دشمن اینجا را بزند. رئیس‌جهور گفت به درک که می‌زند. من جلسات را تعطیل کنم از ترس اینکه او می‌زند؟ خُب بزند\n✅\n@AloNews",
-        "date": "2026-08-23T16:33:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143398_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143398_1_a089c54a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143398"
-      },
-      {
-        "id": 143397,
-        "text": "👈\nسخنگوی دولت: خبر خوش برای مردم، سود سهام عدالت از 2 تا 8 شهریور واریز میشه\n✅\n@AloNews",
-        "date": "2026-08-23T16:27:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143397_0_cd871b1d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143397"
-      },
-      {
-        "id": 143396,
-        "text": "👈\nرئیس سازمان بهینه‌سازی: به رئیس‌جمهور گفتم باید کارهایی کنیم که در کوتاه‌مدت فحش بخوریم اما در بلندمدت از ما تشکر شود\n🔴\nآقای پزشکیان به من گفتند حتما این‌کار را بکن زیرا ما باید مسائل را حل کنیم\n✅\n@AloNews",
-        "date": "2026-08-23T16:24:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143396_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143396_1_e5439743.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143396"
       }
     ]
   },
-  "last_update": "2026-08-24T08:55:00.910910+00:00",
+  "last_update": "2026-08-24T09:49:00.194143+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15689,15 +15689,15 @@
     "total_files": 1150,
     "total_links": 191,
     "files_by_type": {
-      "image": 1059,
-      "video": 84,
+      "image": 1060,
+      "video": 83,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1150,
     "existing_media_files": 1134,
-    "total_size_mb": 395.4,
-    "last_calculation": "2026-08-24T08:55:00.918986+00:00"
+    "total_size_mb": 386.2,
+    "last_calculation": "2026-08-24T09:49:00.204964+00:00"
   }
 }
