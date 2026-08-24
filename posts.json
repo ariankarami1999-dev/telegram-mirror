@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 143484,
+        "text": "👈\nقیمت جهانی اونس طلا دوباره افزایش یافت و از ۴۶۵۰ دلار فراتر رفت\n✅\n@AloNews",
+        "date": "2026-08-24T06:55:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143484_0_0c7687c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143484_1_a6eb34cd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143484"
+      },
+      {
         "id": 143483,
         "text": "👈\nجیمز روبینز، پژوهشگر ارشد شورای سیاست خارجی آمریکا: تلاش ترامپ برای کاهش تنش با کیم جونگ اون، به همکاری کره شمالی با ایران در پرونده هسته‌ای مرتبط است\n🔴\nرئیس‌جمهور آمریکا امیدوار است که مانع انتقال فناوری از کره شمالی به ایران شود\n✅\n@AloNews",
         "date": "2026-08-24T06:39:42+00:00",
@@ -15659,29 +15678,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143378"
-      },
-      {
-        "id": 143377,
-        "text": "👈\nاین ویدیو حاوی غم بسیار زیاد\n🖤\n🔴\nپدری که خرج عمل بچه‌‌اش رو نداره به بیمارستان پرداخت کنه و دنبال اینه که گوشیِ تو دستش رو بفروشه\n✅\n@AloNews",
-        "date": "2026-08-23T13:48:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143377_0_cd871b1d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143377_1_5f09ddb8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143377"
       }
     ]
   },
-  "last_update": "2026-08-24T06:48:28.397086+00:00",
+  "last_update": "2026-08-24T06:58:14.903619+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15689,15 +15689,15 @@
     "total_files": 1150,
     "total_links": 191,
     "files_by_type": {
-      "image": 1061,
-      "video": 82,
+      "image": 1062,
+      "video": 81,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1150,
     "existing_media_files": 1134,
-    "total_size_mb": 389.58,
-    "last_calculation": "2026-08-24T06:48:28.410796+00:00"
+    "total_size_mb": 377.04,
+    "last_calculation": "2026-08-24T06:58:14.917007+00:00"
   }
 }
