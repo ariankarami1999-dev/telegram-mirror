@@ -13992,6 +13992,33 @@
     ],
     "alonews": [
       {
+        "id": 143629,
+        "text": "👈\nترامپ عکسای خودش با کیم جونگ اون رو پست کرد\n✅\n@AloNews",
+        "date": "2026-08-25T03:34:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143629_0_d0e6db98.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143629_1_66485402.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143629_2_5350d489.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_143629_3_dcb8f5d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143629"
+      },
+      {
         "id": 143628,
         "text": "👮‍♂️\nمد\nا\nرک رسمی تحصیلی «مقاطع متوسطه و عالی»!\n✔️\nاز دیپلم تا دکتری | کاملاً غیرحضوری\n✔️\nقابل استعلام قانونی\n+\nقابل ترجمه رسمی\n✔️\nمناسب برای\n:\nمهاجرت\n|\nاستخدام\n|\nادامه‌ی تحصیل\nارتباط با مشاور\n:\nhttps://t.me/mydiplom_support\nورود به کانال :\nhttps://t.me/+lHweVa-y92IyZDA0",
         "date": "2026-08-24T22:15:18+00:00",
@@ -15708,41 +15735,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143527"
-      },
-      {
-        "id": 143526,
-        "text": "👈\nارتش اسرائیل از ترور دو تن از نیروهای جنبش حماس در منطقه دیر البلح در مرکز نوار غزه خبر داد.\n✅\n@AloNews",
-        "date": "2026-08-24T11:49:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143526_0_0c7687c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143526"
       }
     ]
   },
-  "last_update": "2026-08-25T02:56:17.003407+00:00",
+  "last_update": "2026-08-25T03:50:45.291518+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1160,
+    "total_files": 1160,
     "total_links": 194,
     "files_by_type": {
-      "image": 1074,
+      "image": 1077,
       "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 355.48,
-    "last_calculation": "2026-08-25T02:56:17.017496+00:00"
+    "referenced_files": 1160,
+    "existing_media_files": 1144,
+    "total_size_mb": 355.74,
+    "last_calculation": "2026-08-25T03:50:45.302242+00:00"
   }
 }
