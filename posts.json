@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 143632,
+        "text": "👈\nدیشب تعدادی عراقی با شورتک و سر صدای بلند و قهقهه و چشم چرانی داخل رستورانی در گیلان باعث ناراحتی خانواده های ایرانی داخل رستوران شدند که مسئول رستوران رفت تذکر بده با صدای بلندتر داد زدند میریم از رستوران شکایت می‌کنیم ما مهمان جبهه مقاومت هستیم\nدر نتیجه بیرون از رستوران تعدادی گیلانی شیرررررررر مرد ریختن سر عراقی‌ها و تا برینن کتکشون زدند\n✅\n@AloNews",
+        "date": "2026-08-25T04:10:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143632_0_d0e6db98.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_143632_1_47c3e91f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143632"
+      },
+      {
         "id": 143629,
         "text": "👈\nترامپ عکسای خودش با کیم جونگ اون رو پست کرد\n✅\n@AloNews",
         "date": "2026-08-25T03:34:12+00:00",
@@ -15716,29 +15735,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143528"
-      },
-      {
-        "id": 143527,
-        "text": "👈\nقطع برق کمیسیون انرژی مجلس هنگام بررسی علل خاموشی‌های اخیر\n✅\n@AloNews",
-        "date": "2026-08-24T11:49:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143527_0_0c7687c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_143527_1_299d5faa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143527"
       }
     ]
   },
-  "last_update": "2026-08-25T03:50:45.291518+00:00",
+  "last_update": "2026-08-25T04:39:50.596482+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15746,15 +15746,15 @@
     "total_files": 1160,
     "total_links": 194,
     "files_by_type": {
-      "image": 1077,
-      "video": 76,
+      "image": 1076,
+      "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1160,
     "existing_media_files": 1144,
-    "total_size_mb": 355.74,
-    "last_calculation": "2026-08-25T03:50:45.302242+00:00"
+    "total_size_mb": 356.75,
+    "last_calculation": "2026-08-25T04:39:50.603398+00:00"
   }
 }
