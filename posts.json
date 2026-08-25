@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 143820,
+        "text": "👈\nخبرگزاری ریانووستی:\nواشنگتن و تهران بر سر آتش‌بس توافق کرده‌اند؛ منابعی در ایران و پاکستان این موضوع را اعلام کردند.\n🔴\nاین آتش‌بس شامل آزادی کشتیرانی در تنگه هرمز خواهد بود.\n🔴\nانتظار می‌رود اعلام رسمی آتش‌بس طی روزهای آینده انجام شود.\n🔴\nپس از آن نیز مذاکرات و یک دور نشست‌های فنی برگزار خواهد شد.\n✅\n@AloNews",
+        "date": "2026-08-25T22:35:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143820_0_d0e6db98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143820"
+      },
+      {
+        "id": 143819,
+        "text": "👈\nطبق گزارش ها، رئیس سازمان سیا یک ضرب الاجل جدی به پوتین در مورد ادامه جنگ و بسیج 500 هزار سرباز جدید برای حمله به پایتخت اوکراین داده است که می‌تواند منجر به ورود مستقیم ناتو و امریکا به جنگ با روسیه شود.\n✅\n@AloNews",
+        "date": "2026-08-25T22:35:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_143819_0_d0e6db98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/143819"
+      },
+      {
         "id": 143818,
         "text": "👈\nنبویان: باید بریم تو باسن چین\n✅\n@AloNews",
         "date": "2026-08-25T22:16:19+00:00",
@@ -15714,60 +15744,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/143698"
-      },
-      {
-        "id": 143697,
-        "text": "👈\nمجموعه‌ای از انفجارهای اسرائیلی شهر \"المنصوری\" در جنوب لبنان را هدف قرار داد.\n✅\n@AloNews",
-        "date": "2026-08-25T10:54:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143697_0_d0e6db98.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_143697_1_b3d8f888.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143697"
-      },
-      {
-        "id": 143696,
-        "text": "👈\nفرهنگستان زبان و ادبیات پارسی  اعلام کرد: معادل فارسی واژه بیگانه «لانچر»،«پرتابگر» می باشد\n✅\n@AloNews",
-        "date": "2026-08-25T10:44:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_143696_0_d0e6db98.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/143696"
       }
     ]
   },
-  "last_update": "2026-08-25T22:27:37.364421+00:00",
+  "last_update": "2026-08-25T22:57:54.430873+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1163,
-    "total_files": 1163,
+    "total_media": 1162,
+    "total_files": 1162,
     "total_links": 194,
     "files_by_type": {
       "image": 1085,
-      "video": 71,
+      "video": 70,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1163,
-    "existing_media_files": 1147,
-    "total_size_mb": 282.53,
-    "last_calculation": "2026-08-25T22:27:37.375219+00:00"
+    "referenced_files": 1162,
+    "existing_media_files": 1146,
+    "total_size_mb": 278.41,
+    "last_calculation": "2026-08-25T22:57:54.444495+00:00"
   }
 }
