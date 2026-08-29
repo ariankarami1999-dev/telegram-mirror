@@ -13992,6 +13992,59 @@
     ],
     "alonews": [
       {
+        "id": 144480,
+        "text": "👈\nمجتبی ملکی، رئیس فدراسیون بدنسازی: مسعود ذات پرور یه اغتشاشگر بود و نباید ورزشکارها اونو تشویق یا عکسشو تو باشگاه بزارن!\n🔴\nجوابتون به این شخص کچل چاق چیه؟\n✅\n@AloNews",
+        "date": "2026-08-29T20:55:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_144480_0_a1518a03.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_144480_1_8f1fc883.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_144480_2_61153a95.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/144480"
+      },
+      {
+        "id": 144479,
+        "text": "👈\nبانک مرکزی امارات متحده عربی، بازرسی فوری از شعب بانک مصر در این کشور را اعلام کرد، این اقدام پس از آن صورت می‌گیرد که ایالات متحده تحریم‌های مرتبط با ایران را علیه فعالیت‌های این بانک در امارات متحده عربی اعمال کرده است\n✅\n@AloNews",
+        "date": "2026-08-29T20:47:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_144479_0_a1518a03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/144479"
+      },
+      {
+        "id": 144478,
+        "text": "👈\nوزیر علوم: خیلی از اساتیدِ اخراجی را که از کشور خارج شدند، نتوانستیم بازگردانیم\n✅\n@AloNews",
+        "date": "2026-08-29T20:33:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_144478_0_a1518a03.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/144478"
+      },
+      {
         "id": 144477,
         "text": "👈\nموسسه گلدمن ساکس: روزانه 15میلیون نفت از تنگه هرمز خارج میشود و فقط نفت ایران صادر نمیشود\n🔴\nایران با دست خود، خودش را محاصره کرد\n✅\n@AloNews",
         "date": "2026-08-29T20:17:00+00:00",
@@ -15677,75 +15730,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/144352"
-      },
-      {
-        "id": 144351,
-        "text": "👈\nگلوله‌باران توپخانه‌ای اسرائیل شهرک\nحاریس\nدر جنوب لبنان را هدف قرار داد.\n✅\n@AloNews",
-        "date": "2026-08-29T06:41:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_144351_0_a1518a03.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_144351_1_f13dea06.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/144351"
-      },
-      {
-        "id": 144350,
-        "text": "👈\nروزنامه معاریو به نقل از منبع سیاسی:\nنتانیاهو در قبال لبنان با احتیاط رفتار می‌کند تا ترامپ را خشمگین نکند\n🔴\nیک منبع سیاسی گفت: بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در قبال لبنان با احتیاط رفتار می‌کند تا دونالد ترامپ، رئیس‌جمهور آمریکا، را خشمگین نکند.\n✅\n@AloNews",
-        "date": "2026-08-29T06:24:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_144350_0_a1518a03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/144350"
-      },
-      {
-        "id": 144349,
-        "text": "👈\nوال استریت ژورنال: ترامپ به میانجی‌ها گفت هیچ علاقه‌ای به بازگشت به تفاهم‌نامه اسلام‌آباد ندارد\n✅\n@AloNews",
-        "date": "2026-08-29T06:23:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_144349_0_a1518a03.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/144349"
       }
     ]
   },
-  "last_update": "2026-08-29T20:22:01.698584+00:00",
+  "last_update": "2026-08-29T21:32:50.893441+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1162,
-    "total_files": 1162,
+    "total_media": 1163,
+    "total_files": 1163,
     "total_links": 191,
     "files_by_type": {
-      "image": 1077,
+      "image": 1078,
       "video": 78,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1162,
-    "existing_media_files": 1146,
-    "total_size_mb": 379.99,
-    "last_calculation": "2026-08-29T20:22:01.712371+00:00"
+    "referenced_files": 1163,
+    "existing_media_files": 1147,
+    "total_size_mb": 380.08,
+    "last_calculation": "2026-08-29T21:32:50.900466+00:00"
   }
 }
