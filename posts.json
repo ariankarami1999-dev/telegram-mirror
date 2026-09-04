@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 145658,
+        "text": "",
+        "date": "2026-09-04T22:19:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_145658_0_3b3cdaa0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/145658"
+      },
+      {
+        "id": 145657,
+        "text": "👈\nحمید رسایی:\nاگه اجازه بدن من فردا عازم لبنان میشم\n✅\n@AloNews",
+        "date": "2026-09-04T22:18:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_145657_0_3b3cdaa0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_145657_1_a1b4126a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/145657"
+      },
+      {
         "id": 145655,
         "text": "‏\n👈\nمعاون وزارت ارتباطات :\nحتی اگه جنگ بشه هم اینترنت قراره برقرار بمونه و همین که الان اینترنت وصله، نشون میده حاکمیت تصمیم جدی داره دسترسی مردم به شبکه ارتباطی کشور حفظ بشه\n✅\n@AloNews",
         "date": "2026-09-04T21:52:17+00:00",
@@ -15642,56 +15676,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/145522"
-      },
-      {
-        "id": 145521,
-        "text": "👈\nمنابع خبری گزارش دادند که بر اثر سقوط یک فروند هواپیمای کوچک در منطقه «هیلزبورو» در ایالت فلوریدای آمریکا، دو نفر جان خود را از دست داده‌اند\n✅\n@AloNews",
-        "date": "2026-09-04T07:27:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_145521_0_c67d3de8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/145521"
-      },
-      {
-        "id": 145520,
-        "text": "👈\nمسکو: همکاری با ما به پکن کمک کرد از بحران انرژی ناشی از بسته شدن هرمز عبور کند\n✅\n@AloNews",
-        "date": "2026-09-04T07:23:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_145520_0_c67d3de8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/145520"
       }
     ]
   },
-  "last_update": "2026-09-04T21:57:38.453079+00:00",
+  "last_update": "2026-09-04T23:47:20.292962+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1147,
-    "total_files": 1147,
+    "total_media": 1148,
+    "total_files": 1148,
     "total_links": 192,
     "files_by_type": {
-      "image": 1063,
+      "image": 1064,
       "video": 77,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1147,
-    "existing_media_files": 1131,
-    "total_size_mb": 337.19,
-    "last_calculation": "2026-09-04T21:57:38.463619+00:00"
+    "referenced_files": 1148,
+    "existing_media_files": 1132,
+    "total_size_mb": 337.27,
+    "last_calculation": "2026-09-04T23:47:20.302272+00:00"
   }
 }
