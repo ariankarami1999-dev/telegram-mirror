@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 145596,
+        "text": "👈\nترامپ:\nچپ‌های افراطی و دیوانه، دموکرات‌ها و کمونیست‌ها ترجیح می‌دهند ما در جنگ با ایران شکست بخوریم، تا اینکه دونالد ترامپ جنگ را برای آمریکا ببرد.\n🔴\nبه عبارت دیگر، آن‌ها ترجیح می‌دهند ما ببازیم تا اینکه پیروز شویم!\n🔴\nاین‌ها آدم‌های بسیار بیماری هستند که از TDS شدید رنج می‌برند؛ همان چیزی که گاهی از آن با عنوان سندرم جنون ترامپ یاد می‌شود.\n✅\n@AloNews",
+        "date": "2026-09-04T16:27:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_145596_0_3b3cdaa0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_145596_1_f3851a1d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/145596"
+      },
+      {
+        "id": 145595,
+        "text": "👈\nگزارش‌هایی مبنی بر پرتاب موشک از اصفهان منتشر شده است.\n✅\n@AloNews",
+        "date": "2026-09-04T16:02:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_145595_0_3b3cdaa0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_145595_1_aa002fa1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/145595"
+      },
+      {
         "id": 145594,
         "text": "👈\nبسنت: نفت ۴۰ دلار خواهد شد!\n🔴\nدر واقع فکر می‌کنم بعد از این، در بازار نفت با مازاد عرضه زیادی روبرو خواهیم شد. احتمالاً قیمت نفت خام را در محدوده ۴۰ تا ۵۰ دلار خواهیم دید.\n✅\n@AloNews",
         "date": "2026-09-04T15:18:50+00:00",
@@ -15648,48 +15686,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/145479"
-      },
-      {
-        "id": 145478,
-        "text": "👈\nتوئیت نتانیاهو پس از خبر تسلط بر ارتفاعات علی‌الطاهر: با ما درگیر نشوید!\n✅\n@AloNews",
-        "date": "2026-09-03T19:26:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_145478_0_1ad8c3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_145478_1_44353fc2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/145478"
-      },
-      {
-        "id": 145477,
-        "text": "👈\nحمله هوایی اسرائیل به روستای المنصوری جنوب لبنان\n✅\n@AloNews",
-        "date": "2026-09-03T19:23:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_145477_0_1ad8c3da.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_145477_1_0a3c1274.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/145477"
       }
     ]
   },
-  "last_update": "2026-09-04T15:42:45.048188+00:00",
+  "last_update": "2026-09-04T16:49:38.689572+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15697,15 +15697,15 @@
     "total_files": 1152,
     "total_links": 191,
     "files_by_type": {
-      "image": 1070,
-      "video": 75,
+      "image": 1069,
+      "video": 76,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1152,
     "existing_media_files": 1136,
-    "total_size_mb": 333.62,
-    "last_calculation": "2026-09-04T15:42:45.058503+00:00"
+    "total_size_mb": 334.78,
+    "last_calculation": "2026-09-04T16:49:38.703079+00:00"
   }
 }
