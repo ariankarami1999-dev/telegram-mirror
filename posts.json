@@ -13992,6 +13992,25 @@
     ],
     "alonews": [
       {
+        "id": 145824,
+        "text": "👈\nسلبریتی معروف لبنانی : مجتبی خامنه ای می‌خوام به شما بگم\nاینجا بیروت است نه تهران.\nهویت ما عربیه نه فارسی\n✅\n@AloNews",
+        "date": "2026-09-05T23:25:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_145824_0_07456a6e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_145824_1_3ca81cff.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/145824"
+      },
+      {
         "id": 145823,
         "text": "👈\nقیصر، خواننده که گفته بود جانفدا و عاشق نظام هستم بعد ۱ماهی که تو ایران بود دید نمیشه زندگی کرد و مجدد رفت خارج\n✅\n@AloNews",
         "date": "2026-09-05T22:54:07+00:00",
@@ -15715,29 +15734,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/145699"
-      },
-      {
-        "id": 145698,
-        "text": "👈\nتصویری از آتش‌سوزی روز گذشته کوچه برلن\n✅\n@AloNews",
-        "date": "2026-09-05T09:07:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_145698_0_3b3cdaa0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_145698_1_09ee3cef.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/145698"
       }
     ]
   },
-  "last_update": "2026-09-05T23:18:07.820340+00:00",
+  "last_update": "2026-09-06T01:18:34.315904+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15753,7 +15753,7 @@
     },
     "referenced_files": 1164,
     "existing_media_files": 1148,
-    "total_size_mb": 437.08,
-    "last_calculation": "2026-09-05T23:18:07.833819+00:00"
+    "total_size_mb": 428.25,
+    "last_calculation": "2026-09-06T01:18:34.330211+00:00"
   }
 }
