@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 146957,
+        "text": "👈\nترامپ: من رأی اعراب در میشیگان را به دست آوردم؛ اتفاقی که قبلاً هرگز رخ نداده بود.\n🔴\nرامنی فقط ۲ درصد رأی آن‌ها را گرفته بود و هنوز هم دنبال این هستند که بفهمند آن ۲ درصد چه کسانی بودند! هیچ‌کس نمی‌تواند پیدایشان کند.\n✅\n@AloNews",
+        "date": "2026-09-11T20:28:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_146957_0_10d3a8d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/146957"
+      },
+      {
+        "id": 146956,
+        "text": "👈\nالمیادین به نقل از یک منبع ارشد ایرانی: مذاکره تا زمان پذیرش شروط ایران امکان‌پذیر نیست\n✅\n@AloNews",
+        "date": "2026-09-11T20:26:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_146956_0_10d3a8d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/146956"
+      },
+      {
         "id": 146955,
         "text": "👈\nسنتکام: از آغاز محاصره علیه ایران، مسیر ۹۹ کشتی تجاری را تغییر دادیم\n✅\n@AloNews",
         "date": "2026-09-11T20:22:08+00:00",
@@ -15750,40 +15780,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/146793"
-      },
-      {
-        "id": 146792,
-        "text": "👈\nترامپ: دیشب ۲۲ قایق سپاه رو زدیم\n✅\n@AloNews",
-        "date": "2026-09-10T23:34:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_146792_0_10ba08c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/146792"
-      },
-      {
-        "id": 146791,
-        "text": "👈\nترامپ: بعد انتخابات جنگ رو تموم میکنم\n✅\n@AloNews",
-        "date": "2026-09-10T23:30:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_146791_0_10ba08c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/146791"
       }
     ]
   },
-  "last_update": "2026-09-11T20:25:41.354299+00:00",
+  "last_update": "2026-09-11T20:33:13.478398+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15800,6 +15800,6 @@
     "referenced_files": 1174,
     "existing_media_files": 1158,
     "total_size_mb": 417.67,
-    "last_calculation": "2026-09-11T20:25:41.368085+00:00"
+    "last_calculation": "2026-09-11T20:33:13.492375+00:00"
   }
 }
