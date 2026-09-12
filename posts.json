@@ -13992,6 +13992,29 @@
     ],
     "alonews": [
       {
+        "id": 146972,
+        "text": "👈\nوال‌استریت ژورنال به نقل از یک مقام آمریکایی:\n🔴\nحمله ایران که در ماه ژوئیه منجر به کشته شدن 3 سرباز آمریکایی شد، ایران از تصاویر ماهواره‌ای چینی با وضوح بالا استفاده کرد.\n✅\n@AloNews",
+        "date": "2026-09-12T01:48:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_146972_0_10d3a8d7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_146972_1_00f5a97d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_146972_2_2fcaa1fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/146972"
+      },
+      {
         "id": 146971,
         "text": "👈\nعراق مرز با ایران رو بسته و هیچ ترددی رو اجازه نمیده انجام بشه\n✅\n@AloNews",
         "date": "2026-09-12T00:24:36+00:00",
@@ -15737,41 +15760,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/146813"
-      },
-      {
-        "id": 146812,
-        "text": "👈\nفایننشال تایمز: ایران و کشورهای خلیج فارس روز دوشنبه در عمان درباره تنگه هرمز مذاکره می‌کنند\n✅\n@AloNews",
-        "date": "2026-09-11T06:29:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_146812_0_10ba08c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/146812"
       }
     ]
   },
-  "last_update": "2026-09-12T00:58:43.297543+00:00",
+  "last_update": "2026-09-12T02:50:20.220469+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1167,
-    "total_files": 1167,
+    "total_media": 1169,
+    "total_files": 1169,
     "total_links": 192,
     "files_by_type": {
-      "image": 1066,
+      "image": 1068,
       "video": 94,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1167,
-    "existing_media_files": 1151,
-    "total_size_mb": 421.55,
-    "last_calculation": "2026-09-12T00:58:43.311503+00:00"
+    "referenced_files": 1169,
+    "existing_media_files": 1153,
+    "total_size_mb": 421.7,
+    "last_calculation": "2026-09-12T02:50:20.228606+00:00"
   }
 }
