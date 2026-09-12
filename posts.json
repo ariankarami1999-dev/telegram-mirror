@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 147025,
+        "text": "👈\nهر یک دلار به 237,500 تومان رسید...\n✅\n@AloNews",
+        "date": "2026-09-12T09:54:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147025_0_10d3a8d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147025"
+      },
+      {
+        "id": 147023,
+        "text": "👈\nیک تانکر نفتی متعلق به چین که در تنگه هرمز حضور داشت، تلاش کرد تا از این تنگه از سمت ایران عبور کند، اما سپس مسیر خود را تغییر داد و به عقب بازگشت\n✅\n@AloNews",
+        "date": "2026-09-12T09:41:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147023_0_10d3a8d7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147023_1_ba8fe79e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147023_2_5b599abd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147023"
+      },
+      {
         "id": 147022,
         "text": "👈\nمقام‌های عراقی گذرگاه چذابه در استان خوزستان را تا اطلاع ثانوی بستند. پیش از این نیز گذرگاه شلمچه از سوی عراق مسدود شده بود\n✅\n@AloNews",
         "date": "2026-09-12T09:36:50+00:00",
@@ -15728,48 +15766,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/146899"
-      },
-      {
-        "id": 146898,
-        "text": "👈\nوزیر خزانه‌داری آمریکا: ایرانی‌ها در تلاش‌اند تا در آمریکا مشکلات اقتصادی ایجاد کنند\n🔴\nاگر به حساب‌های کاربری ایرانی‌ها در توییتر نگاه کنید، می‌بینید آن‌ها تلاش می‌کنند در آمریکا مشکلات اقتصادی به وجود آورند؛ چه از طریق تغییر نرخ بازده اوراق قرضه و چه با دستکاری قیمت نفت.\n🔴\nرسانه‌هایی مثل بلومبرگ، فایننشال‌تایمز و وال‌استریت‌ژورنال تا حدی به «سندرم اختلال ترامپ» (حمله به سیاست‌های ترامپ) مبتلا شده‌اند که حاضرند به ایرانی‌ها تریبون بدهند تا علیه ما مانور بدهند.\n✅\n@AloNews",
-        "date": "2026-09-11T13:58:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_146898_0_10d3a8d7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_146898_1_5ef7b192.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/146898"
-      },
-      {
-        "id": 146897,
-        "text": "👈\nپزشکیان با نخست‌وزیر هند دیدار کرد\n✅\n@AloNews",
-        "date": "2026-09-11T13:55:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_146897_0_10d3a8d7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_146897_1_50c5d3aa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/146897"
       }
     ]
   },
-  "last_update": "2026-09-12T09:37:05.969887+00:00",
+  "last_update": "2026-09-12T10:01:38.533018+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15777,15 +15777,15 @@
     "total_files": 1172,
     "total_links": 191,
     "files_by_type": {
-      "image": 1063,
-      "video": 102,
+      "image": 1064,
+      "video": 101,
       "file": 5,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1172,
     "existing_media_files": 1156,
-    "total_size_mb": 441.23,
-    "last_calculation": "2026-09-12T09:37:05.983769+00:00"
+    "total_size_mb": 438.45,
+    "last_calculation": "2026-09-12T10:01:38.547024+00:00"
   }
 }
