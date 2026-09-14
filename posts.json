@@ -13992,6 +13992,181 @@
     ],
     "alonews": [
       {
+        "id": 147317,
+        "text": "👈\nترامپ:\nایرانی‌ها با کمبود سوخت مواجه هستند.\n✅\n@AloNews",
+        "date": "2026-09-13T22:56:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147317_0_3532256f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147317_1_053cba76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147317"
+      },
+      {
+        "id": 147316,
+        "text": "👈\nخبرنگار: ممکن است نهادهای چینی تصاویر ماهواره‌ای در اختیار ایرانی‌ها گذاشته باشند.\n🔴\nترامپ: آن‌ها در واقع همان کاری را می‌کنند که ما انجام می‌دهیم. به نظرم او معقول عمل کرد و ما هم معقول رفتار کردیم.\n✅\n@AloNews",
+        "date": "2026-09-13T22:46:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147316_0_3532256f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147316"
+      },
+      {
+        "id": 147315,
+        "text": "👈\n‏\nجنگ نزدیکه\n‼️\n🔴\nقیمت هر بشکه نفت به ۱۰۸ دلار رسید\n✅\n@AloNews",
+        "date": "2026-09-13T22:29:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147315_0_3532256f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147315_1_932176b5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147315"
+      },
+      {
+        "id": 147311,
+        "text": "👈\nتصاویری از حملات موشکی ایران\n✅\n@AloNews",
+        "date": "2026-09-13T22:17:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147311_0_3532256f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_147311_1_6727de63.mp4"
+          },
+          {
+            "type": "video",
+            "file": "alonews_147311_2_aa59fecc.mp4"
+          },
+          {
+            "type": "video",
+            "file": "alonews_147311_3_a0c9ca84.mp4"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147311_4_5f0905e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147311"
+      },
+      {
+        "id": 147309,
+        "text": "👈\nتصاویری از موشک شلیک شده به سمت تنگه هرمز\n✅\n@AloNews",
+        "date": "2026-09-13T22:12:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147309_0_3532256f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_147309_1_857255fb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147309"
+      },
+      {
+        "id": 147308,
+        "text": "🔴\nفوری/شلیک موشک از ایران\n✅\n@AloNews",
+        "date": "2026-09-13T22:08:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147308_0_3532256f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147308"
+      },
+      {
+        "id": 147307,
+        "text": "👈\nوقتی یه ایتایی تریاکی رو میبری توییتر\n✅\n@AloNews",
+        "date": "2026-09-13T22:04:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147307_0_3532256f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147307_1_0cea13d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147307"
+      },
+      {
+        "id": 147306,
+        "text": "👈\nگویا قالیباف از سمت مسئول ویژه جمهوری اسلامی در امور چین برکنار و مخبر جایگزین وی شده\n✅\n@AloNews",
+        "date": "2026-09-13T21:40:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147306_0_3532256f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147306_1_90778da9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147306"
+      },
+      {
+        "id": 147305,
+        "text": "👈\nقیمت اولیه آیفون 18 از 665 میلیون شروع میشه و تا یک میلیارد هم‌میرسه.\n🔴\nآیفون تاشو هم از یک میلیارد شروع میشه\n✅\n@AloNews",
+        "date": "2026-09-13T21:38:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147305_0_3532256f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147305_1_174d7259.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147305"
+      },
+      {
         "id": 147304,
         "text": "👈\nترامپ به نزدیکانش گفته باید یبارم به ایران حمله کنم احتمالا برنامش برای تاسیسات هسته ایه\n✅\n@AloNews",
         "date": "2026-09-13T21:09:03+00:00",
@@ -15559,193 +15734,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/147186"
-      },
-      {
-        "id": 147185,
-        "text": "👈\nاحمد اروزان کارشناس ترک: خلبانان اسرائیلی برای حمله به ایران در قونیه ترکیه تمرین میکردند!\n✅\n@AloNews",
-        "date": "2026-09-13T09:25:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147185_0_3532256f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_147185_1_7e47da8d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147185"
-      },
-      {
-        "id": 147184,
-        "text": "👈\nربات‌های نمازخون در عربستان\n!\n✅\n@AloNews",
-        "date": "2026-09-13T09:06:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147184_0_3532256f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_147184_1_26dd9f1b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147184"
-      },
-      {
-        "id": 147183,
-        "text": "👈\nرئیس کمیسیون امنیت ملی به حسن روحانی: تقاضای برخورد با ایشان را به دستگاه قضایی ارسال کردیم\n✅\n@AloNews",
-        "date": "2026-09-13T08:57:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147183_0_3532256f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147183"
-      },
-      {
-        "id": 147181,
-        "text": "👈\nحملات هوایی اسرائیل ارتفاعات\nعلی‌الطاهر\nدر جنوب لبنان را هدف قرار دادند.\n✅\n@AloNews",
-        "date": "2026-09-13T08:52:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147181_0_3532256f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_147181_1_36ff18cf.mp4"
-          },
-          {
-            "type": "image",
-            "file": "alonews_147181_2_d9179c33.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147181"
-      },
-      {
-        "id": 147180,
-        "text": "👈\nتنبیه عجیب دو راننده جوان که با صدای موسوم به کاتاف در نیمه شب برای مردم شهر تبریز مزاحمت ایجاد می‌کردند\n✅\n@AloNews",
-        "date": "2026-09-13T08:48:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147180_0_3532256f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_147180_1_15671d6a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147180"
-      },
-      {
-        "id": 147179,
-        "text": "👈\nبلومبرگ: بسیاری از ذخایر نفتی که در روز‌های نخست جنگ به کاهش شدت کمبود عرضه انرژی در جهان کمک کرده بودند، اکنون رو به اتمام هستند\n🔴\nذخایر نفت آمریکا به شدت کاهش یافته\n✅\n@AloNews",
-        "date": "2026-09-13T08:44:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147179_0_3532256f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147179"
-      },
-      {
-        "id": 147160,
-        "text": "👈\nکانال ۱۲اسرائیل: ترامپ به بن سلمان گفته مسئله شما با ایران به ما ربطی نداره و خودتون باید مشکل رو حل کنید\n✅\n@AloNews",
-        "date": "2026-09-13T07:06:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147160_0_0bd6722f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_147160_1_337b1b51.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147160"
-      },
-      {
-        "id": 147159,
-        "text": "👈\nبلومبرگ:از شروع جنگ علیه ایران درآمد روزانه سوپر تانکرها از ۲۱۸ هزار دلار به ۷۸۶ هزار دلار رسیده است.\n✅\n@AloNews",
-        "date": "2026-09-13T07:03:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147159_0_0bd6722f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_147159_1_bb955c26.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147159"
-      },
-      {
-        "id": 147158,
-        "text": "👈\nپخش زنده فاکس نیوز از به پرواز درآمدن جنگنده‌ها از ناو هواپیمابر یواس‌اس جورج واشینگتن در منطقه عملیاتی سنتکام\n✅\n@AloNews",
-        "date": "2026-09-13T06:53:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147158_0_0bd6722f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_147158_1_c59429cb.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147158"
       }
     ]
   },
-  "last_update": "2026-09-13T21:37:44.982895+00:00",
+  "last_update": "2026-09-14T00:04:14.025418+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1159,
-    "total_files": 1159,
+    "total_media": 1161,
+    "total_files": 1161,
     "total_links": 193,
     "files_by_type": {
-      "image": 1070,
-      "video": 82,
+      "image": 1073,
+      "video": 81,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1159,
-    "existing_media_files": 1143,
-    "total_size_mb": 404.13,
-    "last_calculation": "2026-09-13T21:37:44.996383+00:00"
+    "referenced_files": 1161,
+    "existing_media_files": 1145,
+    "total_size_mb": 380.28,
+    "last_calculation": "2026-09-14T00:04:14.034814+00:00"
   }
 }
