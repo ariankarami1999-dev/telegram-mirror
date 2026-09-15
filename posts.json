@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 147516,
+        "text": "👈\nتصاویر ماهواره‌ای نشان می‌دهند که یک آتش‌سوزی ناگهانی در یک مجتمع نفتی در شهرینبع، عربستان سعودی، رخ داده است. این آتش‌سوزی از طریق برج‌های احتراق رخ داده و شدت آن حدود ۴ برابر حد معمول بوده است\n✅\n@AloNews",
+        "date": "2026-09-15T07:15:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147516_0_c1179db6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_147516_1_91e56e4f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147516"
+      },
+      {
+        "id": 147515,
+        "text": "💢\nرو کدوم سرمایه گذاری میکنید؟\nدلار\n.\nطلا\n.\nملک",
+        "date": "2026-09-15T07:10:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147515_0_c1179db6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147515"
+      },
+      {
+        "id": 147514,
+        "text": "👈\nسخنگوی دولت: مصوبۀ حذف سهمیۀ بنزین خودروهای نوشمارۀ بالای یک میلیارد بازنگری می‌شود\n✅\n@AloNews",
+        "date": "2026-09-15T07:08:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147514_0_c1179db6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147514"
+      },
+      {
         "id": 147513,
         "text": "👈\nاحمد البطش معروف به «ابو اسامه»، فرمانده یک گردان در تیپ شمال نوار غزه وابسته به شاخه نظامی حماس، در حمله ارتش اسرائیل به یک خودرو در شمال شهر غزه کشته شد\n✅\n@AloNews",
         "date": "2026-09-15T06:53:55+00:00",
@@ -15685,79 +15734,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/147373"
-      },
-      {
-        "id": 147372,
-        "text": "👈\nنمودار نوسان قیمت نفت برنت در ساعات اخیر\n✅\n@AloNews",
-        "date": "2026-09-14T10:33:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147372_0_c1179db6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_147372_1_3affeb54.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147372"
-      },
-      {
-        "id": 147371,
-        "text": "👈\nحمله افراد لباس شخصی و آتش به اختیار به یک رستوران در رشت به نام « سحرخیزان » و تخریب رستوران به بهانه حجاب⁩⁩\n✅\n@AloNews",
-        "date": "2026-09-14T10:27:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147371_0_c1179db6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_147371_1_f93a4973.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147371"
-      },
-      {
-        "id": 147370,
-        "text": "👈\nمعاون هماهنگی توزیع شرکت توانیر: در صورت رفع ناترازی برق؛ از ابتدای هفته آینده قطعی برق نخواهیم داشت\n✅\n@AloNews",
-        "date": "2026-09-14T10:17:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147370_0_c1179db6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147370"
       }
     ]
   },
-  "last_update": "2026-09-15T07:07:52.851075+00:00",
+  "last_update": "2026-09-15T07:16:51.791637+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1159,
-    "total_files": 1159,
+    "total_media": 1158,
+    "total_files": 1158,
     "total_links": 195,
     "files_by_type": {
       "image": 1083,
-      "video": 69,
+      "video": 68,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1159,
-    "existing_media_files": 1143,
-    "total_size_mb": 303.28,
-    "last_calculation": "2026-09-15T07:07:52.864673+00:00"
+    "referenced_files": 1158,
+    "existing_media_files": 1142,
+    "total_size_mb": 295.63,
+    "last_calculation": "2026-09-15T07:16:51.805928+00:00"
   }
 }
