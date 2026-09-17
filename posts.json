@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 147838,
+        "text": "👈\nعارف: از مردم عذرخواهی می‌کنیم شرمنده‌ایم که امروز دخل و خرج مردم با هم نمی‌خواند\n✅\n@AloNews",
+        "date": "2026-09-17T07:14:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147838_0_1559423c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_147838_1_f15f7175.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147838"
+      },
+      {
+        "id": 147837,
+        "text": "👈\nترامپ: جنگ روسیه و اوکراین به‌زودی تمام می‌شود\n✅\n@AloNews",
+        "date": "2026-09-17T07:08:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_147837_0_1559423c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/147837"
+      },
+      {
         "id": 147836,
         "text": "این استوری یکی از اعضای کادر درمان در مورد زگیل تناسلی(HPV) هست که میگه: زگیل تناسلی به قدری تو کشور بین جوونا زیاد شده که وزارت بهداشت دستور داده فقط تایپ های خطرناک رو گزارش کنیم و بقیه رو منفی گزارش بدیم.  [@AloTweet]|",
         "date": "2026-09-17T07:04:39+00:00",
@@ -15708,56 +15742,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/147700"
-      },
-      {
-        "id": 147699,
-        "text": "👈\nبرخورد ناوهای هند و پاکستان در آب‌های بین‌المللی\n🔴\nیک ناو نیروی دریایی پاکستان در شمال دریای عرب با یک ناو جنگی هند که در حال گشت‌زنی بود، برخورد کرد. هند در پی این حادثه، دیپلمات ارشد پاکستان را احضار و نسبت به رفتار «غیرقابل قبول و غیرحرفه‌ای» نیروهای دریایی این کشور اعتراض کرد.\n✅\n@AloNews",
-        "date": "2026-09-16T11:22:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147699_0_1559423c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147699"
-      },
-      {
-        "id": 147698,
-        "text": "👈\nرویترز: مقامات آمریکایی این هفته در عمان با نمایندگان گروه حوثی دیدار کردند.\n✅\n@AloNews",
-        "date": "2026-09-16T11:18:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147698_0_1559423c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147698"
       }
     ]
   },
-  "last_update": "2026-09-17T07:04:50.990944+00:00",
+  "last_update": "2026-09-17T07:15:13.215706+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1162,
-    "total_files": 1162,
+    "total_media": 1163,
+    "total_files": 1163,
     "total_links": 193,
     "files_by_type": {
       "image": 1073,
-      "video": 82,
+      "video": 83,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1162,
-    "existing_media_files": 1146,
-    "total_size_mb": 411.09,
-    "last_calculation": "2026-09-17T07:04:51.009057+00:00"
+    "referenced_files": 1163,
+    "existing_media_files": 1147,
+    "total_size_mb": 414.14,
+    "last_calculation": "2026-09-17T07:15:13.229507+00:00"
   }
 }
