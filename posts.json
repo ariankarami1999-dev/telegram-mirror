@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 148059,
+        "text": "👈\nوزیر کشور پاکستان طی ساعات آینده دوباره به تهران می‌‌آید\n✅\n@AloNews",
+        "date": "2026-09-18T15:55:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148059_0_d8391f29.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148059"
+      },
+      {
         "id": 148058,
         "text": "👈\nدبیرکل شورای همکاری خلیج فارس:\nما تجاوزات مداوم ایران علیه کشورهای همسایه و تشدید و هرج و مرجی که دامن می‌زند را محکوم می‌کنیم.\n✅\n@AloNews",
         "date": "2026-09-18T15:45:33+00:00",
@@ -15697,45 +15712,26 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/alonews/147914"
-      },
-      {
-        "id": 147913,
-        "text": "👈\n۹ جنگنده F-16 دیگر آمریکا دقایقی پیش از اروپا راهی خاورمیانه شدند\n✅\n@AloNews",
-        "date": "2026-09-17T16:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_147913_0_b19e4de5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_147913_1_e9deec6a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/147913"
       }
     ]
   },
-  "last_update": "2026-09-18T15:46:00.568226+00:00",
+  "last_update": "2026-09-18T15:58:01.494596+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1155,
-    "total_files": 1155,
+    "total_media": 1154,
+    "total_files": 1154,
     "total_links": 194,
     "files_by_type": {
-      "image": 1076,
+      "image": 1075,
       "video": 72,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1155,
-    "existing_media_files": 1139,
-    "total_size_mb": 325.66,
-    "last_calculation": "2026-09-18T15:46:00.578855+00:00"
+    "referenced_files": 1154,
+    "existing_media_files": 1138,
+    "total_size_mb": 325.51,
+    "last_calculation": "2026-09-18T15:58:01.507978+00:00"
   }
 }
