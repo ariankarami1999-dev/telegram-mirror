@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 148143,
+        "text": "👈\nمولوی عبدالحمید: اگه حکومت حرف مردمو گوش میداد شرایط اینجوری نمیشد\n✅\n@AloNews",
+        "date": "2026-09-19T06:55:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148143_0_d8391f29.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148143"
+      },
+      {
+        "id": 148142,
+        "text": "👈\nمقامات ارشد دولت ترامپ می‌گویند که رئیس‌جمهور در جریان نشست مجمع عمومی سازمان ملل در نیویورک، با بنیامین نتانیاهو، دیدار نخواهد کرد!!\n✅\n@AloNews",
+        "date": "2026-09-19T06:39:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148142_0_d8391f29.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148142"
+      },
+      {
         "id": 148141,
         "text": "👈\nعضو دفتر سیاسی جنبش انصارالله: ملت یمن با هرگونه آتش‌بس یا کاهش تنش، تا زمانی که عربستان محاصره یمن را رفع نکند، موافقت نخواهد کرد\n✅\n@AloNews",
         "date": "2026-09-19T06:32:15+00:00",
@@ -15684,60 +15714,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/148007"
-      },
-      {
-        "id": 148006,
-        "text": "👈\nفایننشال تایمز: ونزوئلا ۴ میلیارد دلار ذخایر طلای خود را به آمریکا منتقل می‌کند\n✅\n@AloNews",
-        "date": "2026-09-18T10:02:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_148006_0_d8391f29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/148006"
-      },
-      {
-        "id": 148005,
-        "text": "‏\n👈\nغریب‌آبادی: آمریکا نمی‌تواند با خروج از شورای حقوق بشر از زیر بار مسئولیت خود شانه خالی کند\n‏\n🔴\nمعاون وزیر خارجه: تاریخ فراموش نخواهد کرد؛ در میناب، مدرسه‌ای به خون ۱۶۸ کودک آغشته شد و در لامرد، زمین ورزشی به کشتارگاه غیرنظامیان بدل گردید.\n‏\n🔴\nاکنون همگان اذعان دارند که وقایع میناب و لامرد، نه یک خطای عملیاتی، بلکه جنایت جنگی آشکاری بود\n‏\n🔴\nآمریکا نمی‌تواند با خروج از شورای حقوق بشر، از زیر بار مسئولیت خود شانه خالی کند.\n✅\n@AloNews",
-        "date": "2026-09-18T09:57:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_148005_0_d8391f29.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_148005_1_73c95dd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/148005"
       }
     ]
   },
-  "last_update": "2026-09-19T06:33:46.825366+00:00",
+  "last_update": "2026-09-19T06:59:13.556347+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1156,
+    "total_files": 1156,
     "total_links": 193,
     "files_by_type": {
-      "image": 1076,
+      "image": 1075,
       "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 318.02,
-    "last_calculation": "2026-09-19T06:33:46.839020+00:00"
+    "referenced_files": 1156,
+    "existing_media_files": 1140,
+    "total_size_mb": 317.96,
+    "last_calculation": "2026-09-19T06:59:13.569785+00:00"
   }
 }
