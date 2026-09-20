@@ -13992,6 +13992,40 @@
     ],
     "alonews": [
       {
+        "id": 148299,
+        "text": "",
+        "date": "2026-09-19T22:31:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148299_0_6dd0049a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148299"
+      },
+      {
+        "id": 148298,
+        "text": "👈\nافرایش شاخص سفارش پیتزا اطراف پنتاگون.\n✅\n@AloNews",
+        "date": "2026-09-19T22:29:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148298_0_6dd0049a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_148298_1_41c38f6d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148298"
+      },
+      {
         "id": 148297,
         "text": "🔴\nفووووووووووووووووووووری",
         "date": "2026-09-19T22:26:28+00:00",
@@ -15632,56 +15666,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/148170"
-      },
-      {
-        "id": 148169,
-        "text": "👈\nان بی‌سی: روبیو، وزیر خارجه آمریکا برخلاف ونس، از قرار گرفتن در کانون توجهات درباره جنگ نامحبوب ایران اجتناب کرده؛ این فاصله ممکن است از نظر سیاسی به سود او باشد\n🔴\nروبیو در تمام مدت این جنگ، یک «دست پنهان» بوده؛ او به تدوین راهبرد دولت ترامپ کمک کرده\n🔴\nبه گفته افراد نزدیک به وی، نامزدی احتمالی او برای ریاست‌جمهوری می‌تواند روی میز باشد\n✅\n@AloNews",
-        "date": "2026-09-19T09:49:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_148169_0_6dd0049a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/148169"
-      },
-      {
-        "id": 148168,
-        "text": "👈\nسفیر آمریکا در سازمان ملل: محور سخنرانی ترامپ در نشست سالانه مجمع عمومی سازمان ملل در هفته آینده، ایران است\n✅\n@AloNews",
-        "date": "2026-09-19T09:44:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_148168_0_6dd0049a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/148168"
       }
     ]
   },
-  "last_update": "2026-09-19T22:27:21.880451+00:00",
+  "last_update": "2026-09-20T00:18:58.023097+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1143,
-    "total_files": 1143,
+    "total_media": 1144,
+    "total_files": 1144,
     "total_links": 193,
     "files_by_type": {
-      "image": 1066,
+      "image": 1067,
       "video": 70,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1143,
-    "existing_media_files": 1127,
-    "total_size_mb": 314.67,
-    "last_calculation": "2026-09-19T22:27:21.888493+00:00"
+    "referenced_files": 1144,
+    "existing_media_files": 1128,
+    "total_size_mb": 314.75,
+    "last_calculation": "2026-09-20T00:18:58.037135+00:00"
   }
 }
