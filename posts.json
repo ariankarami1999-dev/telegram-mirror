@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 148653,
+        "text": "👈\nوزیر خزانه داری آمریکا:\nبا چین درباره ایران مذاکرات پشت‌پرده داشته‌ایم\n✅\n@AloNews",
+        "date": "2026-09-21T22:04:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148653_0_3d27c942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148653"
+      },
+      {
         "id": 148652,
         "text": "👈\nهم اکنون قدرت‌نمایی جنگنده های ارتش بر فراز آسمان تهران\n✅\n@AloNews",
         "date": "2026-09-21T21:36:59+00:00",
@@ -15638,25 +15653,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/148472"
-      },
-      {
-        "id": 148471,
-        "text": "👈\nترامپ: بزودی همه چیز مشخص خواهد شد\n✅\n@AloNews",
-        "date": "2026-09-20T21:33:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_148471_0_e619bcd2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/148471"
       }
     ]
   },
-  "last_update": "2026-09-21T21:40:07.474463+00:00",
+  "last_update": "2026-09-21T22:10:48.190126+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15673,6 +15673,6 @@
     "referenced_files": 1141,
     "existing_media_files": 1125,
     "total_size_mb": 278.42,
-    "last_calculation": "2026-09-21T21:40:07.488611+00:00"
+    "last_calculation": "2026-09-21T22:10:48.203189+00:00"
   }
 }
