@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 148857,
+        "text": "🔴\nفوری و رسمی/از همین الان محاصره هوایی ایران اجرایی شد\n🔴\nهیچ پرواز خارجی‌ای انجام نمیشود\n✅\n@AloNews",
+        "date": "2026-09-22T20:42:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148857_0_185f5fa9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148857"
+      },
+      {
+        "id": 148856,
+        "text": "تابستون هم تموم شد، ولی داغ دی ماه هیچوقت تموم نمیشه.  [@AloTweet]",
+        "date": "2026-09-22T20:36:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148856_0_185f5fa9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148856"
+      },
+      {
+        "id": 148855,
+        "text": "👈\nرسما وارد پاییز شدیم\n✅\n@AloNews",
+        "date": "2026-09-22T20:31:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_148855_0_185f5fa9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/148855"
+      },
+      {
         "id": 148854,
         "text": "👈\nترامپ: ما به دنبال جایگزین برای حکومت ایران نیستیم\n✅\n@AloNews",
         "date": "2026-09-22T20:28:01+00:00",
@@ -15587,75 +15632,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/148699"
-      },
-      {
-        "id": 148679,
-        "text": "👈\nعربستان از فعال‌شدن هشدار حملات هوایی در منطقهٔ نجران خبر داد\n✅\n@AloNews",
-        "date": "2026-09-22T07:14:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_148679_0_3d27c942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/148679"
-      },
-      {
-        "id": 148678,
-        "text": "👈\nپزشکیان: دشمن در تلاش است تا تمام راه‌های هوایی‌ و زمینی را بر ایران ببندد تا ما را مجبور به تسلیم کند ولی نمی‌داند ما تسلیم زورگویی دشمنان نمی‌شویم\n✅\n@AloNews",
-        "date": "2026-09-22T07:12:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_148678_0_3d27c942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/148678"
-      },
-      {
-        "id": 148677,
-        "text": "👈\nسی‌ان‌ان\n:\nهم‌پیمانان ترامپ از کشورهای حوزه خلیج فارس، روز سه‌شنبه در نیویورک با او دیدار خواهند کرد.\n🔴\nنگرانی‌های آن‌ها دوگانه است: اول، ترس از تشدید تنش‌ها؛ و دوم، ناتوانی در محافظت از شهروندان آمریکایی.\n🔴\nآن‌ها قبلاً ترامپ را متقاعد کردند که از یک اقدام نظامی بزرگ خودداری کند، و این بار، از اینکه به یک جنگ عمیق‌تر کشیده شوند، در حالی که واشنگتن به دنبال راهی برای خروج از این وضعیت است، نگران هستند\n✅\n@AloNews",
-        "date": "2026-09-22T07:07:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_148677_0_3d27c942.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_148677_1_41864690.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/148677"
       }
     ]
   },
-  "last_update": "2026-09-22T20:29:28.291863+00:00",
+  "last_update": "2026-09-22T20:50:34.267332+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1138,
-    "total_files": 1138,
+    "total_media": 1137,
+    "total_files": 1137,
     "total_links": 192,
     "files_by_type": {
-      "image": 1049,
+      "image": 1048,
       "video": 82,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1138,
-    "existing_media_files": 1122,
-    "total_size_mb": 342.43,
-    "last_calculation": "2026-09-22T20:29:28.305084+00:00"
+    "referenced_files": 1137,
+    "existing_media_files": 1121,
+    "total_size_mb": 342.38,
+    "last_calculation": "2026-09-22T20:50:34.280664+00:00"
   }
 }
