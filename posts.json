@@ -13992,6 +13992,51 @@
     ],
     "alonews": [
       {
+        "id": 150330,
+        "text": "👈\nآتش‌سوزی مهیب در گمرک اسلام قلعه؛ ۲۰ کامیون در آتش سوختند\n🔴\nیک حادثه در گمرک اسلام قلعه به‌سرعت به حریقی گسترده تبدیل شد و ده‌ها خودروی سنگین را درگیر کرد؛ آتش از یک تانکر حامل سوخت آغاز شد و در ادامه حدود ۲۰ کامیون طعمه حریق شدند.\n✅\n@AloNews",
+        "date": "2026-09-30T22:53:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150330_0_6b1c655a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150330"
+      },
+      {
+        "id": 150329,
+        "text": "👈\nیک جانفدا: اصلااااا مهم نیست گرونیا، گشنگی هم مهم نیست، رهبرمون هرچی بگه همونه\n✅\n@AloNews",
+        "date": "2026-09-30T22:07:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150329_0_6b1c655a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150329"
+      },
+      {
+        "id": 150328,
+        "text": "👈\nترامپ: ایران نباید سلاح هسته‌ای داشته باشه\n✅\n@AloNews",
+        "date": "2026-09-30T21:55:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150328_0_6b1c655a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150328"
+      },
+      {
         "id": 150327,
         "text": "👈\nترامپ : الان تنگه هرمز را در دستمونه، عملاً اونو اداره می‌کنیم و کنترل کامل در دست ماست؛ البته می‌دانم که این وضعیت همیشه می‌تواند تغییر کند. کافی است یک مین بندازند؛بنابراین اگر واقعاً مین باشه، شرکتها حاضر نیستند کشتی‌های یک میلیارد دلاری خودشونو از تنگه هرمز عبور بدن. اما دوباره تأکید می‌کنم ، الان نفت بیشتری از تنگه در حال خروج است.\n✅\n@AloNews",
         "date": "2026-09-30T21:47:35+00:00",
@@ -15663,75 +15708,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/150129"
-      },
-      {
-        "id": 150128,
-        "text": "👈\nایلان ماسک:\nهوش مصنوعی در آینده خیلی به نفع مردم قراره باشه، بخصوص باعث میشه درآمد مردم بدون کار کردن هم افزایش پیدا کنه.\n✅\n@AloNews",
-        "date": "2026-09-29T22:22:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150128_0_867c505b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150128"
-      },
-      {
-        "id": 150127,
-        "text": "👈\nتتر 258 هزار تومان\n‼️\n✅\n@AloNews",
-        "date": "2026-09-29T21:57:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150127_0_867c505b.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_150127_1_7c7bb27d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150127"
-      },
-      {
-        "id": 150126,
-        "text": "‏\n👈\nوال استریت ژورنال:\nبه احتمال زیاد به زودی سپاه برای بازپسگیری کنترل تنگه هرمز حملات پیش‌دستانه علیه آمریکا را آغاز کند.\n✅\n@AloNews",
-        "date": "2026-09-29T21:25:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150126_0_867c505b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150126"
       }
     ]
   },
-  "last_update": "2026-09-30T21:54:35.431786+00:00",
+  "last_update": "2026-10-01T00:46:17.681850+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1157,
-    "total_files": 1157,
+    "total_media": 1156,
+    "total_files": 1156,
     "total_links": 192,
     "files_by_type": {
       "image": 1075,
-      "video": 75,
+      "video": 74,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1157,
-    "existing_media_files": 1141,
-    "total_size_mb": 316.46,
-    "last_calculation": "2026-09-30T21:54:35.445535+00:00"
+    "referenced_files": 1156,
+    "existing_media_files": 1140,
+    "total_size_mb": 314.42,
+    "last_calculation": "2026-10-01T00:46:17.695160+00:00"
   }
 }
