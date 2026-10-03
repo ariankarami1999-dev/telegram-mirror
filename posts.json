@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 150728,
+        "text": "👈\nوزارت امور خارجه روسیه از دیپلمات‌ها و شهروندان خارجی خواسته است که شهر کی‌یف، پایتخت اوکراین، را ترک کنند و در آنجا نمانند.\n✅\n@AloNews",
+        "date": "2026-10-03T11:11:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150728_0_aeb5c8aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150728"
+      },
+      {
         "id": 150727,
         "text": "دلار هر ۵۰هزار که بالا میره یه خواننده میارن\nرو ۱۵۰قیصر اوردن\nرو۲۰۰ نامجو اوردن\nرو ۲۵۰ بیژن اوردن\nرو ۳۰۰ معین میاد\nرو ۴۰۰ داریوش\n[\n@AloTweet\n]",
         "date": "2026-10-03T11:05:32+00:00",
@@ -15695,45 +15710,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/150568"
-      },
-      {
-        "id": 150567,
-        "text": "👈\nجنگ زمینی تو راه ایران؟\n🔴\nارتش آمریکا رسماً گفته نیروهای خنثی‌سازی هسته‌ای همراه رنجرهای هنگ 75، یه تمرین برای تصرف و پاک‌سازی یه تأسیسات هسته‌ای زیرزمینی انجام دادن\n✅\n@AloNews",
-        "date": "2026-10-02T10:40:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150567_0_d016fc29.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_150567_1_436b12ba.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150567"
       }
     ]
   },
-  "last_update": "2026-10-03T11:05:40.261630+00:00",
+  "last_update": "2026-10-03T11:13:12.142899+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1156,
-    "total_files": 1156,
+    "total_media": 1155,
+    "total_files": 1155,
     "total_links": 193,
     "files_by_type": {
       "image": 1076,
-      "video": 73,
+      "video": 72,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1156,
-    "existing_media_files": 1140,
-    "total_size_mb": 317.06,
-    "last_calculation": "2026-10-03T11:05:40.270480+00:00"
+    "referenced_files": 1155,
+    "existing_media_files": 1139,
+    "total_size_mb": 312.78,
+    "last_calculation": "2026-10-03T11:13:12.156405+00:00"
   }
 }
