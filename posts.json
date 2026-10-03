@@ -13992,6 +13992,55 @@
     ],
     "alonews": [
       {
+        "id": 150774,
+        "text": "👈\nبه گزارش نیروهای دفاعی اسرائیل (IDF)، دیروز دست کم هشت سرباز اسرائیلی به طور جزئی مجروح شدند، زمانی که دو خودروی نظامی در نزدیکی روستای \"راب الثلثین\" در جنوب لبنان با یکدیگر برخورد کردند.\n🔴\nشش سرباز به بیمارستان منتقل شدند، در حالی که ارتش اعلام کرد که شرایط مربوط به این حادثه در حال بررسی است\n✅\n@AloNews",
+        "date": "2026-10-03T15:30:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150774_0_aeb5c8aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150774"
+      },
+      {
+        "id": 150773,
+        "text": "👈\nحمله موشکی بالستیک عربستان سعودی به زیرساخت‌های مخابراتی در منطقه مجز، واقع در استان صعده، در شمال غربی یمن که تحت کنترل جنبش حوثی‌ها است\n✅\n@AloNews",
+        "date": "2026-10-03T15:26:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150773_0_aeb5c8aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150773"
+      },
+      {
+        "id": 150772,
+        "text": "👈\nتصاویری نزدیک از آتش‌سوزی گسترده در پالایشگاه سعودی آرامکو در ریاض، حومه جنوبی شهر ریاض، در مرکز عربستان سعودی\n✅\n@AloNews",
+        "date": "2026-10-03T15:18:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150772_0_aeb5c8aa.jpg"
+          },
+          {
+            "type": "video",
+            "file": "alonews_150772_1_d2c54f3b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150772"
+      },
+      {
         "id": 150771,
         "text": "👈\nاز دقایقی پیش به دستور بانک مرکزی،\nنمایش نمودار قیمت تتر، دلار آنلاین در صرافی‌ها متوقف شد.\n✅\n@AloNews",
         "date": "2026-10-03T15:03:40+00:00",
@@ -15651,71 +15700,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/150610"
-      },
-      {
-        "id": 150609,
-        "text": "👈\nوکیل: الناز شاکر دوست به یک سال حبس تعزیری و محرومیت از فعالیت‌های سیاسی، مجازی و هنری محکوم شد\n🔴\nپ.ن : الناز شاکردوست به علت انتشار استوری حمایتی از وقایع ۱۸ و ۱۹ دی به یکسال حبس تعزیری و دوسال محرومیت بازیگری، محکوم شده\n✅\n@AloNews",
-        "date": "2026-10-02T15:48:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150609_0_d016fc29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150609"
-      },
-      {
-        "id": 150608,
-        "text": "👈\nبیانیه دولت عراق: برای انجام روزانه ۴۰ پرواز از مبدأ و به مقصد فرودگاه نجف توسط شرکت‌های هواپیمایی ایرانی، به‌جز ماهان، معافیت دریافت کردیم\n✅\n@AloNews",
-        "date": "2026-10-02T15:37:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150608_0_d016fc29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150608"
-      },
-      {
-        "id": 150607,
-        "text": "👈\nوزیر خارجه عراق: بغداد آماده میانجیگری میان آمریکا و ایران است\n✅\n@AloNews",
-        "date": "2026-10-02T15:34:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150607_0_d016fc29.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150607"
       }
     ]
   },
-  "last_update": "2026-10-03T15:18:00.418876+00:00",
+  "last_update": "2026-10-03T15:40:40.058329+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1153,
-    "total_files": 1153,
+    "total_media": 1154,
+    "total_files": 1154,
     "total_links": 192,
     "files_by_type": {
       "image": 1072,
-      "video": 74,
+      "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1153,
-    "existing_media_files": 1137,
-    "total_size_mb": 319.01,
-    "last_calculation": "2026-10-03T15:18:00.432587+00:00"
+    "referenced_files": 1154,
+    "existing_media_files": 1138,
+    "total_size_mb": 320.29,
+    "last_calculation": "2026-10-03T15:40:40.072352+00:00"
   }
 }
