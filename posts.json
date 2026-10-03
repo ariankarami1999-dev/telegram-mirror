@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 150661,
+        "text": "🔥\nقیمتارو شکوندیم!\nورود به ربات و دریافت ۲۰ هزار تومن هدیه\nمولتی هوشمند\nلیت\n|\n۳۰٪ تخفیف\n۳۵+ لوکیشن • ۱۳۰+ لینک پرسرعت • IP ثابت\n▶️\nیوتوب\nو\nساندکلاد\nبدون تبلیغات\n🔥\nفیلیمو، فیلم‌نت و نماوا رایگان\n🔥\nآی‌پی ثابت برای ترید و اینستا و یوتوب\n🎮\nسرور\nگیمینگ\nپینگ بسیار پایین\n🎁\nکد تخفیف\n:\nLIT200K\nاول رایگان تست کن، بعد انتخاب کن.\n🔥\nربات تست رایگان و کانفیگ:\n@\nlitvpn_bot\n❤️\nربات مخصوص\nهمکاران\n:\n@litpanel_bot\n❤️\nپشتیبانی\n۲۴ ساعته:\n@mahan_lit\n.",
+        "date": "2026-10-02T22:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150661_0_d016fc29.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_150661_1_313f4c80.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150661"
+      },
+      {
+        "id": 150660,
+        "text": "👈\nعوستاد خوش چشم: رقابت سنگینی بین ایران و آمریکا سر ابرقدرتی هست\n✅\n@AloNews",
+        "date": "2026-10-02T22:03:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_150660_0_d016fc29.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_150660_1_bfc5c970.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/150660"
+      },
+      {
         "id": 150659,
         "text": "👈\nسایت رسمی استارلینک نحوه عملکرد استارلینک موبایل رو توضیح داده و گفته ماهواره‌ها بعنوان دکل عمل میکنن و هیچ نیازی به دکل زمینی یا تجهیزات اضافه نیست!\n✅\n@AloNews",
         "date": "2026-10-02T21:35:33+00:00",
@@ -15666,60 +15704,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/150519"
-      },
-      {
-        "id": 150504,
-        "text": "👈\nترامپ: ایران رادارهای پیشرفته‌ای ندارد و گاهی اوقات سعی می‌کند مین‌های دریایی کار بگذارد، اما ما معمولاً آنها را قبل از اینکه بتوانند مستقر شوند، از بین می‌بریم.\n✅\n@AloNews",
-        "date": "2026-10-02T03:50:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150504_0_a810cdd2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150504"
-      },
-      {
-        "id": 150503,
-        "text": "👈\nدونالد ترامپ: رهبران و رؤسای‌جمهور ایران دیگر در میان ما نیستند، اما ما تلاش می‌کنیم با فرد فعلی [در رأس حکومت] با ملایمت برخورد کنیم.\n🔴\nبالاخره یک زمانی باید با یک نفر وارد مذاکره و تعامل شویم، درست است؟\n🔴\nاما ما نمی‌دانیم پس از رفتن اکثر رهبران ایران، با چه کسی در این کشور طرف هستیم.\n✅\n@AloNews",
-        "date": "2026-10-02T03:40:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150503_0_a810cdd2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "alonews_150503_1_e2c2bf43.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150503"
       }
     ]
   },
-  "last_update": "2026-10-02T21:48:21.964264+00:00",
+  "last_update": "2026-10-03T00:14:03.581864+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1154,
-    "total_files": 1154,
+    "total_media": 1155,
+    "total_files": 1155,
     "total_links": 192,
     "files_by_type": {
-      "image": 1073,
-      "video": 74,
+      "image": 1075,
+      "video": 73,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1154,
-    "existing_media_files": 1138,
-    "total_size_mb": 383.18,
-    "last_calculation": "2026-10-02T21:48:21.977469+00:00"
+    "referenced_files": 1155,
+    "existing_media_files": 1139,
+    "total_size_mb": 379.44,
+    "last_calculation": "2026-10-03T00:14:03.595327+00:00"
   }
 }
