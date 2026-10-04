@@ -13992,6 +13992,36 @@
     ],
     "alonews": [
       {
+        "id": 151004,
+        "text": "👈\nآکسیوس: آمریکا باز هم درخواست عربستان برای شرکت در عملیات علیه یمن را رد کرد\n✅\n@AloNews",
+        "date": "2026-10-04T20:33:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_151004_0_b1d97186.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/151004"
+      },
+      {
+        "id": 151003,
+        "text": "👈\nسردار فدوی: ایران و عمان بر تنگه هرمز حاکم هستند و قوانین تنگه هرمز را ما می نویسیم و در حال اجرا است\n✅\n@AloNews",
+        "date": "2026-10-04T20:27:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_151003_0_b1d97186.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/151003"
+      },
+      {
         "id": 151002,
         "text": "👈\nوال استریت ژورنال: آمریکا تمامی بمب‌افکن‌های B-۱ خود را از پایگاه هوایی RAF Fairford در بریتانیا خارج کرده است؛ مقام‌های آمریکایی روز یکشنبه گفتند این تصمیم در پی نگرانی‌های امنیتی درباره طرح‌های احتمالی علیه این تأسیسات اتخاذ شده است\n✅\n@AloNews",
         "date": "2026-10-04T20:20:58+00:00",
@@ -15672,40 +15702,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/150855"
-      },
-      {
-        "id": 150854,
-        "text": "👈\nترامپ : راستی، ما تقریباً هیچ تورمی نداریم.»\n✅\n@AloNews",
-        "date": "2026-10-04T06:23:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150854_0_b1d97186.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150854"
-      },
-      {
-        "id": 150851,
-        "text": "👈\nرئیس‌جمهور الجزایر: برای هرگونه میانجی‌گری در موضوع تنگه هرمز آمادگی داریم\n✅\n@AloNews",
-        "date": "2026-10-04T06:04:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150851_0_b1d97186.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150851"
       }
     ]
   },
-  "last_update": "2026-10-04T20:26:53.342802+00:00",
+  "last_update": "2026-10-04T20:51:13.673469+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
@@ -15722,6 +15722,6 @@
     "referenced_files": 1150,
     "existing_media_files": 1134,
     "total_size_mb": 369.86,
-    "last_calculation": "2026-10-04T20:26:53.356230+00:00"
+    "last_calculation": "2026-10-04T20:51:13.684514+00:00"
   }
 }
