@@ -13992,6 +13992,21 @@
     ],
     "alonews": [
       {
+        "id": 151013,
+        "text": "👈\nبر اساس تصاویر منتشرشده در شبکه‌های اجتماعی، کمبود گاز مایع در خاش واقع در سیستان و بلوچستان بار دیگر موجب تشکیل صف‌های طولانی مردم برای دریافت کپسول‌های گاز شده است. این وضعیت تامین یکی از نیازهای پایه و اساسی خانوارها در این منطقه را با چالش مواجه کرده است.\n✅\n@AloNews",
+        "date": "2026-10-05T03:45:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_151013_0_b1d97186.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/151013"
+      },
+      {
         "id": 151012,
         "text": "🟡\nطلای ۱۸ عیار: 26,327,800  تومان\n🔻\nحباب طلا ۱۸ عیار: -1.89% ______________________\n🟡\nطلای دست دوم: 25,976,804  تومان\n🟡\nتتر: 268,950  تومان\n🟡\nیورو: 302,960  تومان\n🟡\nهر گرم نقره: 549,720  تومان\n🟡\nسکه امامی: 271,075,000  تومان\n🟡\nنیم سکه: 142,610,000  تومان\n🟡\nربع سکه:…",
         "date": "2026-10-04T22:15:21+00:00",
@@ -15687,45 +15702,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/150863"
-      },
-      {
-        "id": 150862,
-        "text": "👈\nیک هواپیمای نظامی فرانسوی مدل A400M در پایگاه العدید در قطر فرود آمد.\n✅\n@AloNews",
-        "date": "2026-10-04T06:47:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_150862_0_b1d97186.jpg"
-          },
-          {
-            "type": "image",
-            "file": "alonews_150862_1_1b9fcf72.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/150862"
       }
     ]
   },
-  "last_update": "2026-10-05T02:22:15.115273+00:00",
+  "last_update": "2026-10-05T03:48:06.653316+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1151,
-    "total_files": 1151,
+    "total_media": 1150,
+    "total_files": 1150,
     "total_links": 195,
     "files_by_type": {
-      "image": 1073,
+      "image": 1072,
       "video": 71,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1151,
-    "existing_media_files": 1135,
-    "total_size_mb": 324.57,
-    "last_calculation": "2026-10-05T02:22:15.128562+00:00"
+    "referenced_files": 1150,
+    "existing_media_files": 1134,
+    "total_size_mb": 324.55,
+    "last_calculation": "2026-10-05T03:48:06.666777+00:00"
   }
 }
