@@ -13992,6 +13992,44 @@
     ],
     "alonews": [
       {
+        "id": 151371,
+        "text": "👈\nونس: ایران باید برای پایان دادن به جنگ، توانایی‌های غنی‌سازی اورانیوم خود را کاهش دهد\n🔴\nمشخص نیست ایران چگونه تصمیمات خود را می‌گیرد\n✅\n@AloNews",
+        "date": "2026-10-06T22:44:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_151371_0_5783ef8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/151371"
+      },
+      {
+        "id": 151370,
+        "text": "👈\nاستوری حامد بهداد در حمایت از مهشاد کشانی و جاویدنام علیرضا سپاهی\n✅\n@AloNews",
+        "date": "2026-10-06T22:25:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "alonews_151370_0_5783ef8e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_151370_1_1a99083c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "alonews_151370_2_ea57b493.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/alonews/151370"
+      },
+      {
         "id": 151369,
         "text": "‏\n👈\nترامپ :\nرژیم ایران باید مدت‌ها پیش نابود می‌شد، زیرا با گذشت زمان، مقابله با آن دشوارتر شده است.\n✅\n@AloNews",
         "date": "2026-10-06T22:14:43+00:00",
@@ -15684,56 +15722,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/alonews/151198"
-      },
-      {
-        "id": 151197,
-        "text": "👈\nاکسیوس: اظهارات رئیس‌جمهور آمریکا درباره علت خروج ۱۲ بمب‌افکن B-1 از پایگاه فیرفورد، با آنچه وزیر خارجه او گفته، در تضاد است\n🔴\nروبیو این جابه‌جایی را معمول و دوره‌ای توصیف کرده، اما ترامپ می‌گوید اقدام مذکور به دلیل وجود تهدید امنیتی از سوی ایران انجام شده\n✅\n@AloNews",
-        "date": "2026-10-06T06:26:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_151197_0_5783ef8e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/151197"
-      },
-      {
-        "id": 151196,
-        "text": "👈\nرئیس سازمان وظیفه عمومی فراجا: خرید خدمت نداریم، اما معافیت ۳ و ۴ فرزندی همچنان پا برجاست\n✅\n@AloNews",
-        "date": "2026-10-06T06:21:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "alonews_151196_0_5783ef8e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/alonews/151196"
       }
     ]
   },
-  "last_update": "2026-10-06T22:19:03.267749+00:00",
+  "last_update": "2026-10-06T23:38:46.366155+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 911,
-    "total_media": 1153,
-    "total_files": 1153,
+    "total_media": 1155,
+    "total_files": 1155,
     "total_links": 195,
     "files_by_type": {
-      "image": 1071,
+      "image": 1073,
       "video": 75,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1153,
-    "existing_media_files": 1137,
-    "total_size_mb": 361.0,
-    "last_calculation": "2026-10-06T22:19:03.275805+00:00"
+    "referenced_files": 1155,
+    "existing_media_files": 1139,
+    "total_size_mb": 361.05,
+    "last_calculation": "2026-10-06T23:38:46.379672+00:00"
   }
 }
